@@ -661,3 +661,43 @@ E em janeiro você já vai saber exatamente para onde está indo cada real. 💙
 title="Comece 2027 com o dinheiro _organizado._",
 sub="Leva 3 minutos e é grátis para começar."),
 ]
+
+EXTRA = [
+
+P("2026-10-02", "frase", "Pra pensar",
+"""Pergunta rápida para a sua sexta-feira: 🤔
+
+Você sabe quanto gastou esta semana?
+
+Não precisa ser o valor exato. Só um chute.
+
+Se veio um "sei lá" na cabeça, você não está sozinho. A maioria das pessoas só descobre quando a fatura chega. E aí já foi.
+
+Saber para onde vai o dinheiro é o primeiro passo para decidir para onde você quer que ele vá. 💙
+
+Chuta aí nos comentários quanto você acha que gastou. 👇
+""", ["org", "vida"],
+title="Você sabe quanto gastou _esta semana?_",
+sub="Chuta um valor. Se veio um “sei lá”, o Wally resolve isso."),
+
+P("2026-10-05", "dica", "Primeiros passos",
+"""Quer organizar o dinheiro mas não sabe por onde começar? 🧭
+
+Esquece planilha complicada. Comece por aqui:
+
+1️⃣ Anote tudo o que gastar por 30 dias, até o cafezinho
+2️⃣ No fim do mês, veja quais categorias pesaram mais
+3️⃣ Escolha só uma para ajustar no mês seguinte
+4️⃣ Defina um limite para ela e acompanhe
+
+Um passo de cada vez funciona muito melhor do que tentar mudar tudo de uma vez.
+
+E para o passo 1, o Wally deixa tudo a uma mensagem de distância. 😉
+
+""" + SALVE, ["org", "vida"],
+title="Por onde começar a _organizar o dinheiro_",
+items=["**Anote tudo** o que gastar por 30 dias",
+       "Veja quais **categorias pesaram mais**",
+       "Escolha **só uma** para ajustar",
+       "Defina um **limite** e acompanhe"]),
+]

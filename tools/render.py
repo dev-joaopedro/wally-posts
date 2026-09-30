@@ -188,7 +188,7 @@ def page(inner):
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>{inner}</body></html>'
 
 def main():
-    posts = json.loads((ROOT / "posts.json").read_text())
+    posts = json.loads((ROOT / "posts.json").read_text()) + (json.loads((ROOT / "posts-extra.json").read_text()) if (ROOT / "posts-extra.json").exists() else [])
     only = set(sys.argv[1:])
     out = ROOT / "img"  # PNGs; convertidos para posts/*.jpg; out.mkdir(exist_ok=True)
     with sync_playwright() as pw:
