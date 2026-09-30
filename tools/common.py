@@ -29,5 +29,5 @@ def card(icon, name, cat, amt, inc=False, badge=None):
     return ("card", v)
 
 
-LINK = "👉 Crie sua conta grátis: link na bio."
+LINK = "\n👉 Crie sua conta grátis: link na bio."
 SALVE = "💾 Salve este post para consultar depois."
