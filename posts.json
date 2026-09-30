@@ -1,0 +1,2278 @@
+[
+ {
+  "d": "2026-10-05",
+  "t": "frase",
+  "tag": "Prazer, Wally",
+  "caption": "Prazer, eu sou o Wally! 👋\n\nNasci para resolver um problema que quase todo mundo tem: saber para onde o dinheiro está indo sem perder horas com planilhas.\n\nComigo funciona assim:\n💬 Você manda uma mensagem no Telegram, tipo \"gastei 35 no almoço\"\n🤖 A IA entende, categoriza e registra na hora\n📊 Tudo aparece no seu painel, com gráficos, orçamentos e metas\n\nPor aqui você vai encontrar dicas de finanças, truques para economizar e o Wally na prática.\n\nSegue o perfil e vem organizar o dinheiro com a gente.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Seu dinheiro sob controle, _sem esforço nenhum._",
+  "sub": "Conheça o Wally: o app que organiza suas finanças a partir de uma simples mensagem.",
+  "id": "001-2026-10-05"
+ },
+ {
+  "d": "2026-10-07",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Registrar um gasto nunca foi tão rápido. ⚡\n\nNada de abrir app, escolher categoria e preencher formulário. No Wally você só manda uma mensagem no Telegram, do jeito que você falaria com um amigo:\n\n💬 \"Gastei 35 reais no almoço\"\n💬 \"Recebi 2200 de freela hoje\"\n\nA IA entende o valor, identifica se é gasto ou receita, escolhe a categoria e salva. Você recebe a confirmação na hora, e tudo já aparece no seu painel.\n\nMenos de 5 segundos por lançamento. Assim fica fácil manter o controle todo dia.\n\nO bot do Telegram faz parte do plano Pro.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Mandou, _registrou._",
+  "msgs": [
+   [
+    "u",
+    "Gastei 35 reais no almoço"
+   ],
+   [
+    "card",
+    {
+     "icon": "🍔",
+     "name": "Almoço",
+     "cat": "Alimentação · Hoje",
+     "amt": "35,00",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "Recebi 2200 de freela hoje"
+   ],
+   [
+    "card",
+    {
+     "icon": "💼",
+     "name": "Freelance",
+     "cat": "Rendimentos · Hoje",
+     "amt": "2.200,00",
+     "inc": true
+    }
+   ]
+  ],
+  "id": "002-2026-10-07"
+ },
+ {
+  "d": "2026-10-09",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Seu mês inteiro em uma tela. 📊\n\nNo painel do Wally você vê de cara:\n✅ Seu saldo atual e a comparação com o mês anterior\n✅ Quanto entrou, quanto saiu e quanto sobrou\n✅ O fluxo de receitas e despesas dos últimos 6 meses\n✅ Para onde foi cada real, separado por categoria\n\nNada de juntar extrato, somar na calculadora ou montar gráfico na mão. Você registra e o Wally organiza.\n\nE o painel está no plano gratuito. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Tudo o que importa, _num painel só._",
+  "img": "dash-top",
+  "id": "003-2026-10-09"
+ },
+ {
+  "d": "2026-10-12",
+  "t": "dica",
+  "tag": "Dia das Crianças",
+  "caption": "Feliz Dia das Crianças! 🧸\n\nQue tal um presente que dura a vida toda? Aprender a lidar com dinheiro desde cedo faz muita diferença lá na frente.\n\nAlgumas ideias para começar:\n1️⃣ Dê uma mesada fixa, com dia certo, adequada à idade\n2️⃣ Use três potinhos: um para gastar, um para guardar e um para doar\n3️⃣ Deixe a criança escolher e, às vezes, errar. Faz parte do aprendizado\n4️⃣ Mostre como você compara preços no mercado\n\nEducação financeira começa pelo exemplo. 💙\n\nVocê recebia mesada quando era criança? Conta aqui nos comentários!\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Ensinar dinheiro também é _presente._",
+  "items": [
+   "Dê uma **mesada fixa**, com dia certo e valor adequado à idade",
+   "Use **3 potinhos**: gastar, guardar e doar",
+   "Deixe a criança **escolher e errar**. Faz parte do aprendizado",
+   "Mostre como você **compara preços** no mercado"
+  ],
+  "id": "004-2026-10-12"
+ },
+ {
+  "d": "2026-10-14",
+  "t": "dica",
+  "tag": "Primeiros passos",
+  "caption": "Começar a organizar as finanças leva menos de 3 minutos. ⏱️\n\n1️⃣ Crie sua conta grátis. Não pede cartão de crédito.\n2️⃣ Cadastre sua conta ou cartão principal.\n3️⃣ Registre seu primeiro gasto, pelo app ou pelo Telegram no plano Pro.\n\nPronto! A partir daí o Wally organiza tudo em categorias e mostra no painel para onde está indo o seu dinheiro.\n\nO segredo não é fazer tudo perfeito no primeiro dia. É começar. 🚀\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Comece em _3 passos._",
+  "items": [
+   "**Crie sua conta grátis.** Não pede cartão de crédito",
+   "**Cadastre** sua conta ou cartão principal",
+   "**Registre** seu primeiro gasto e veja o painel ganhar vida"
+  ],
+  "id": "005-2026-10-14"
+ },
+ {
+  "d": "2026-10-16",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Controlar gastos é coisa de quem ganha pouco.\"\n\n❌ MITO!\n\nOrganização financeira não tem a ver com o tamanho do salário, e sim com o que você faz com ele. Tem muita gente com renda alta que vive no aperto, porque o padrão de vida cresce junto com o salário.\n\nSaber para onde vai cada real é o que permite fazer escolhas: viajar, trocar de carro, montar uma reserva ou simplesmente dormir tranquilo.\n\nVocê já acreditou nesse mito? 👇\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Controlar gastos é coisa de _quem ganha pouco?_",
+  "mito": "Só precisa controlar gastos quem ganha pouco.",
+  "verdade": "Quanto mais você ganha, mais fácil é o dinheiro **escapar sem você perceber**. Controle é para todo mundo.",
+  "id": "006-2026-10-16"
+ },
+ {
+  "d": "2026-10-19",
+  "t": "destaque",
+  "tag": "Dica de finanças",
+  "caption": "Já ouviu falar da regra 50-30-20? 📐\n\nÉ um jeito simples de dividir o que você ganha:\n\n🏠 50% para necessidades: aluguel, contas, mercado, transporte\n🎉 30% para desejos: lazer, restaurantes, compras\n💰 20% para o futuro: reserva de emergência, investimentos, quitar dívidas\n\nNão precisa seguir à risca. Os números servem de ponto de partida para você ajustar à sua realidade.\n\nNo Wally você acompanha quanto está indo para cada categoria e percebe rapidinho se algum lado está pesando demais.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #reservadeemergencia #poupar #investimentos",
+  "big": "50·30·20",
+  "text": "**50%** necessidades · **30%** desejos · **20%** futuro. Um ponto de partida simples para dividir o que você ganha.",
+  "id": "007-2026-10-19"
+ },
+ {
+  "d": "2026-10-21",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "\"Quanto eu ainda posso gastar este mês?\" 🤔\n\nEssa é a pergunta que o card Quanto posso gastar responde por você.\n\nO Wally olha para os seus orçamentos e para o que você já gastou e mostra:\n💰 Quanto ainda sobra no mês\n📅 Quanto dá para gastar por dia até o fim do mês\n📏 Uma barra de quanto do limite você já usou\n\nÉ o jeito mais simples de não chegar no fim do mês no vermelho.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Quanto posso gastar _hoje?_",
+  "sub": "O Wally faz a conta por você, com o valor disponível por dia até o fim do mês.",
+  "img": "posso-gastar",
+  "w": 720,
+  "id": "008-2026-10-21"
+ },
+ {
+  "d": "2026-10-23",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Pergunta sincera: você sabe quanto gastou com delivery este mês? 🛵\n\nA maioria das pessoas chuta um valor bem menor do que o real. Pedidos pequenos, taxa de entrega e gorjeta vão se somando sem a gente perceber.\n\nNão é para cortar o delivery. É para decidir com consciência se ele merece esse espaço no seu orçamento.\n\nResponde aqui: quanto você acha que gastou? Depois confere e conta se chegou perto. 👇\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Você sabe quanto gastou com _delivery_ este mês?",
+  "sub": "Chute um valor e depois confira. A diferença costuma surpreender.",
+  "id": "009-2026-10-23"
+ },
+ {
+  "d": "2026-10-26",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Os gastos invisíveis são os que mais pesam no fim do mês. 👻\n\nEles são pequenos, frequentes e passam despercebidos:\n\n1️⃣ Assinaturas que você nem usa mais\n2️⃣ Tarifas bancárias e anuidade de cartão\n3️⃣ Delivery e taxas de entrega\n4️⃣ O cafezinho e o lanche de todo dia\n5️⃣ Juros de parcelamento e de atraso\n\nUm bom exercício: registre tudo durante 30 dias, até os gastos de R$ 5. No fim do mês, olhe as categorias e veja o que te surpreendeu.\n\nCom o Wally no Telegram, registrar um cafezinho leva 3 segundos. ☕\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "5 gastos _invisíveis_ que pesam no mês",
+  "items": [
+   "**Assinaturas** que você nem usa mais",
+   "**Tarifas** bancárias e anuidade de cartão",
+   "**Delivery** e taxas de entrega",
+   "O **cafezinho** e o lanche de todo dia",
+   "**Juros** de parcelamento e de atraso"
+  ],
+  "id": "010-2026-10-26"
+ },
+ {
+  "d": "2026-10-28",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Não precisa decorar nenhum formato. 😌\n\nVocê escreve do seu jeito e a IA do Wally entende:\n💬 \"uber 15,50\"\n💬 \"padaria pão de ouro 20 reais\"\n💬 \"academia mensal 89.90\"\n\nVírgula, ponto, com \"reais\" ou sem, tanto faz. O Wally identifica valor, descrição e categoria e registra tudo certinho.\n\nE se quiser conferir o mês, é só mandar /saldo. 📊\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Escreva _do seu jeito._",
+  "msgs": [
+   [
+    "u",
+    "uber 15,50"
+   ],
+   [
+    "card",
+    {
+     "icon": "🚗",
+     "name": "Uber",
+     "cat": "Transporte · Hoje",
+     "amt": "15,50",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "academia mensal 89.90"
+   ],
+   [
+    "card",
+    {
+     "icon": "🏋️",
+     "name": "Academia",
+     "cat": "Saúde · Hoje",
+     "amt": "89,90",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "011-2026-10-28"
+ },
+ {
+  "d": "2026-10-30",
+  "t": "comp",
+  "tag": "Planilha x Wally",
+  "caption": "Planilha ou Wally? 🥊\n\nA planilha funciona, até o dia em que você esquece de atualizar. E aí vira aquele arquivo abandonado no Drive. 😅\n\nNo Wally:\n✅ Você registra por mensagem, em segundos\n✅ A categoria é escolhida automaticamente\n✅ Gráficos e relatórios ficam prontos sozinhos\n✅ Você acompanha tudo pelo celular\n\nQual você usa hoje? Conta aqui! 👇\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Planilha _x_ Wally",
+  "left": [
+   "Planilha",
+   [
+    "Abrir o arquivo toda vez",
+    "Categorizar na mão",
+    "Montar gráfico sozinho",
+    "Esquecer de atualizar"
+   ]
+  ],
+  "right": [
+   "Wally",
+   [
+    "Registrar por mensagem",
+    "Categoria automática",
+    "Gráficos prontos",
+    "Tudo no celular"
+   ]
+  ],
+  "id": "012-2026-10-30"
+ },
+ {
+  "d": "2026-11-02",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Reserva de emergência: por onde começar? 🛟\n\nEla é o dinheiro que te protege dos imprevistos, como um conserto do carro, um problema de saúde ou a perda do emprego, sem precisar recorrer a empréstimo ou cheque especial.\n\nPasso a passo:\n1️⃣ Descubra seu custo de vida mensal\n2️⃣ Defina um alvo. É comum mirar de 3 a 6 meses de custo de vida\n3️⃣ Comece pequeno: separar um valor fixo todo mês já conta\n4️⃣ Deixe o dinheiro num lugar seguro e com resgate rápido\n\nNo Wally você cria uma meta de reserva e acompanha o progresso a cada depósito. 🎯\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Reserva de emergência: _por onde começar_",
+  "items": [
+   "Descubra seu **custo de vida** mensal",
+   "Defina um alvo: é comum mirar em **3 a 6 meses** desse custo",
+   "Comece pequeno: **um valor fixo todo mês** já conta",
+   "Guarde num lugar **seguro e com resgate rápido**"
+  ],
+  "id": "013-2026-11-02"
+ },
+ {
+  "d": "2026-11-04",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Sabe aquela compra no cartão que \"some\" do controle? 💳\n\nNo Wally, cada compra no cartão de crédito conta no mês em que você paga a fatura, e não no mês em que passou o cartão.\n\nExemplo:\n🛒 Compra no dia 23/09\n📅 Fatura vence em 05/10\n➡️ No Wally, ela entra nas contas de outubro\n\nAssim seu painel mostra o dinheiro que realmente sai da conta em cada mês. E, na lista de transações, as compras aparecem agrupadas por fatura, com a data real de cada uma.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Compra no cartão conta _no mês que você paga._",
+  "items": [
+   "Você compra no dia **23/09**",
+   "A fatura vence em **05/10**",
+   "No Wally, a compra entra nas contas de **outubro**, o mês em que o dinheiro sai de verdade"
+  ],
+  "id": "014-2026-11-04"
+ },
+ {
+  "d": "2026-11-06",
+  "t": "cta",
+  "tag": "Plano Pro",
+  "caption": "Conheça o Wally Pro. 💙\n\nPor R$ 19,90 por mês você desbloqueia tudo:\n🤖 Bot com IA no Telegram, para registrar gastos por mensagem\n💳 Várias contas e cartões numa visão só\n📊 Relatórios avançados\n📥 Exportação para Excel, uma mão na roda no Imposto de Renda\n⭐ Suporte prioritário\n\nNão quer assinar agora? Sem problema: o plano gratuito tem painel completo, histórico e relatórios básicos.\n\nSe assinar e desistir em até 7 dias, o cancelamento é imediato.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Tudo o que o Wally faz, _por R$ 19,90._",
+  "price": true,
+  "feats": [
+   "Bot com IA no Telegram",
+   "Várias contas e cartões",
+   "Relatórios avançados",
+   "Exportação para Excel"
+  ],
+  "button": "Assinar o Pro",
+  "id": "015-2026-11-06"
+ },
+ {
+  "d": "2026-11-09",
+  "t": "dica",
+  "tag": "Black Friday",
+  "caption": "A Black Friday está chegando, e o melhor momento para se preparar é agora. 🛍️\n\n1️⃣ Faça uma lista do que você realmente precisa\n2️⃣ Defina um valor máximo e não passe dele\n3️⃣ Anote os preços de hoje para comparar no dia\n4️⃣ Pesquise a reputação da loja antes de comprar\n5️⃣ Veja se as parcelas cabem nos próximos meses\n\nDesconto bom é o de algo que você já ia comprar. Compra por impulso com desconto continua sendo compra por impulso. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #economizar #economia #dinheiro",
+  "title": "Black Friday: _planeje antes._",
+  "items": [
+   "Faça uma **lista** do que você realmente precisa",
+   "Defina um **valor máximo** e não passe dele",
+   "**Anote os preços** de hoje para comparar no dia",
+   "Pesquise a **reputação** da loja",
+   "Veja se as **parcelas cabem** nos próximos meses"
+  ],
+  "id": "016-2026-11-09"
+ },
+ {
+  "d": "2026-11-11",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Para onde foi o seu dinheiro este mês? 🧐\n\nNo Wally, a resposta está a um toque. O painel separa suas despesas por categoria e mostra quanto cada uma pesou no mês:\n\n🏠 Moradia\n🍽️ Alimentação\n🛍️ Compras\n🚗 Transporte\n…e todas as categorias que você quiser criar.\n\nQuando você vê os números lado a lado, fica muito mais fácil decidir onde ajustar.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Para onde foi _seu dinheiro?_",
+  "sub": "Suas despesas separadas por categoria, com o peso de cada uma no mês.",
+  "img": "categorias",
+  "w": 700,
+  "id": "017-2026-11-11"
+ },
+ {
+  "d": "2026-11-13",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Parcelar sem juros é sempre um bom negócio.\"\n\n❌ MITO!\n\nParcelar sem juros pode, sim, ajudar a organizar o fluxo do mês. O problema é quando as parcelas se acumulam. Cada uma parece pequena, mas juntas comprometem a renda dos próximos meses.\n\nAntes de parcelar, pergunte:\n👉 Eu compraria à vista se tivesse o dinheiro?\n👉 Quanto da minha renda já está comprometido com parcelas?\n👉 Tem desconto para pagamento à vista?\n\nNo Wally, cada parcela aparece no mês em que será paga. Assim você enxerga o futuro antes de ele chegar.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #consumoconsciente #compras #promocao",
+  "title": "Parcelar sem juros é _sempre bom?_",
+  "mito": "Parcelar sem juros é sempre um bom negócio.",
+  "verdade": "Ajuda no fluxo do mês, mas **parcelas acumuladas** comprometem a renda dos meses seguintes.",
+  "id": "018-2026-11-13"
+ },
+ {
+  "d": "2026-11-16",
+  "t": "destaque",
+  "tag": "Dica de finanças",
+  "caption": "Já ouviu falar da regra das 72 horas? ⏳\n\nDeu vontade de comprar algo que não estava nos planos? Espere 72 horas antes de fechar a compra.\n\nNesse tempo, a empolgação passa e você consegue pensar com calma:\n🤔 Eu realmente preciso disso?\n💸 Cabe no orçamento deste mês?\n🔍 Achei o melhor preço?\n\nSe depois de 3 dias a vontade continuar e couber no bolso, compre sem culpa. Na maioria das vezes, a vontade simplesmente vai embora.\n\nPerfeito para testar nesta época de promoções. 😉\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #vidafinanceira #mentalidadefinanceira #habitos",
+  "big": "72h",
+  "text": "Deu vontade de comprar algo fora do plano? **Espere 72 horas.** Se a vontade continuar e couber no bolso, compre sem culpa.",
+  "id": "019-2026-11-16"
+ },
+ {
+  "d": "2026-11-18",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Compras parceladas sem bagunça. 🧾\n\nQuando você registra uma compra parcelada no Wally:\n1️⃣ Informe o valor e o número de parcelas\n2️⃣ O Wally cria cada parcela no mês em que ela vence\n3️⃣ Seus próximos meses já mostram o que está comprometido\n\nChega de ser surpreendido por aquela parcela de 8/10 que você nem lembrava mais. 😅\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Parcelas no lugar certo, _mês a mês._",
+  "items": [
+   "Registre a compra informando o **número de parcelas**",
+   "O Wally cria **cada parcela no mês** em que ela vence",
+   "Seus próximos meses mostram **o que já está comprometido**"
+  ],
+  "id": "020-2026-11-18"
+ },
+ {
+  "d": "2026-11-20",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Um exercício rápido antes da Black Friday: 🛒\n\nPense nas coisas que estão no seu carrinho. Agora imagine que elas estão com o preço normal.\n\nVocê ainda compraria?\n\nSe a resposta for sim, ótimo: o desconto é um bônus. Se for não, talvez o que você queira seja a promoção, e não o produto.\n\nConta aqui: qual item você está esperando baixar de preço? 👇\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Você compraria _se não estivesse em promoção?_",
+  "sub": "Se a resposta for sim, o desconto é um bônus. Se for não, talvez você queira só a promoção.",
+  "id": "021-2026-11-20"
+ },
+ {
+  "d": "2026-11-23",
+  "t": "dica",
+  "tag": "Checklist",
+  "caption": "Checklist para a semana da Black Friday. ✅\n\nAntes de clicar em \"comprar\", confira:\n☑️ Eu realmente preciso disso?\n☑️ O preço está menor do que o de semanas atrás?\n☑️ Já somei o frete?\n☑️ As parcelas cabem nos próximos meses?\n☑️ O site é confiável?\n\nPassou em tudo? Pode comprar tranquilo! 🛍️\n\nSalve e mande para aquele amigo que vive caindo nas promoções. 😂\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #economizar #economia #dinheiro",
+  "title": "Antes de clicar em _comprar_",
+  "style": "check",
+  "items": [
+   "Eu **realmente preciso** disso?",
+   "O preço está **menor** do que semanas atrás?",
+   "Já somei o **frete**?",
+   "As **parcelas cabem** nos próximos meses?",
+   "O site é **confiável**?"
+  ],
+  "id": "022-2026-11-23"
+ },
+ {
+  "d": "2026-11-25",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Um limite para cada categoria. 🎯\n\nCom os orçamentos do Wally você define quanto quer gastar por mês em cada categoria, como Compras, Lazer ou Delivery.\n\n1️⃣ Escolha a categoria\n2️⃣ Defina o limite mensal\n3️⃣ Acompanhe a barra enchendo conforme você gasta\n\nQuando chegar perto do limite, o Wally te avisa. Nesta semana de promoções, um orçamento para \"Compras\" pode salvar seu dezembro. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #consumoconsciente #compras #promocao",
+  "title": "Um limite para _cada categoria._",
+  "items": [
+   "Escolha a **categoria**, como Compras ou Lazer",
+   "Defina o **limite mensal**",
+   "Acompanhe a barra enchendo e receba um **aviso perto do limite**"
+  ],
+  "id": "023-2026-11-25"
+ },
+ {
+  "d": "2026-11-27",
+  "t": "frase",
+  "tag": "Black Friday",
+  "caption": "Hoje é Black Friday! 🖤\n\nUm lembrete carinhoso antes de abrir os apps das lojas:\n\nA melhor promoção é a que cabe no seu orçamento.\n\nComprou algo hoje? Registre no Wally para o gasto não sumir no meio da fatura. 😉\n\nBoas compras e com consciência! 🛍️\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #economizar #economia #dinheiro",
+  "title": "A melhor promoção é a que _cabe no seu orçamento._",
+  "sub": "Boa Black Friday! 🖤",
+  "id": "024-2026-11-27"
+ },
+ {
+  "d": "2026-11-30",
+  "t": "dica",
+  "tag": "13º salário",
+  "caption": "O 13º caiu (ou está para cair)? 💸\n\nAntes de gastar, vale pensar no destino desse dinheiro extra:\n\n1️⃣ Quite dívidas com juros altos, como cartão e cheque especial\n2️⃣ Reserve para as contas de janeiro: IPVA, IPTU e material escolar\n3️⃣ Reforce sua reserva de emergência\n4️⃣ Separe uma parte para aproveitar, sem culpa\n\nNão existe resposta única. O importante é decidir antes que o dinheiro decida por você. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "4 destinos inteligentes para _o 13º_",
+  "items": [
+   "**Quite dívidas** com juros altos, como cartão e cheque especial",
+   "**Reserve** para as contas de janeiro",
+   "**Reforce** a reserva de emergência",
+   "Separe uma parte para **aproveitar, sem culpa**"
+  ],
+  "id": "025-2026-11-30"
+ },
+ {
+  "d": "2026-12-02",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "13º na conta? Registre em 2 segundos. 💰\n\nMande para o Wally no Telegram:\n💬 \"Recebi o 13º 2500\"\n\nPronto, a receita já está registrada. E se quiser ver como está o mês, é só mandar /saldo.\n\nCom tudo registrado, fica muito mais fácil decidir para onde vai cada parte desse dinheiro extra.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Recebeu o 13º? _Registrou._",
+  "msgs": [
+   [
+    "u",
+    "Recebi o 13º 2500"
+   ],
+   [
+    "card",
+    {
+     "icon": "💰",
+     "name": "13º salário",
+     "cat": "Salário · Hoje",
+     "amt": "2.500,00",
+     "inc": true
+    }
+   ],
+   [
+    "u",
+    "/saldo"
+   ],
+   [
+    "wt",
+    "📊 **Resumo de dezembro**\nReceitas: R$ 7.300,00\nDespesas: R$ 2.140,00\nSaldo do mês: R$ 5.160,00"
+   ]
+  ],
+  "id": "026-2026-12-02"
+ },
+ {
+  "d": "2026-12-04",
+  "t": "destaque",
+  "tag": "Dica de finanças",
+  "caption": "R$ 10 por dia parece pouco, né? 🤏\n\nMas em um ano são R$ 3.650. ☕🍫🥤\n\nNão é sobre cortar o cafezinho. É sobre enxergar quanto os pequenos gastos somam para decidir se eles valem a pena para você.\n\nFaz o teste: qual gasto de todo dia você tem? Multiplica por 365 e conta aqui o resultado. 👇\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "R$ 10 por dia viram",
+  "big": "R$ 3.650",
+  "text": "em um ano. Pequenos gastos somam, e **enxergar** é o primeiro passo para decidir se valem a pena.",
+  "id": "027-2026-12-04"
+ },
+ {
+  "d": "2026-12-07",
+  "t": "dica",
+  "tag": "Natal",
+  "caption": "Natal sem susto na fatura de janeiro. 🎄\n\n1️⃣ Liste para quem você vai dar presente\n2️⃣ Defina um valor por pessoa, e o total\n3️⃣ Proponha amigo secreto na família ou no trabalho\n4️⃣ Compre com antecedência para fugir da correria e dos preços altos\n5️⃣ Presente feito à mão ou experiência também vale, e muito\n\nDica bônus: crie um orçamento para a categoria \"Presentes\" no Wally e acompanhe quanto já foi. 🎁\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #financasfamiliares #familia #mesada",
+  "title": "Presentes de Natal _sem susto_ em janeiro",
+  "items": [
+   "Liste **para quem** você vai dar presente",
+   "Defina um **valor por pessoa** e o total",
+   "Proponha **amigo secreto** na família ou no trabalho",
+   "**Compre antes** para fugir da correria",
+   "Presente **feito à mão** ou experiência também vale"
+  ],
+  "id": "028-2026-12-07"
+ },
+ {
+  "d": "2026-12-09",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Tem um sonho para 2027? Transforme em meta. 🎯\n\nNo Wally você cria metas financeiras e acompanha o progresso:\n\n1️⃣ Dê um nome, como Viagem, Reserva de emergência ou Carro novo\n2️⃣ Defina o valor e o prazo\n3️⃣ Vá depositando e veja a barra avançar\n\nVer o objetivo ficando cada vez mais perto é a melhor motivação para continuar guardando. 💙\n\nQual vai ser a sua primeira meta? 👇\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #reservadeemergencia #poupar #investimentos",
+  "title": "Transforme o sonho _em meta._",
+  "items": [
+   "Dê um **nome**: Viagem, Reserva, Carro novo…",
+   "Defina o **valor** e o **prazo**",
+   "Vá depositando e **veja a barra avançar**"
+  ],
+  "id": "029-2026-12-09"
+ },
+ {
+  "d": "2026-12-11",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Dezembro é mês perdido para a organização financeira.\"\n\n❌ MITO!\n\nDezembro tem mais gastos, sim: presentes, confraternizações, viagens. Mas é justamente por isso que é o mês em que o controle mais faz diferença.\n\nQuem acompanha os gastos em dezembro chega em janeiro sabendo exatamente o que ficou na fatura. Quem larga tudo leva um susto.\n\nNão precisa ser perfeito. Registrar os gastos maiores já ajuda muito. 😉\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Dezembro é mês _perdido?_",
+  "mito": "Dezembro é mês perdido para a organização financeira.",
+  "verdade": "É o mês em que o controle **mais faz diferença**, porque é o que decide como janeiro vai começar.",
+  "id": "030-2026-12-11"
+ },
+ {
+  "d": "2026-12-14",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Janeiro chega com uma fila de contas. Prepare-se agora. 📋\n\nAs mais comuns no começo do ano:\n🚗 IPVA\n🏠 IPTU\n📚 Material e matrícula escolar\n💳 A fatura das compras de fim de ano\n\nComo se preparar:\n1️⃣ Liste as contas e os valores estimados\n2️⃣ Veja se há desconto para pagamento à vista\n3️⃣ Separe o dinheiro antes das festas, se possível do 13º\n\nJaneiro fica bem mais leve quando você já sabe o que vem. 😌\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #economizar #economia #dinheiro",
+  "title": "Prepare-se para as contas _de janeiro_",
+  "items": [
+   "Liste **IPVA, IPTU, material escolar** e a fatura de dezembro",
+   "Veja se há **desconto** para pagar à vista",
+   "**Separe o dinheiro** antes das festas, se possível do 13º"
+  ],
+  "id": "031-2026-12-14"
+ },
+ {
+  "d": "2026-12-16",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Como foi o seu ano financeiro? 📈\n\nNa tela de Relatórios do Wally você vê:\n📊 Receitas x despesas mês a mês\n📈 A evolução do seu patrimônio\n💰 Sua taxa de poupança\n🍩 Os gastos por categoria\n\nDá para olhar os últimos 3, 6 ou 12 meses. É a retrospectiva perfeita para fechar o ano e planejar o próximo.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Seu ano _em números._",
+  "sub": "Receitas, despesas, patrimônio e taxa de poupança de até 12 meses.",
+  "img": "rel-top",
+  "id": "032-2026-12-16"
+ },
+ {
+  "d": "2026-12-18",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "O ano está acabando e hoje o convite é para comemorar. 🎉\n\nQual foi a sua maior vitória financeira em 2026?\n\nPode ser grande ou pequena:\n✅ Quitou uma dívida\n✅ Começou a reserva de emergência\n✅ Parou de entrar no cheque especial\n✅ Finalmente sabe para onde vai o dinheiro\n\nToda conquista conta. Compartilha aqui nos comentários que a gente comemora junto! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Qual foi sua maior _vitória financeira_ em 2026?",
+  "sub": "Grande ou pequena, toda conquista conta. Conta pra gente! 👇",
+  "id": "033-2026-12-18"
+ },
+ {
+  "d": "2026-12-21",
+  "t": "dica",
+  "tag": "Retrospectiva",
+  "caption": "Antes de fazer planos para 2027, vale olhar para trás. 🔍\n\n5 perguntas para fechar o ano:\n1️⃣ Quanto eu ganhei e quanto eu gastei?\n2️⃣ Em qual categoria gastei mais do que imaginava?\n3️⃣ Consegui guardar alguma coisa?\n4️⃣ Tenho dívidas? Elas aumentaram ou diminuíram?\n5️⃣ O que eu faria diferente?\n\nSe você registrou seus gastos no Wally, as respostas estão prontas em Relatórios. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "5 perguntas para _fechar o ano_",
+  "items": [
+   "Quanto eu **ganhei** e quanto eu **gastei**?",
+   "Em qual categoria gastei **mais do que imaginava**?",
+   "Consegui **guardar** alguma coisa?",
+   "Minhas **dívidas** aumentaram ou diminuíram?",
+   "O que eu faria **diferente**?"
+  ],
+  "id": "034-2026-12-21"
+ },
+ {
+  "d": "2026-12-23",
+  "t": "dica",
+  "tag": "Festas",
+  "caption": "Ceia e festas de fim de ano sem pesar no bolso. 🍽️\n\n1️⃣ Faça ceia compartilhada: cada um leva um prato\n2️⃣ Monte a lista de compras e fuja do mercado na véspera\n3️⃣ Aproveite o que já tem em casa\n4️⃣ Combine o valor do amigo secreto antes\n5️⃣ Divida as despesas da viagem com antecedência\n\nO que importa mesmo é estar junto de quem a gente gosta. 💙\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #economizar #economia #dinheiro",
+  "title": "Festas de fim de ano _sem pesar no bolso_",
+  "items": [
+   "Faça **ceia compartilhada**: cada um leva um prato",
+   "Monte a **lista** e fuja do mercado na véspera",
+   "Aproveite o que **já tem em casa**",
+   "Combine o valor do **amigo secreto** antes"
+  ],
+  "id": "035-2026-12-23"
+ },
+ {
+  "d": "2026-12-25",
+  "t": "frase",
+  "tag": "Feliz Natal",
+  "caption": "Feliz Natal! 🎄✨\n\nHoje o dia é para descansar, estar com quem você ama e aproveitar.\n\nO Wally deseja um Natal leve, cheio de afeto e com o coração tranquilo.\n\nObrigado por estar com a gente por aqui. 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Feliz _Natal!_ 🎄",
+  "sub": "Que seu dia seja leve, cheio de afeto e de gente querida por perto.",
+  "id": "036-2026-12-25"
+ },
+ {
+  "d": "2026-12-28",
+  "t": "dica",
+  "tag": "Metas 2027",
+  "caption": "Metas financeiras para 2027 que funcionam de verdade. 🎯\n\n\"Economizar mais\" não é meta, é desejo. Uma boa meta tem:\n\n1️⃣ Objetivo claro: \"juntar para a viagem de julho\"\n2️⃣ Valor definido: R$ 3.000\n3️⃣ Prazo: até junho\n4️⃣ Plano mensal: R$ 500 por mês\n\nCom isso, você sabe exatamente o que fazer todo mês e consegue acompanhar se está no caminho.\n\nCrie sua meta no Wally e veja o progresso a cada depósito. 💙\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Metas para 2027 que _funcionam_",
+  "items": [
+   "**Objetivo claro:** juntar para a viagem de julho",
+   "**Valor definido:** R$ 3.000",
+   "**Prazo:** até junho",
+   "**Plano mensal:** R$ 500 por mês"
+  ],
+  "id": "037-2026-12-28"
+ },
+ {
+  "d": "2026-12-30",
+  "t": "cta",
+  "tag": "Ano novo",
+  "caption": "2027 está chegando. Que tal começar o ano com o dinheiro organizado? ✨\n\nNão precisa esperar segunda-feira nem dia 1º. Leva 3 minutos:\n\n1️⃣ Crie sua conta grátis no Wally\n2️⃣ Cadastre sua conta principal\n3️⃣ Registre os gastos do dia\n\nE em janeiro você já vai saber exatamente para onde está indo cada real. 💙\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Comece 2027 com o dinheiro _organizado._",
+  "sub": "Leva 3 minutos e é grátis para começar.",
+  "id": "038-2026-12-30"
+ },
+ {
+  "d": "2027-01-01",
+  "t": "frase",
+  "tag": "Feliz 2027",
+  "caption": "Feliz 2027! 🎆\n\nQue este ano venha com mais tranquilidade, mais conquistas e menos sustos no fim do mês.\n\nA gente vai estar aqui o ano todo, com dicas, ideias e o Wally cuidando da parte chata da organização.\n\nUm brinde ao ano novo! 🥂💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Feliz _2027!_ 🎆",
+  "sub": "Mais tranquilidade, mais conquistas e menos sustos no fim do mês.",
+  "id": "039-2027-01-01"
+ },
+ {
+  "d": "2027-01-04",
+  "t": "dica",
+  "tag": "Contas de janeiro",
+  "caption": "IPVA, IPTU: pagar à vista ou parcelar? 🤔\n\nNão existe resposta única, mas dá para decidir com calma:\n\n1️⃣ Veja o desconto oferecido para pagamento à vista\n2️⃣ Confira se você tem o dinheiro sem mexer na reserva de emergência\n3️⃣ Se parcelar, registre cada parcela para ela não pegar você de surpresa\n4️⃣ Anote as datas de vencimento. Multa por atraso anula qualquer vantagem\n\nRegra de ouro: se pagar à vista vai te obrigar a entrar no cheque especial, parcelar costuma ser o caminho mais seguro.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #economizar #economia #dinheiro",
+  "title": "IPVA e IPTU: _à vista ou parcelado?_",
+  "items": [
+   "Veja o **desconto** para pagamento à vista",
+   "Confira se dá para pagar **sem mexer na reserva**",
+   "Se parcelar, **registre cada parcela**",
+   "Anote os **vencimentos**: multa anula qualquer vantagem"
+  ],
+  "id": "040-2027-01-04"
+ },
+ {
+  "d": "2027-01-06",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Conta corrente, carteira, cartão de crédito… tudo num lugar só. 🏦\n\nNo Wally Pro você cadastra quantas contas e cartões quiser:\n💳 Cada cartão com seu dia de fechamento e vencimento\n🏦 Cada conta com seu saldo\n📊 Uma visão consolidada de tudo no painel\n\nNada de abrir 4 apps de banco para saber quanto você tem. 😉\n\nNo plano gratuito, você pode cadastrar 1 conta ou cartão.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Todas as contas e cartões _num lugar só._",
+  "items": [
+   "Cadastre **quantas contas e cartões** quiser",
+   "Cada cartão com seu **fechamento e vencimento**",
+   "Uma **visão consolidada** de tudo no painel"
+  ],
+  "id": "041-2027-01-06"
+ },
+ {
+  "d": "2027-01-08",
+  "t": "destaque",
+  "tag": "Desafio",
+  "caption": "Topa um desafio para 2027? 💪\n\nO desafio das 52 semanas funciona assim:\n📅 Semana 1: guarde R$ 1\n📅 Semana 2: guarde R$ 2\n📅 Semana 3: guarde R$ 3\n…e assim por diante até a semana 52.\n\nNo fim do ano, você terá R$ 1.378 guardados, quase sem sentir no começo.\n\nDica: se as últimas semanas ficarem pesadas, faça o desafio ao contrário, começando por R$ 52.\n\nCrie uma meta no Wally chamada \"52 semanas\" e acompanhe cada depósito. Marca aqui quem vai fazer com você! 👇\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #reservadeemergencia #poupar #investimentos",
+  "title": "Desafio das 52 semanas",
+  "big": "R$ 1.378",
+  "text": "Guarde **R$ 1** na semana 1, **R$ 2** na semana 2… até a semana 52. É quanto você terá no fim do ano.",
+  "id": "042-2027-01-08"
+ },
+ {
+  "d": "2027-01-11",
+  "t": "dica",
+  "tag": "Volta às aulas",
+  "caption": "Material escolar sem estourar o orçamento. 📚\n\n1️⃣ Veja o que dá para reaproveitar do ano passado\n2️⃣ Compare preços em pelo menos 3 lojas\n3️⃣ Combine compras em grupo com outros pais\n4️⃣ Nem tudo precisa ser de marca ou de personagem\n5️⃣ Se parcelar, veja se as parcelas cabem nos próximos meses\n\nDica: crie uma categoria \"Educação\" no Wally para acompanhar quanto o começo do ano letivo custa de verdade.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #economizar #economia #dinheiro",
+  "title": "Material escolar _sem estourar_ o orçamento",
+  "items": [
+   "**Reaproveite** o que der do ano passado",
+   "Compare preços em **pelo menos 3 lojas**",
+   "Combine **compras em grupo** com outros pais",
+   "Nem tudo precisa ser **de marca**",
+   "Veja se as **parcelas cabem** nos próximos meses"
+  ],
+  "id": "043-2027-01-11"
+ },
+ {
+  "d": "2027-01-13",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Quer saber como está o mês? Pergunta para o Wally. 📊\n\nNo Telegram, mande:\n💬 /saldo para ver o resumo do mês atual\n💬 /saldo 12/2026 para ver um mês específico\n💬 /listar para ver e editar seus lançamentos\n\nEm 2 segundos você sabe quanto entrou, quanto saiu e quanto sobrou, sem abrir nenhum app.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Seu mês _numa mensagem._",
+  "msgs": [
+   [
+    "u",
+    "/saldo"
+   ],
+   [
+    "wt",
+    "📊 **Resumo de janeiro**\nReceitas: R$ 5.200,00\nDespesas: R$ 2.870,40\nSaldo do mês: R$ 2.329,60"
+   ],
+   [
+    "u",
+    "/saldo 12/2026"
+   ],
+   [
+    "wt",
+    "📊 **Resumo de dezembro**\nReceitas: R$ 7.300,00\nDespesas: R$ 4.915,20\nSaldo do mês: R$ 2.384,80"
+   ]
+  ],
+  "id": "044-2027-01-13"
+ },
+ {
+  "d": "2027-01-15",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Só dá para começar a guardar dinheiro quando eu ganhar mais.\"\n\n❌ MITO!\n\nSe não sobra nada hoje, um aumento tende a ser absorvido por novos gastos. É o famoso \"quanto mais ganho, mais gasto\".\n\nO hábito de guardar vem antes do valor. Comece com R$ 20, R$ 50, o que for possível. O importante é que seja todo mês.\n\nQuando o salário aumentar, você já vai ter o hábito. Aí é só aumentar o valor. 😉\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Só dá para guardar _quando eu ganhar mais?_",
+  "mito": "Só dá para começar a guardar dinheiro quando eu ganhar mais.",
+  "verdade": "O **hábito vem antes do valor**. Comece com o que for possível, mas todo mês.",
+  "id": "045-2027-01-15"
+ },
+ {
+  "d": "2027-01-18",
+  "t": "comp",
+  "tag": "Dica de finanças",
+  "caption": "Tem mais de uma dívida? Existem dois métodos famosos para quitar. 💪\n\n❄️ BOLA DE NEVE\nVocê quita primeiro a dívida de menor valor. Cada dívida eliminada dá motivação para a próxima.\n\n🏔️ AVALANCHE\nVocê quita primeiro a dívida com os juros mais altos. Matematicamente, é o que economiza mais dinheiro.\n\nNos dois casos:\n✅ Pague o mínimo de todas as outras\n✅ Não faça dívidas novas enquanto isso\n✅ Tente negociar os juros antes de começar\n\nQual combina mais com você? 👇\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Bola de neve _ou_ avalanche?",
+  "left_ok": true,
+  "left": [
+   "Bola de neve",
+   [
+    "Quita a **menor** dívida primeiro",
+    "Mais **motivação**",
+    "Vitórias rápidas"
+   ]
+  ],
+  "right": [
+   "Avalanche",
+   [
+    "Quita a dos **maiores juros** primeiro",
+    "**Economiza** mais dinheiro",
+    "Resultado no longo prazo"
+   ]
+  ],
+  "id": "046-2027-01-18"
+ },
+ {
+  "d": "2027-01-20",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Cada gasto no seu lugar. 🧾\n\nNo Wally, todas as transações ficam organizadas com:\n🏷️ Categoria e ícone\n📅 Data, com \"Hoje\" e \"Ontem\" para facilitar\n💰 Valor, com despesas e receitas bem separadas\n\nE, do lado, o card Quanto posso gastar mostra o que ainda cabe no mês.\n\nRegistrou pelo Telegram? Aparece aqui na hora. ⚡\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Cada gasto _no seu lugar._",
+  "sub": "Transações organizadas e, ao lado, quanto ainda cabe no mês.",
+  "img": "dash-bottom",
+  "id": "047-2027-01-20"
+ },
+ {
+  "d": "2027-01-22",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Janeiro está passando voando. E as metas para 2027? 🎯\n\nConta aqui nos comentários qual é a sua principal meta financeira para este ano:\n\n✈️ Viajar\n🛟 Montar a reserva de emergência\n💳 Sair das dívidas\n🏠 Juntar para a entrada da casa\n🚗 Trocar de carro\n📈 Começar a investir\n\nEscrever a meta já é o primeiro passo. 👇\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Qual é a sua _meta financeira_ para 2027?",
+  "sub": "Escreve aqui nos comentários. Tornar pública ajuda a cumprir. 👇",
+  "id": "048-2027-01-22"
+ },
+ {
+  "d": "2027-01-25",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Já ouviu falar em orçamento base zero? 🧮\n\nA ideia é dar uma função para cada real que entra, até sobrar zero sem destino.\n\nComo fazer:\n1️⃣ Anote tudo o que vai entrar no mês\n2️⃣ Distribua cada real: contas, mercado, lazer, reserva, investimentos\n3️⃣ Receita menos destinos tem que dar zero\n4️⃣ Acompanhe durante o mês e ajuste quando precisar\n\n\"Zero\" não significa gastar tudo. Guardar também é um destino. 😉\n\nNo Wally, os orçamentos por categoria ajudam a colocar esse plano em prática.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Orçamento _base zero_",
+  "sub": "Dê uma função para cada real que entra.",
+  "items": [
+   "Anote tudo o que **vai entrar** no mês",
+   "**Distribua cada real**: contas, lazer, reserva…",
+   "Receita menos destinos **tem que dar zero**",
+   "**Guardar também é destino**. Zero não é gastar tudo"
+  ],
+  "id": "049-2027-01-25"
+ },
+ {
+  "d": "2027-01-27",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "As categorias do Wally são suas. 🏷️\n\nQuando você cria a conta, o Wally já traz as categorias mais comuns, como Alimentação, Transporte, Moradia e Saúde. Mas você pode:\n\n✏️ Renomear qualquer uma\n➕ Criar novas, como Pet, Filhos ou Freelas\n🎨 Escolher a cor de cada uma\n\nAssim os relatórios mostram exatamente o que importa para a sua vida. 💙\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Categorias com _a sua cara._",
+  "items": [
+   "O Wally já começa com as **categorias mais comuns**",
+   "**Renomeie** ou **crie novas**: Pet, Filhos, Freelas…",
+   "Escolha a **cor** de cada uma"
+  ],
+  "id": "050-2027-01-27"
+ },
+ {
+  "d": "2027-01-29",
+  "t": "dica",
+  "tag": "Checklist",
+  "caption": "Fim de mês é hora de um ritual rápido: 5 minutos de revisão. ⏱️\n\n☑️ Registrei todos os gastos do mês?\n☑️ Em qual categoria gastei mais?\n☑️ Estourei algum orçamento?\n☑️ Consegui guardar alguma coisa?\n☑️ O que vou ajustar no mês que vem?\n\nCom o Wally, as respostas estão no painel e nos relatórios. Você só precisa olhar e decidir. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Revisão do mês _em 5 minutos_",
+  "style": "check",
+  "items": [
+   "Registrei **todos os gastos**?",
+   "Em qual categoria **gastei mais**?",
+   "Estourei algum **orçamento**?",
+   "Consegui **guardar** alguma coisa?",
+   "O que vou **ajustar** no próximo mês?"
+  ],
+  "id": "051-2027-01-29"
+ },
+ {
+  "d": "2027-02-01",
+  "t": "destaque",
+  "tag": "Dica de finanças",
+  "caption": "Pague-se primeiro. 💰\n\nA maioria das pessoas faz assim:\nSalário ➡️ gastos ➡️ guarda o que sobrar (quase nunca sobra 😅)\n\nO jeito que funciona:\nSalário ➡️ guarda primeiro ➡️ vive com o resto\n\nQuando o salário cair, separe logo o valor que você quer guardar, como se fosse uma conta a pagar. O que fica é o que você tem para o mês.\n\nPode começar com 5% ou 10% da renda. O importante é ser automático.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Salário caiu?",
+  "big": "_Pague-se_ primeiro.",
+  "text": "Separe o que vai guardar **antes** de gastar, como se fosse uma conta. O que sobrar é o que você tem para o mês.",
+  "id": "052-2027-02-01"
+ },
+ {
+  "d": "2027-02-03",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Não sabe em qual categoria colocar? A IA escolhe por você. 🤖\n\nVocê manda:\n💬 \"farmácia 62,30\"\n💬 \"netflix 39,90\"\n\nE o Wally entende que farmácia é Saúde e Netflix é Entretenimento, sem você precisar escolher nada.\n\nTudo registrado, categorizado e pronto para aparecer nos seus relatórios. ✨\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "A IA _escolhe a categoria._",
+  "msgs": [
+   [
+    "u",
+    "farmácia 62,30"
+   ],
+   [
+    "card",
+    {
+     "icon": "💊",
+     "name": "Farmácia",
+     "cat": "Saúde · Hoje",
+     "amt": "62,30",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "netflix 39,90"
+   ],
+   [
+    "card",
+    {
+     "icon": "🎬",
+     "name": "Netflix",
+     "cat": "Entretenimento · Hoje",
+     "amt": "39,90",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "053-2027-02-03"
+ },
+ {
+  "d": "2027-02-05",
+  "t": "dica",
+  "tag": "Carnaval",
+  "caption": "O Carnaval está chegando! 🎉 Bora curtir sem ressaca financeira?\n\n1️⃣ Defina um teto de gastos para os dias de folia\n2️⃣ Leve o valor em dinheiro ou use um cartão pré-pago\n3️⃣ Combine a divisão de gastos com a galera antes\n4️⃣ Hidrate-se com água: ela é barata 😂\n5️⃣ Registre os gastos para não levar susto na quarta-feira\n\nCrie um orçamento \"Carnaval\" no Wally e acompanhe quanto do teto já foi. 🎭\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Carnaval _sem ressaca_ financeira",
+  "items": [
+   "Defina um **teto de gastos** para a folia",
+   "Leve o valor em **dinheiro** ou use um **pré-pago**",
+   "Combine a **divisão** com a galera antes",
+   "**Registre os gastos** para não se assustar na quarta"
+  ],
+  "id": "054-2027-02-05"
+ },
+ {
+  "d": "2027-02-08",
+  "t": "frase",
+  "tag": "Carnaval",
+  "caption": "Bom Carnaval! 🎊🎭\n\nAproveite a folia, curta com quem você gosta e lembre do teto de gastos combinado. 😉\n\nA gente volta na quarta-feira. 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Bom _Carnaval!_ 🎭",
+  "sub": "Curta muito e não esqueça do teto de gastos combinado. 😉",
+  "dark": false,
+  "id": "055-2027-02-08"
+ },
+ {
+  "d": "2027-02-10",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Quarta-feira de cinzas: hora de conferir o estrago. 😅\n\nSe você registrou os gastos durante a folia, agora é só perguntar para o Wally:\n💬 /saldo\n\nE se esqueceu de algum, dá tempo de lançar agora:\n💬 \"bloco sábado 80 reais\"\n\nSem susto quando a fatura chegar. 🎭\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Quarta-feira de cinzas: _confere aí._",
+  "msgs": [
+   [
+    "u",
+    "bloco sábado 80 reais"
+   ],
+   [
+    "card",
+    {
+     "icon": "🎭",
+     "name": "Bloco de sábado",
+     "cat": "Lazer · Hoje",
+     "amt": "80,00",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "/saldo"
+   ],
+   [
+    "wt",
+    "📊 **Resumo de fevereiro**\nReceitas: R$ 5.200,00\nDespesas: R$ 1.948,70\nSaldo do mês: R$ 3.251,30"
+   ]
+  ],
+  "id": "056-2027-02-10"
+ },
+ {
+  "d": "2027-02-12",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Cartão de crédito é um vilão.\"\n\n❌ MITO!\n\nO cartão é uma ferramenta. Usado com controle, ele organiza os gastos numa fatura só, dá prazo para pagar e pode render pontos ou cashback.\n\nO problema começa quando:\n⚠️ A fatura vira uma segunda renda\n⚠️ Você paga só o mínimo\n⚠️ Você perde a noção de quanto já gastou\n\nO vilão é o descontrole, não o cartão. 😉\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Cartão de crédito é _vilão?_",
+  "mito": "Cartão de crédito é um vilão e deve ser evitado.",
+  "verdade": "O cartão é uma ferramenta. **O vilão é o descontrole**, como pagar só o mínimo ou perder a noção do que gastou.",
+  "id": "057-2027-02-12"
+ },
+ {
+  "d": "2027-02-15",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "5 regras para usar o cartão de crédito a seu favor. 💳\n\n1️⃣ Pague sempre a fatura inteira, nunca só o mínimo\n2️⃣ Trate o limite como teto de emergência, não como renda\n3️⃣ Acompanhe os gastos durante o mês, não só quando a fatura chega\n4️⃣ Saiba o dia de fechamento: compras logo depois dele dão mais prazo\n5️⃣ Evite ter cartões demais, porque fica difícil controlar\n\nNo Wally, cada compra aparece no mês em que a fatura vence, e você vê o total antes de a fatura fechar.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "5 regras para o cartão _jogar a seu favor_",
+  "items": [
+   "Pague sempre a **fatura inteira**",
+   "Limite é **teto**, não renda",
+   "Acompanhe os gastos **durante o mês**",
+   "Conheça o **dia de fechamento**",
+   "Evite ter **cartões demais**"
+  ],
+  "id": "058-2027-02-15"
+ },
+ {
+  "d": "2027-02-17",
+  "t": "dica",
+  "tag": "Segurança",
+  "caption": "Seus dados estão seguros no Wally. 🔒\n\n✅ O Wally não pede acesso à sua conta bancária. Você registra só o que quiser.\n✅ Senhas guardadas com criptografia forte, nunca em texto puro\n✅ Verificação em duas etapas opcional, com código por e-mail\n✅ Proteção contra tentativas repetidas de login\n\nSuas finanças são suas. Nossa parte é proteger. 💙\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Seus dados _seguros._",
+  "style": "check",
+  "items": [
+   "**Sem acesso** à sua conta bancária",
+   "Senhas com **criptografia forte**",
+   "**Verificação em duas etapas** opcional",
+   "**Proteção** contra tentativas repetidas de login"
+  ],
+  "id": "059-2027-02-17"
+ },
+ {
+  "d": "2027-02-19",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Enquete rápida! 🗳️\n\nQuando você compra algo mais caro, você prefere:\n\n1️⃣ Pagar à vista, de preferência com desconto\n2️⃣ Parcelar sem juros e deixar o dinheiro rendendo\n3️⃣ Depende da compra\n\nResponde com o número nos comentários e conta o porquê. Vamos ver qual time ganha! 👇\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "À vista _ou_ parcelado?",
+  "sub": "Responde nos comentários: 1 à vista, 2 parcelado, 3 depende. 👇",
+  "id": "060-2027-02-19"
+ },
+ {
+  "d": "2027-02-22",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Hora de fazer uma faxina nas assinaturas. 🧹\n\nStreaming, música, aplicativos, academia, clube de assinatura… Uma por uma parece barata, mas juntas podem pesar bastante.\n\n1️⃣ Liste todas as assinaturas. Olhe a fatura do cartão.\n2️⃣ Marque as que você usou no último mês\n3️⃣ Cancele as que não usou\n4️⃣ Veja se dá para dividir planos família\n5️⃣ Reveze: um mês um streaming, no outro mês outro\n\nQuanto você gasta por mês com assinaturas? Chuta aí! 👇\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Faça uma _faxina_ nas assinaturas",
+  "items": [
+   "**Liste todas**: confira a fatura do cartão",
+   "Marque as que **usou no último mês**",
+   "**Cancele** as que não usou",
+   "Divida **planos família**",
+   "**Reveze** os streamings a cada mês"
+  ],
+  "id": "061-2027-02-22"
+ },
+ {
+  "d": "2027-02-24",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Gastou mais ou menos do que no mês passado? 📊\n\nA comparação mensal do Wally mostra, categoria por categoria:\n📏 Quanto você gastou este mês e no anterior\n📉 Onde você economizou\n📈 Onde os gastos subiram\n\nÉ o jeito mais rápido de perceber se aquele esforço para economizar está funcionando. 💪\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Compare _mês a mês._",
+  "sub": "Veja, categoria por categoria, onde os gastos subiram ou caíram.",
+  "img": "comparacao",
+  "w": 800,
+  "id": "062-2027-02-24"
+ },
+ {
+  "d": "2027-02-26",
+  "t": "cta",
+  "tag": "Plano Pro",
+  "caption": "Já pensou em registrar seus gastos sem abrir nenhum app? 🤖\n\nCom o Wally Pro você manda uma mensagem no Telegram e pronto:\n💬 \"mercado 187,40\"\n✅ Registrado e categorizado\n\nE ainda tem:\n💳 Várias contas e cartões\n📊 Relatórios avançados\n📥 Exportação para Excel\n⭐ Suporte prioritário\n\nTudo por R$ 19,90 por mês. Se desistir em até 7 dias, o cancelamento é imediato.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Registre gastos _sem abrir app nenhum._",
+  "price": true,
+  "feats": [
+   "Bot com IA no Telegram",
+   "Várias contas e cartões",
+   "Relatórios avançados",
+   "Exportação para Excel"
+  ],
+  "button": "Assinar o Pro",
+  "id": "063-2027-02-26"
+ },
+ {
+  "d": "2027-03-01",
+  "t": "dica",
+  "tag": "Imposto de Renda",
+  "caption": "A temporada do Imposto de Renda está chegando. Comece a separar os documentos! 📂\n\n☑️ Informes de rendimentos do trabalho e dos bancos\n☑️ Recibos de despesas médicas e de plano de saúde\n☑️ Comprovantes de gastos com educação\n☑️ Documentos de compra e venda de bens\n☑️ A declaração do ano passado\n\nO prazo de entrega costuma ir de março a maio. Confira as datas oficiais no site da Receita Federal.\n\nQuem se organiza antes declara com calma e evita erro. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #impostoderenda #declaracao #ir2027 #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "IR: comece a _separar os documentos_",
+  "style": "check",
+  "items": [
+   "**Informes de rendimentos** do trabalho e dos bancos",
+   "Recibos de **saúde** e plano de saúde",
+   "Comprovantes de **educação**",
+   "Documentos de **compra e venda** de bens",
+   "A **declaração** do ano passado"
+  ],
+  "id": "064-2027-03-01"
+ },
+ {
+  "d": "2027-03-03",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Todos os seus lançamentos em uma planilha, com um clique. 📥\n\nNo Wally Pro você exporta suas transações para Excel:\n1️⃣ Escolha o período\n2️⃣ Clique em exportar\n3️⃣ Pronto: data, descrição, categoria, conta e valor, tudo organizado\n\nPerfeito para revisar os gastos com saúde e educação na hora do Imposto de Renda, ou para quem gosta de fazer as próprias análises. 📊\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #impostoderenda #declaracao #ir2027 #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Exporte para Excel _com um clique._",
+  "items": [
+   "Escolha o **período**",
+   "Clique em **exportar**",
+   "Receba tudo **organizado**: data, categoria, conta e valor"
+  ],
+  "id": "065-2027-03-03"
+ },
+ {
+  "d": "2027-03-05",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Um lembrete para a sua sexta-feira: 💙\n\nOrganizar o dinheiro não é sobre ser perfeito. É sobre ser constante.\n\nVai ter mês que você vai esquecer de registrar tudo. Vai ter mês que o orçamento vai estourar. Tudo bem.\n\nO que muda o jogo é voltar no dia seguinte. 🚀\n\nBom fim de semana!\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Não é sobre ser perfeito. _É sobre ser constante._",
+  "dark": false,
+  "id": "066-2027-03-05"
+ },
+ {
+  "d": "2027-03-08",
+  "t": "dica",
+  "tag": "Dia da Mulher",
+  "caption": "Dia Internacional da Mulher. 💜\n\nHoje o assunto é autonomia financeira, a liberdade de tomar decisões com segurança.\n\n4 passos importantes:\n1️⃣ Tenha uma conta e uma reserva no seu nome\n2️⃣ Conheça as finanças da casa: renda, contas e dívidas\n3️⃣ Participe das decisões financeiras importantes\n4️⃣ Invista em você: conhecimento é o melhor investimento\n\nMarca aqui uma mulher que te inspira! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #reservadeemergencia #poupar #investimentos",
+  "title": "Autonomia financeira _também é liberdade._",
+  "items": [
+   "Tenha **conta e reserva** no seu nome",
+   "Conheça as **finanças da casa**",
+   "Participe das **decisões** importantes",
+   "**Invista em você**"
+  ],
+  "id": "067-2027-03-08"
+ },
+ {
+  "d": "2027-03-10",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Onde está indo o seu dinheiro? O gráfico responde. 🍩\n\nNos Relatórios do Wally, os gastos por categoria aparecem num gráfico com a porcentagem de cada uma.\n\nÉ só bater o olho para descobrir:\n🔍 Qual categoria pesa mais\n🔍 Se aquele \"gastinho\" virou um gastão\n🔍 Onde vale a pena ajustar primeiro\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Seus gastos _num gráfico._",
+  "sub": "A porcentagem de cada categoria no total do mês.",
+  "img": "rel-cat",
+  "id": "068-2027-03-10"
+ },
+ {
+  "d": "2027-03-12",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Só quem ganha muito precisa se preocupar com o Imposto de Renda.\"\n\n❌ MITO!\n\nA obrigação de declarar não depende só do salário. As regras levam em conta vários critérios, como rendimentos, bens e outras situações.\n\nAlém disso, muita gente que não é obrigada pode ter imposto a restituir ao declarar.\n\nNa dúvida, confira as regras deste ano no site oficial da Receita Federal. 😉\n\n#wally #financaspessoais #educacaofinanceira #impostoderenda #declaracao #ir2027 #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "IR é só para _quem ganha muito?_",
+  "mito": "Só quem ganha muito precisa se preocupar com o Imposto de Renda.",
+  "verdade": "A obrigação considera **vários critérios**, não só o salário. Confira as regras no site da Receita Federal.",
+  "id": "069-2027-03-12"
+ },
+ {
+  "d": "2027-03-15",
+  "t": "dica",
+  "tag": "Dia do Consumidor",
+  "caption": "Hoje é Dia do Consumidor! 🛒\n\nAlém das promoções, é um bom dia para lembrar de alguns direitos garantidos pelo Código de Defesa do Consumidor:\n\n1️⃣ Comprou fora da loja física, como pela internet? Você tem 7 dias para se arrepender.\n2️⃣ O preço anunciado deve ser respeitado.\n3️⃣ Produto com defeito: você tem prazo para reclamar, 30 dias para não duráveis e 90 para duráveis.\n\nE sobre as promoções de hoje: lembra da regra das 72h? 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Seus direitos _de consumidor_",
+  "items": [
+   "Compra fora da loja física: **7 dias** para se arrepender",
+   "O **preço anunciado** deve ser respeitado",
+   "Defeito: **30 dias** (não duráveis) ou **90 dias** (duráveis) para reclamar"
+  ],
+  "id": "070-2027-03-15"
+ },
+ {
+  "d": "2027-03-17",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Registrou errado? Sem problema. ✏️\n\nNo Telegram, mande /listar e o Wally mostra seus últimos lançamentos. Dali você escolhe qual quer editar ou apagar.\n\nVocê também pode ver um mês específico:\n💬 /listar 02/2027\n\nE, se preferir, dá para ajustar tudo pelo app também. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Errou? _É só editar._",
+  "msgs": [
+   [
+    "u",
+    "/listar"
+   ],
+   [
+    "wt",
+    "🧾 **Seus lançamentos de março**\n1. Mercado · − R$ 187,40\n2. Uber · − R$ 22,90\n3. Salário · + R$ 5.200,00\n\nToque em um lançamento para editar ou apagar."
+   ]
+  ],
+  "id": "071-2027-03-17"
+ },
+ {
+  "d": "2027-03-19",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Pergunta para você que já registra os gastos: 🧐\n\nQual categoria mais te surpreendeu quando você começou a acompanhar?\n\n🍔 Delivery?\n☕ Cafezinho?\n🛍️ Compras online?\n🚗 Transporte por aplicativo?\n\nConta aqui! Aposto que muita gente vai se identificar. 👇\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Qual categoria mais _te surpreendeu?_",
+  "sub": "Conta aqui nos comentários. Aposto que muita gente vai se identificar. 👇",
+  "id": "072-2027-03-19"
+ },
+ {
+  "d": "2027-03-22",
+  "t": "comp",
+  "tag": "Dica de finanças",
+  "caption": "Reserva de emergência e dinheiro para objetivos não são a mesma coisa. ⚠️\n\n🛟 RESERVA DE EMERGÊNCIA\nÉ para imprevistos: perda de renda, saúde, consertos urgentes. Precisa estar sempre disponível e em lugar seguro.\n\n🎯 DINHEIRO PARA OBJETIVOS\nÉ para planos: viagem, carro, reforma. Tem data e valor definidos.\n\nMisturar os dois é perigoso: você usa a reserva na viagem e fica sem proteção quando o imprevisto chega.\n\nNo Wally, crie metas separadas para cada um. 😉\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Reserva _x_ objetivos",
+  "left_ok": true,
+  "left": [
+   "Reserva",
+   [
+    "Para **imprevistos**",
+    "Sempre **disponível**",
+    "Sem data para usar"
+   ]
+  ],
+  "right": [
+   "Objetivos",
+   [
+    "Para **planos**",
+    "Tem **valor e prazo**",
+    "Viagem, carro, reforma"
+   ]
+  ],
+  "id": "073-2027-03-22"
+ },
+ {
+  "d": "2027-03-24",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "O Wally cabe no seu bolso. 📱\n\nPelo navegador do celular você tem o app completo:\n📊 Painel com saldo e gráficos\n➕ Botão rápido para nova transação\n🧭 Menu na parte de baixo da tela, fácil de alcançar com o polegar\n🌙 Modo claro, escuro ou automático\n\nE, com o bot do Telegram, registrar um gasto é tão rápido quanto mandar uma mensagem.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "O Wally _no seu bolso._",
+  "items": [
+   "Funciona completo no **navegador do celular**",
+   "**Botão rápido** para nova transação",
+   "Menu **fácil de alcançar** com o polegar",
+   "Modo **claro, escuro** ou automático"
+  ],
+  "id": "074-2027-03-24"
+ },
+ {
+  "d": "2027-03-26",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Já se passaram 3 meses de 2027. ⏳\n\nHora de uma checagem rápida:\n🎯 As metas de janeiro ainda estão de pé?\n💰 Você está conseguindo guardar alguma coisa?\n📊 Algum gasto saiu do controle?\n\nSe não estiver tudo perfeito, tudo bem. Ainda tem 9 meses pela frente para ajustar a rota. 💪\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "3 meses de 2027. _Como estão as metas?_",
+  "sub": "Ainda tem 9 meses pela frente para ajustar a rota. 💪",
+  "id": "075-2027-03-26"
+ },
+ {
+  "d": "2027-03-29",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Como negociar uma dívida. 🤝\n\n1️⃣ Saiba exatamente quanto você deve e a quem\n2️⃣ Descubra quanto cabe no seu orçamento por mês, com folga\n3️⃣ Procure o credor e pergunte pelas condições. Muitas vezes há desconto para quitar.\n4️⃣ Nunca aceite uma parcela que você não consegue pagar\n5️⃣ Peça tudo por escrito antes de pagar\n\nFique de olho nos mutirões de negociação e canais oficiais dos próprios credores. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Como _negociar_ uma dívida",
+  "items": [
+   "Saiba **quanto deve** e a quem",
+   "Descubra **quanto cabe** por mês, com folga",
+   "Procure o credor: pode haver **desconto para quitar**",
+   "Nunca aceite parcela que **não cabe**",
+   "Peça tudo **por escrito**"
+  ],
+  "id": "076-2027-03-29"
+ },
+ {
+  "d": "2027-03-31",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Fechou o primeiro trimestre? Hora de olhar os números. 📈\n\nNos Relatórios do Wally, escolha o período de 3 meses e veja:\n💰 Receita e despesa média\n📊 Receitas x despesas mês a mês\n📈 Evolução do patrimônio\n🎯 Taxa de poupança\n\nDá para trocar para 6 ou 12 meses e comparar com períodos maiores.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Seu trimestre _em números._",
+  "sub": "Receitas, despesas e patrimônio dos últimos 3, 6 ou 12 meses.",
+  "img": "rel-top",
+  "id": "077-2027-03-31"
+ },
+ {
+  "d": "2027-04-02",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Investir é só para quem tem muito dinheiro.\"\n\n❌ MITO!\n\nHoje existem opções de investimento com valores iniciais bem baixos. O mais importante não é quanto você começa, e sim começar e manter a constância.\n\nAntes de investir, garanta o básico:\n✅ Saber para onde vai o seu dinheiro\n✅ Não ter dívidas caras, como cartão e cheque especial\n✅ Ter uma reserva de emergência, mesmo que pequena\n\nOrganizar vem antes de investir. E aí o Wally ajuda. 😉\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Investir é só para _quem tem muito?_",
+  "mito": "Investir é só para quem tem muito dinheiro.",
+  "verdade": "Há opções com **valores iniciais baixos**. O que importa é começar e manter a **constância**.",
+  "id": "078-2027-04-02"
+ },
+ {
+  "d": "2027-04-05",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Quer começar a investir? Antes do \"onde\", vem o \"como\". 📈\n\n1️⃣ Organize o orçamento e descubra quanto sobra por mês\n2️⃣ Quite as dívidas com juros altos\n3️⃣ Monte a reserva de emergência\n4️⃣ Defina o objetivo e o prazo de cada investimento\n5️⃣ Entenda o risco de cada opção antes de aplicar\n\nDesconfie de promessas de ganho alto, rápido e garantido. 🚩\n\nEste post é educativo e não é recomendação de investimento. Na dúvida, procure um profissional certificado.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Antes de investir, _faça isto_",
+  "items": [
+   "Organize o orçamento e veja **quanto sobra**",
+   "Quite as **dívidas caras**",
+   "Monte a **reserva de emergência**",
+   "Defina **objetivo e prazo**",
+   "Entenda o **risco** antes de aplicar"
+  ],
+  "id": "079-2027-04-05"
+ },
+ {
+  "d": "2027-04-07",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Renda variável? O Wally acompanha cada entrada. 💼\n\nFreelancers, autônomos e quem tem uma renda extra sabem: o dinheiro entra em dias diferentes, de clientes diferentes.\n\nNo Telegram, é só mandar:\n💬 \"Recebi 800 do projeto do site\"\n💬 \"Recebi 350 de aula particular\"\n\nNo fim do mês, você sabe exatamente quanto entrou e de onde veio. 📊\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Cada entrada, _registrada._",
+  "msgs": [
+   [
+    "u",
+    "Recebi 800 do projeto do site"
+   ],
+   [
+    "card",
+    {
+     "icon": "💻",
+     "name": "Projeto do site",
+     "cat": "Rendimentos · Hoje",
+     "amt": "800,00",
+     "inc": true
+    }
+   ],
+   [
+    "u",
+    "Recebi 350 de aula particular"
+   ],
+   [
+    "card",
+    {
+     "icon": "📚",
+     "name": "Aula particular",
+     "cat": "Rendimentos · Hoje",
+     "amt": "350,00",
+     "inc": true
+    }
+   ]
+  ],
+  "id": "080-2027-04-07"
+ },
+ {
+  "d": "2027-04-09",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Enquete da sexta! 🗳️\n\nVocê já tem uma reserva de emergência?\n\n1️⃣ Sim, completa\n2️⃣ Comecei, mas ainda falta\n3️⃣ Ainda não comecei\n\nResponde com o número nos comentários. Sem julgamento: todo mundo começa de algum lugar. 💙👇\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Você já tem _reserva de emergência?_",
+  "sub": "1 sim, completa · 2 comecei · 3 ainda não. Responde nos comentários! 👇",
+  "id": "081-2027-04-09"
+ },
+ {
+  "d": "2027-04-12",
+  "t": "dica",
+  "tag": "Renda variável",
+  "caption": "Ganha por projeto, comissão ou como autônomo? Estas regras fazem diferença. 💼\n\n1️⃣ Calcule sua renda média dos últimos meses\n2️⃣ Pague a si mesmo um \"salário\" fixo todo mês\n3️⃣ Nos meses bons, guarde o excedente para os meses fracos\n4️⃣ Tenha uma reserva de emergência maior\n5️⃣ Se tiver CNPJ, separe as contas da empresa das pessoais\n\nRenda variável pede ainda mais organização, e mais tranquilidade quando ela está em dia.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #reservadeemergencia #poupar #investimentos",
+  "title": "Renda variável: _5 regras de ouro_",
+  "items": [
+   "Calcule sua **renda média**",
+   "Pague a si mesmo um **salário fixo**",
+   "Nos meses bons, **guarde o excedente**",
+   "Tenha uma **reserva maior**",
+   "**Separe** as contas da empresa das pessoais"
+  ],
+  "id": "082-2027-04-12"
+ },
+ {
+  "d": "2027-04-14",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "O Wally te avisa antes de o orçamento estourar. 🔔\n\nQuando você define um limite para uma categoria:\n🟦 A barra enche conforme você gasta\n🔔 Passou de 80% do limite? O Wally te avisa no Telegram\n🟥 Passou do limite? A barra fica vermelha\n\nAssim você corrige a rota no meio do mês, e não só quando já é tarde. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Um aviso _antes de estourar._",
+  "items": [
+   "A barra **enche** conforme você gasta",
+   "Passou de **80%**? O Wally **te avisa** no Telegram",
+   "Passou do limite? A barra **fica vermelha**"
+  ],
+  "id": "083-2027-04-14"
+ },
+ {
+  "d": "2027-04-16",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Sabe aquela ideia de \"vou começar a me organizar mês que vem\"? 🤔\n\nO melhor dia para começar era ontem. O segundo melhor é hoje.\n\nNão precisa de planilha perfeita nem de todos os gastos do ano. Comece registrando o que você gastar hoje. Amanhã você registra de novo.\n\nEm 30 dias, você vai saber mais sobre o seu dinheiro do que nos últimos 12 meses. 🚀\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "O melhor dia para começar era ontem. _O segundo melhor é hoje._",
+  "id": "084-2027-04-16"
+ },
+ {
+  "d": "2027-04-19",
+  "t": "dica",
+  "tag": "Imposto de Renda",
+  "caption": "Ainda não declarou o Imposto de Renda? Fuja destes erros comuns. ⚠️\n\n1️⃣ Deixar para a última hora\n2️⃣ Esquecer algum rendimento, como freelas, aluguéis e aplicações\n3️⃣ Informar despesa médica sem ter o comprovante\n4️⃣ Errar os dados de dependentes\n5️⃣ Não conferir a declaração pré-preenchida\n\nConfira sempre o prazo oficial no site da Receita Federal.\n\nSe você registrou tudo no Wally, a exportação para Excel ajuda a revisar os gastos do ano. 📥\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #impostoderenda #declaracao #ir2027 #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "IR: _5 erros_ para evitar",
+  "items": [
+   "Deixar para a **última hora**",
+   "Esquecer **algum rendimento**",
+   "Despesa médica **sem comprovante**",
+   "Errar os dados de **dependentes**",
+   "Não conferir a **pré-preenchida**"
+  ],
+  "id": "085-2027-04-19"
+ },
+ {
+  "d": "2027-04-21",
+  "t": "chat",
+  "tag": "Feriado",
+  "caption": "Feriado de Tiradentes! 🇧🇷\n\nVai pegar a estrada? Registrar os gastos da viagem pode ser tão rápido quanto mandar uma mensagem:\n💬 \"pedágio 23,40\"\n💬 \"almoço na estrada 96\"\n\nNa volta, é só mandar /saldo e ver quanto custou o passeio. Bom feriado! 🚗\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Feriado na estrada? _Registra aí._",
+  "msgs": [
+   [
+    "u",
+    "pedágio 23,40"
+   ],
+   [
+    "card",
+    {
+     "icon": "🛣️",
+     "name": "Pedágio",
+     "cat": "Transporte · Hoje",
+     "amt": "23,40",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "almoço na estrada 96"
+   ],
+   [
+    "card",
+    {
+     "icon": "🍽️",
+     "name": "Almoço na estrada",
+     "cat": "Alimentação · Hoje",
+     "amt": "96,00",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "086-2027-04-21"
+ },
+ {
+  "d": "2027-04-23",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Só vale a pena anotar os gastos grandes.\"\n\n❌ MITO!\n\nOs gastos grandes a gente lembra. São os pequenos que escapam: o cafezinho, o app de transporte, a taxa de entrega, a lojinha do celular.\n\nSozinhos eles parecem irrelevantes, mas juntos podem virar uma das maiores categorias do mês.\n\nPor isso o Wally foi feito para registrar em segundos: para que valha a pena anotar até os R$ 5. ☕\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #economizar #economia #dinheiro",
+  "title": "Só vale anotar _os gastos grandes?_",
+  "mito": "Só vale a pena anotar os gastos grandes.",
+  "verdade": "São os **pequenos que escapam**. Juntos, podem virar uma das **maiores categorias** do mês.",
+  "id": "087-2027-04-23"
+ },
+ {
+  "d": "2027-04-26",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "5 truques para economizar no mercado. 🛒\n\n1️⃣ Faça uma lista e siga a lista\n2️⃣ Não vá com fome, é sério 😂\n3️⃣ Compare o preço por quilo ou por litro, não só o da embalagem\n4️⃣ Olhe as prateleiras de cima e de baixo, onde costumam ficar as opções mais baratas\n5️⃣ Planeje as refeições da semana e evite desperdício\n\nQuanto você gasta de mercado por mês? Registra no Wally por um mês e descubra. 👀\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #financasfamiliares #familia #mesada",
+  "title": "5 truques para economizar _no mercado_",
+  "items": [
+   "Faça uma **lista** e siga a lista",
+   "**Não vá com fome**",
+   "Compare o **preço por quilo ou litro**",
+   "Olhe as prateleiras de **cima e de baixo**",
+   "**Planeje as refeições** da semana"
+  ],
+  "id": "088-2027-04-26"
+ },
+ {
+  "d": "2027-04-28",
+  "t": "comp",
+  "tag": "Dica de finanças",
+  "caption": "Guardar dinheiro \"para quando der\" ou para uma meta? 🎯\n\nQuando você guarda sem objetivo, fica fácil usar o dinheiro na primeira vontade. Quando tem uma meta com nome, valor e prazo, cada depósito é um passo em direção a algo que você quer.\n\nNo Wally você cria metas e acompanha a barra de progresso a cada depósito. É muito mais motivador. 💙\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #reservadeemergencia #poupar #investimentos",
+  "title": "Guardar _com meta_ muda tudo",
+  "left": [
+   "Sem meta",
+   [
+    "Guarda **quando sobra**",
+    "Usa na **primeira vontade**",
+    "Sem saber **quanto falta**"
+   ]
+  ],
+  "right": [
+   "Com meta",
+   [
+    "Valor e **prazo definidos**",
+    "Cada depósito **tem propósito**",
+    "Progresso **visível**"
+   ]
+  ],
+  "id": "089-2027-04-28"
+ },
+ {
+  "d": "2027-04-30",
+  "t": "frase",
+  "tag": "Dia do Trabalhador",
+  "caption": "Amanhã é Dia do Trabalhador. 💪\n\nTodo mês você troca horas da sua vida por um salário. Então cada real tem um valor que vai além do número: ele representa o seu tempo e o seu esforço.\n\nOrganizar o dinheiro é garantir que esse esforço vire aquilo que importa para você: segurança, sonhos, liberdade.\n\nBom feriado! 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Seu dinheiro é o seu _tempo e o seu esforço._",
+  "sub": "Faça ele virar o que importa para você. Bom feriado! 💙",
+  "id": "090-2027-04-30"
+ },
+ {
+  "d": "2027-05-03",
+  "t": "dica",
+  "tag": "Primeiros passos",
+  "caption": "Como montar o seu primeiro orçamento mensal. 📋\n\n1️⃣ Some tudo o que entra no mês\n2️⃣ Liste as contas fixas: aluguel, luz, internet, escola\n3️⃣ Estime os gastos variáveis: mercado, transporte, lazer\n4️⃣ Separe um valor para guardar\n5️⃣ Compare: entradas precisam ser maiores do que as saídas\n\nSe não fechar, ajuste primeiro os gastos variáveis.\n\nNo Wally, os orçamentos por categoria viram limites que você acompanha o mês todo. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Seu primeiro _orçamento mensal_",
+  "items": [
+   "Some **tudo o que entra**",
+   "Liste as **contas fixas**",
+   "Estime os **gastos variáveis**",
+   "Separe um valor para **guardar**",
+   "Entradas precisam ser **maiores que as saídas**"
+  ],
+  "id": "091-2027-05-03"
+ },
+ {
+  "d": "2027-05-05",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Contas fixas também entram no Wally. 🏠\n\nPagou a luz, a internet, o condomínio? Manda para o Wally:\n💬 \"paguei a conta de luz 158,70\"\n💬 \"internet 99,90\"\n\nTudo vai para a categoria certa, e você começa a enxergar quanto as contas da casa pesam no mês.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Contas da casa, _sem esquecer nenhuma._",
+  "msgs": [
+   [
+    "u",
+    "paguei a conta de luz 158,70"
+   ],
+   [
+    "card",
+    {
+     "icon": "💡",
+     "name": "Conta de luz",
+     "cat": "Moradia · Hoje",
+     "amt": "158,70",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "internet 99,90"
+   ],
+   [
+    "card",
+    {
+     "icon": "📶",
+     "name": "Internet",
+     "cat": "Moradia · Hoje",
+     "amt": "99,90",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "092-2027-05-05"
+ },
+ {
+  "d": "2027-05-07",
+  "t": "frase",
+  "tag": "Dia das Mães",
+  "caption": "Domingo é Dia das Mães! 💐\n\nPara quem ensinou a gente a esticar o dinheiro até o fim do mês, a fazer lista de mercado e a guardar \"para uma emergência\": obrigado. 💙\n\nDica de presente com carinho e sem apertar o orçamento: tempo junto, uma refeição feita em casa, uma carta escrita à mão. Os melhores presentes nem sempre são os mais caros.\n\nMarca aqui a sua mãe, ou quem cumpre esse papel na sua vida! 👇\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Para quem ensinou a gente a _esticar o dinheiro_ até o fim do mês: obrigado. 💐",
+  "dark": false,
+  "id": "093-2027-05-07"
+ },
+ {
+  "d": "2027-05-10",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "As contas fixas parecem imutáveis, mas muitas dão para reduzir. ✂️\n\n1️⃣ Ligue para a operadora de internet e celular e pergunte por planos mais baratos\n2️⃣ Revise seguros e compare com outras seguradoras\n3️⃣ Confira a conta de luz: aparelhos em standby também gastam\n4️⃣ Reveja o plano da academia: você usa o que paga?\n5️⃣ Veja se há pacote de tarifas bancárias que você nem usa\n\nUma ligação de 10 minutos pode economizar dinheiro todo mês, pelo ano inteiro. 📞\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #financasfamiliares #familia #mesada",
+  "title": "Dá para _reduzir_ as contas fixas",
+  "items": [
+   "Negocie **internet e celular**",
+   "Compare **seguros**",
+   "Cuidado com o **standby**",
+   "Você usa **a academia** que paga?",
+   "Revise as **tarifas bancárias**"
+  ],
+  "id": "094-2027-05-10"
+ },
+ {
+  "d": "2027-05-12",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Quanto sobrou este mês? 💰\n\nNo topo do painel do Wally você vê:\n🟢 Receitas do mês\n🔴 Despesas do mês\n🔵 Economia: quanto sobrou e qual porcentagem da renda isso representa\n\nE ainda compara com o mês anterior. Dá gosto ver a economia crescendo. 📈\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #reservadeemergencia #poupar #investimentos",
+  "title": "Quanto _sobrou_ este mês?",
+  "sub": "Receitas, despesas e economia, com a comparação com o mês anterior.",
+  "img": "dash-top",
+  "id": "095-2027-05-12"
+ },
+ {
+  "d": "2027-05-14",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Queremos te conhecer melhor! 💬\n\nQual é o seu maior desafio com dinheiro hoje?\n\n1️⃣ Saber para onde ele vai\n2️⃣ Conseguir guardar\n3️⃣ Sair das dívidas\n4️⃣ Resistir às compras por impulso\n5️⃣ Organizar as finanças a dois\n\nResponde com o número nos comentários. As respostas vão guiar os próximos posts! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Qual é o seu _maior desafio_ com dinheiro?",
+  "sub": "Responde nos comentários. As respostas vão guiar os próximos posts! 👇",
+  "id": "096-2027-05-14"
+ },
+ {
+  "d": "2027-05-17",
+  "t": "dica",
+  "tag": "Finanças a dois",
+  "caption": "Como dividir as contas a dois? 💑\n\nNão existe jeito certo, e sim o jeito que funciona para vocês. As opções mais comuns:\n\n1️⃣ Meio a meio: cada um paga 50%\n2️⃣ Proporcional: cada um contribui conforme a renda\n3️⃣ Conta conjunta: tudo entra numa conta só\n4️⃣ Híbrido: uma conta conjunta para as despesas da casa e o restante individual\n\nO mais importante é conversar abertamente e revisar o combinado quando a vida mudar.\n\nQual é o jeito de vocês? 👇\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Como dividir as contas _a dois_",
+  "items": [
+   "**Meio a meio**: cada um paga 50%",
+   "**Proporcional** à renda de cada um",
+   "**Conta conjunta** para tudo",
+   "**Híbrido**: conjunta para a casa, o resto individual"
+  ],
+  "id": "097-2027-05-17"
+ },
+ {
+  "d": "2027-05-19",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Tem cartões com datas de fechamento diferentes? O Wally entende. 💳\n\nPara cada cartão, você informa:\n📅 O dia de fechamento\n📅 O dia de vencimento\n\nCom isso, cada compra vai automaticamente para a fatura certa, e aparece no mês em que você realmente vai pagar.\n\nNada de fazer conta de cabeça para saber em qual fatura aquela compra caiu. 😌\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Cada compra _na fatura certa._",
+  "items": [
+   "Informe o **dia de fechamento** de cada cartão",
+   "Informe o **dia de vencimento**",
+   "Cada compra vai **sozinha** para a fatura certa"
+  ],
+  "id": "098-2027-05-19"
+ },
+ {
+  "d": "2027-05-21",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Falar de dinheiro com quem a gente ama estraga o clima.\"\n\n❌ MITO!\n\nEvitar o assunto é o que costuma gerar problema: dívidas escondidas, expectativas diferentes e brigas no fim do mês.\n\nUma conversa sincera, sem julgamento, ajuda a:\n💬 Alinhar objetivos\n💬 Dividir as responsabilidades\n💬 Planejar sonhos em conjunto\n\nQue tal marcar um \"encontro financeiro\" com seu par? ☕💙\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Falar de dinheiro _estraga o clima?_",
+  "mito": "Falar de dinheiro com quem a gente ama estraga o clima.",
+  "verdade": "Evitar o assunto é que gera problema. Conversar ajuda a **alinhar objetivos** e **planejar juntos**.",
+  "id": "099-2027-05-21"
+ },
+ {
+  "d": "2027-05-24",
+  "t": "destaque",
+  "tag": "Post nº 100",
+  "caption": "Chegamos ao post número 100! 🎉\n\nSão 100 posts falando de dinheiro de um jeito simples, sem complicação e sem julgamento.\n\nObrigado a cada pessoa que curtiu, comentou, salvou, compartilhou ou só leu em silêncio. 💙\n\nConta aqui: qual dica daqui você já colocou em prática? 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "big": "100",
+  "text": "posts falando de dinheiro **sem complicação**. Obrigado por estar aqui! 💙",
+  "id": "100-2027-05-24"
+ },
+ {
+  "d": "2027-05-26",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Carro também é uma categoria que pesa. 🚗\n\nCombustível, estacionamento, manutenção, seguro, IPVA… Quando você soma tudo, o custo do carro costuma surpreender.\n\nNo Wally é só mandar:\n💬 \"gasolina 200\"\n💬 \"estacionamento 18\"\n\nE, nos relatórios, você vê quanto o transporte custa de verdade por mês.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Quanto custa _o seu carro?_",
+  "msgs": [
+   [
+    "u",
+    "gasolina 200"
+   ],
+   [
+    "card",
+    {
+     "icon": "⛽",
+     "name": "Gasolina",
+     "cat": "Transporte · Hoje",
+     "amt": "200,00",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "estacionamento 18"
+   ],
+   [
+    "card",
+    {
+     "icon": "🅿️",
+     "name": "Estacionamento",
+     "cat": "Transporte · Hoje",
+     "amt": "18,00",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "101-2027-05-26"
+ },
+ {
+  "d": "2027-05-28",
+  "t": "frase",
+  "tag": "Imposto de Renda",
+  "caption": "Lembrete importante: já declarou o Imposto de Renda? 📄\n\nO prazo costuma terminar no fim de maio, mas confira a data oficial deste ano no site da Receita Federal.\n\nSe ainda não declarou:\n✅ Separe os informes e comprovantes\n✅ Use a declaração pré-preenchida\n✅ Revise tudo antes de enviar\n\nNão deixe para o último minuto! ⏰\n\n#wally #financaspessoais #educacaofinanceira #impostoderenda #declaracao #ir2027 #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Já declarou o _Imposto de Renda?_",
+  "sub": "Confira o prazo oficial deste ano no site da Receita Federal. ⏰",
+  "id": "102-2027-05-28"
+ },
+ {
+  "d": "2027-05-31",
+  "t": "dica",
+  "tag": "Hábitos",
+  "caption": "Como criar o hábito de registrar os gastos. 🧠\n\n1️⃣ Registre na hora. Deixar para depois é esquecer.\n2️⃣ Deixe o jeito de registrar a um toque de distância\n3️⃣ Comece pelo mínimo: registre só os gastos do dia\n4️⃣ Reserve 5 minutos por semana para revisar\n5️⃣ Comemore as pequenas vitórias\n\nCom o Wally no Telegram, registrar é tão fácil quanto mandar uma mensagem. Fica difícil esquecer. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Como criar o hábito de _registrar os gastos_",
+  "items": [
+   "**Registre na hora**",
+   "Deixe o registro a **um toque** de distância",
+   "Comece pelo **mínimo**",
+   "**5 minutos** por semana de revisão",
+   "**Comemore** as pequenas vitórias"
+  ],
+  "id": "103-2027-05-31"
+ },
+ {
+  "d": "2027-06-02",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "É assim que é registrar um gasto no Wally. 👇\n\nVocê manda a mensagem e, em segundos, a despesa ou receita está registrada, categorizada e aparecendo no seu painel.\n\nSem formulário, sem abrir app, sem esquecer. 💬\n\nO bot do Telegram faz parte do plano Pro.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "O bot _em ação._",
+  "img": "telegram",
+  "w": 860,
+  "id": "104-2027-06-02"
+ },
+ {
+  "d": "2027-06-04",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Reflexão para a sexta-feira: 💭\n\nDinheiro não é o objetivo. É a ferramenta.\n\nO objetivo é o que ele permite: tranquilidade, tempo com quem você ama, experiências, segurança para o futuro.\n\nOrganizar as finanças é sobre colocar o dinheiro a serviço da vida que você quer ter. 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Dinheiro não é o objetivo. _É a ferramenta._",
+  "id": "105-2027-06-04"
+ },
+ {
+  "d": "2027-06-07",
+  "t": "dica",
+  "tag": "Dia dos Namorados",
+  "caption": "O Dia dos Namorados está chegando! 💘 Ideias criativas e que cabem no bolso:\n\n1️⃣ Jantar especial feito em casa, a dois\n2️⃣ Piquenique no parque ao pôr do sol\n3️⃣ Uma carta escrita à mão\n4️⃣ Reviver o primeiro encontro\n5️⃣ Uma sessão de cinema em casa, com pipoca e tudo\n\nSe for sair, combine um valor antes e reserve com antecedência. Os preços costumam subir na data. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #economizar #economia #dinheiro",
+  "title": "Dia dos Namorados _criativo e econômico_",
+  "items": [
+   "**Jantar especial** feito em casa",
+   "**Piquenique** ao pôr do sol",
+   "Uma **carta escrita à mão**",
+   "Reviver o **primeiro encontro**",
+   "**Cinema em casa**, com pipoca e tudo"
+  ],
+  "id": "106-2027-06-07"
+ },
+ {
+  "d": "2027-06-09",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "O Wally fica de olho nos seus orçamentos por você. 🔔\n\nTodo dia de manhã, ele confere suas categorias e, se alguma passar de 80% do limite, te avisa no Telegram:\n\n⚠️ Seu orçamento de Lazer está em 92% do limite.\n\nAssim você decide com calma se vale a pena gastar mais, ou se é melhor segurar até o mês que vem. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "O Wally _te avisa._",
+  "msgs": [
+   [
+    "wt",
+    "☀️ Bom dia! Passando para avisar:"
+   ],
+   [
+    "wt",
+    "⚠️ **Orçamento de Lazer**\nVocê está em **92%** do limite deste mês.\nGasto: R$ 276,00 de R$ 300,00"
+   ],
+   [
+    "u",
+    "Valeu! Vou segurar o delivery essa semana 😅"
+   ]
+  ],
+  "id": "107-2027-06-09"
+ },
+ {
+  "d": "2027-06-11",
+  "t": "frase",
+  "tag": "Dia dos Namorados",
+  "caption": "Amanhã é Dia dos Namorados! 💘\n\nE se o presente deste ano for um plano?\n\nSentar juntos, conversar sobre os sonhos do casal e criar uma meta a dois: a viagem, a casa, o casamento, o que for.\n\nAmor também é construir o futuro juntos. 💙\n\nMarca seu par aqui! 👇\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Amor também é _planejar juntos._ 💘",
+  "sub": "Que tal criar uma meta a dois neste Dia dos Namorados?",
+  "id": "108-2027-06-11"
+ },
+ {
+  "d": "2027-06-14",
+  "t": "dica",
+  "tag": "Festa junina",
+  "caption": "Arraiá bão e barato! 🌽🔥\n\n1️⃣ Defina quanto vai gastar na festa antes de sair de casa\n2️⃣ Leve em dinheiro. O controle fica mais fácil.\n3️⃣ Coma antes de ir para não exagerar nas barraquinhas\n4️⃣ Numa festa entre amigos, faça tudo compartilhado: cada um leva um prato\n5️⃣ Reaproveite a decoração e o traje do ano passado\n\nQuanto você costuma gastar em festa junina? 👇\n\n#wally #financaspessoais #educacaofinanceira #economizar #economia #dinheiro #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Arraiá _bão e barato_ 🌽",
+  "items": [
+   "Defina **quanto vai gastar** antes",
+   "Leve em **dinheiro**",
+   "**Coma antes** de ir",
+   "Festa entre amigos? **Cada um leva um prato**",
+   "**Reaproveite** traje e decoração"
+  ],
+  "id": "109-2027-06-14"
+ },
+ {
+  "d": "2027-06-16",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Seus gastos mudam ao longo do ano, e o Wally mostra isso. 📅\n\nNos Relatórios, escolha o período de 12 meses e descubra:\n📈 Os meses em que você mais gasta, como dezembro e janeiro\n📉 Os meses mais tranquilos\n🏷️ As categorias que sobem em certas épocas\n\nCom isso, você se prepara antes: separa dinheiro para os meses pesados e aproveita os leves para guardar mais. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Seus gastos _ao longo do ano._",
+  "items": [
+   "Veja os meses em que você **mais gasta**",
+   "Descubra os meses **mais tranquilos**",
+   "Identifique categorias que **sobem em certas épocas**"
+  ],
+  "id": "110-2027-06-16"
+ },
+ {
+  "d": "2027-06-18",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Quem organiza as finanças não pode se divertir.\"\n\n❌ MITO!\n\nOrganização não é cortar tudo o que dá prazer. É decidir para onde vai o seu dinheiro, incluindo o lazer.\n\nQuando você reserva um valor para diversão no orçamento, pode aproveitar sem culpa, porque sabe que o resto está garantido. 🎉\n\nA diferença entre quem se diverte com e sem organização? A culpa depois. 😉\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Quem se organiza _não se diverte?_",
+  "mito": "Quem organiza as finanças não pode se divertir.",
+  "verdade": "Com organização, o lazer entra **no orçamento**, e você aproveita **sem culpa**.",
+  "id": "111-2027-06-18"
+ },
+ {
+  "d": "2027-06-21",
+  "t": "dica",
+  "tag": "Férias",
+  "caption": "Férias de julho chegando? Planeje a viagem agora. ✈️\n\n1️⃣ Defina o orçamento total: transporte, hospedagem, comida, passeios\n2️⃣ Crie uma meta com esse valor\n3️⃣ Pesquise e reserve com antecedência\n4️⃣ Considere destinos e datas fora do pico\n5️⃣ Separe uma margem para imprevistos\n\nViajar com o dinheiro já separado é outra viagem. 😌\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #economizar #economia #dinheiro",
+  "title": "Planeje as _férias de julho_",
+  "items": [
+   "Defina o **orçamento total**",
+   "Crie uma **meta** com esse valor",
+   "**Reserve** com antecedência",
+   "Considere destinos e datas **fora do pico**",
+   "Separe uma **margem para imprevistos**"
+  ],
+  "id": "112-2027-06-21"
+ },
+ {
+  "d": "2027-06-23",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Uma meta para a viagem dos sonhos. ✈️\n\nNo Wally:\n1️⃣ Crie a meta \"Viagem de férias\"\n2️⃣ Defina o valor total e a data\n3️⃣ Registre cada depósito que fizer\n4️⃣ Acompanhe a barra de progresso chegando a 100%\n\nE durante a viagem, registre os gastos pelo Telegram para saber exatamente quanto ela custou. 🏖️\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "A viagem dos sonhos _vira meta._",
+  "items": [
+   "Crie a meta **Viagem de férias**",
+   "Defina o **valor total** e a **data**",
+   "Registre **cada depósito**",
+   "Veja a barra chegando a **100%**"
+  ],
+  "id": "113-2027-06-23"
+ },
+ {
+  "d": "2027-06-25",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Enquete das férias! 🏖️⛰️\n\nSe você pudesse viajar agora, com o dinheiro já guardado, para onde iria?\n\n🏖️ Praia\n⛰️ Montanha\n🏙️ Cidade grande\n🌎 Exterior\n\nComenta aqui o destino, e quanto você acha que precisaria juntar! 👇\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "_Praia ou montanha?_ E quanto custa?",
+  "sub": "Comenta o destino dos sonhos e quanto precisaria juntar. 👇",
+  "id": "114-2027-06-25"
+ },
+ {
+  "d": "2027-06-28",
+  "t": "dica",
+  "tag": "Meio do ano",
+  "caption": "Metade do ano! Hora de uma revisão rápida. ⏸️\n\n☑️ As metas de janeiro continuam fazendo sentido?\n☑️ Quanto consegui guardar até aqui?\n☑️ As dívidas diminuíram?\n☑️ Qual categoria mais pesou no semestre?\n☑️ O que vou mudar no segundo semestre?\n\nSeis meses é tempo suficiente para mudar muita coisa. Bora? 💪\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Revisão de _meio de ano_",
+  "style": "check",
+  "items": [
+   "As **metas** ainda fazem sentido?",
+   "Quanto consegui **guardar**?",
+   "As **dívidas** diminuíram?",
+   "Qual categoria **mais pesou**?",
+   "O que vou **mudar** no 2º semestre?"
+  ],
+  "id": "115-2027-06-28"
+ },
+ {
+  "d": "2027-06-30",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Primeiro semestre fechado! 📊\n\nNos Relatórios do Wally, selecione 6 meses e veja o semestre inteiro de uma vez:\n💰 Receita e despesa média\n📊 Receitas x despesas mês a mês\n📈 A evolução do seu patrimônio\n🎯 Sua taxa de poupança\n\nComo foi o seu semestre? 👇\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Seu semestre _em números._",
+  "sub": "Selecione 6 meses nos Relatórios e veja tudo de uma vez.",
+  "img": "rel-top",
+  "id": "116-2027-06-30"
+ },
+ {
+  "d": "2027-07-02",
+  "t": "frase",
+  "tag": "Boas férias",
+  "caption": "Julho chegou, e com ele as férias! 🏖️\n\nSe você planejou e separou o dinheiro antes, agora é só aproveitar, sem culpa e sem medo da fatura.\n\nSe não deu para viajar desta vez, tudo bem também: descansar em casa conta, e muito. 😌\n\nBoas férias! 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Boas férias! _Aproveite sem culpa._ 🏖️",
+  "sub": "Dinheiro separado antes, tranquilidade durante.",
+  "dark": false,
+  "id": "117-2027-07-02"
+ },
+ {
+  "d": "2027-07-05",
+  "t": "dica",
+  "tag": "Férias",
+  "caption": "Crianças de férias em casa? Diversão não precisa custar caro. 🎈\n\n1️⃣ Parques e praças da cidade\n2️⃣ Bibliotecas públicas, muitas com atividades infantis\n3️⃣ Eventos gratuitos: confira a agenda cultural da sua cidade\n4️⃣ Piquenique com lanche feito em casa\n5️⃣ Cinema em casa, com pipoca e cabana de lençol\n\nAs melhores memórias da infância raramente foram as mais caras. 💙\n\nTem outra ideia? Deixa aqui para ajudar outras famílias! 👇\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #economizar #economia #dinheiro",
+  "title": "Férias das crianças _sem gastar muito_",
+  "items": [
+   "**Parques e praças** da cidade",
+   "**Bibliotecas públicas** com atividades",
+   "**Eventos gratuitos** da agenda cultural",
+   "**Piquenique** com lanche de casa",
+   "**Cinema em casa** com cabana de lençol"
+  ],
+  "id": "118-2027-07-05"
+ },
+ {
+  "d": "2027-07-07",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Viajando? Registre os gastos em tempo real. ✈️\n\nEntre um passeio e outro, é só mandar uma mensagem:\n💬 \"pousada 450\"\n💬 \"passeio de barco 120\"\n\nNa volta você sabe exatamente quanto a viagem custou, e se ficou dentro do planejado. 🏝️\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Viagem registrada _em tempo real._",
+  "msgs": [
+   [
+    "u",
+    "pousada 450"
+   ],
+   [
+    "card",
+    {
+     "icon": "🏨",
+     "name": "Pousada",
+     "cat": "Viagem · Hoje",
+     "amt": "450,00",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "passeio de barco 120"
+   ],
+   [
+    "card",
+    {
+     "icon": "⛵",
+     "name": "Passeio de barco",
+     "cat": "Viagem · Hoje",
+     "amt": "120,00",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "119-2027-07-07"
+ },
+ {
+  "d": "2027-07-09",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Guardar dinheiro é sacrifício.\"\n\n❌ MITO!\n\nGuardar não é abrir mão de viver. É escolher o que importa mais para você: uma viagem, a tranquilidade de ter uma reserva, o sonho da casa própria.\n\nQuando o dinheiro tem um destino que você quer, guardar deixa de ser sacrifício e passa a ser conquista. 🎯\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Guardar dinheiro _é sacrifício?_",
+  "mito": "Guardar dinheiro é sacrifício.",
+  "verdade": "É **escolher o que importa mais** para você. Com um objetivo claro, guardar vira **conquista**.",
+  "id": "120-2027-07-09"
+ },
+ {
+  "d": "2027-07-12",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Por que a gente compra por impulso? Conheça os gatilhos. 🧠\n\n1️⃣ Tédio: rolar o feed da loja \"só para olhar\"\n2️⃣ Urgência: \"só hoje\", \"últimas unidades\"\n3️⃣ Cansaço: o famoso \"eu mereço\" depois de um dia difícil\n4️⃣ Redes sociais: ver alguém usando e querer igual\n5️⃣ Emoção: comprar para se sentir melhor\n\nReconhecer o gatilho já ajuda a parar e pensar antes de clicar. E a regra das 72h continua valendo. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "5 gatilhos da _compra por impulso_",
+  "items": [
+   "**Tédio**: olhar a loja “só por olhar”",
+   "**Urgência**: “só hoje”, “últimas unidades”",
+   "**Cansaço**: o famoso “eu mereço”",
+   "**Redes sociais**: querer igual",
+   "**Emoção**: comprar para se sentir melhor"
+  ],
+  "id": "121-2027-07-12"
+ },
+ {
+  "d": "2027-07-14",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "A lista de transações do Wally agrupa as compras do cartão por fatura. 💳\n\nIsso quer dizer que:\n📂 Todas as compras de uma mesma fatura aparecem juntas\n📅 Cada compra mostra a data real em que foi feita\n💳 Cartões diferentes ficam em grupos separados, mesmo que vençam no mesmo dia\n\nNa hora de conferir a fatura, está tudo ali, organizado. 😌\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Compras do cartão _agrupadas por fatura._",
+  "items": [
+   "Compras da mesma fatura aparecem **juntas**",
+   "Cada compra mostra a **data real**",
+   "Cada cartão com seu **próprio grupo**"
+  ],
+  "id": "122-2027-07-14"
+ },
+ {
+  "d": "2027-07-16",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Pequenas escolhas, repetidas todos os dias, constroem grandes resultados. 🌱\n\nRegistrar um gasto. Adiar uma compra por impulso. Guardar R$ 20.\n\nSozinhas, parecem nada. Somadas ao longo de meses, mudam a sua vida financeira.\n\nQual pequena escolha você fez esta semana? 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Pequenas escolhas, todos os dias, _constroem grandes resultados._",
+  "dark": false,
+  "id": "123-2027-07-16"
+ },
+ {
+  "d": "2027-07-19",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Aconteceu um imprevisto e o dinheiro apertou? Respira. Dá para organizar. 🧘\n\n1️⃣ Liste as contas essenciais: moradia, alimentação, saúde, contas básicas\n2️⃣ Priorize o essencial e pause os gastos que podem esperar\n3️⃣ Use a reserva de emergência, se tiver. É para isso que ela existe.\n4️⃣ Converse com credores antes de atrasar. Muitas vezes dá para negociar.\n5️⃣ Evite cobrir o buraco com crédito caro, como cheque especial\n\nQuando a situação passar, reconstrua a reserva aos poucos. 💙\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "O dinheiro apertou? _Um plano de ação_",
+  "items": [
+   "Liste as **contas essenciais**",
+   "**Pause** o que pode esperar",
+   "Use a **reserva**. É para isso que ela existe",
+   "**Converse com os credores** antes de atrasar",
+   "Evite **crédito caro**"
+  ],
+  "id": "124-2027-07-19"
+ },
+ {
+  "d": "2027-07-21",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Quanto a moradia pesa no seu mês? E a alimentação? 🏠🍽️\n\nNo painel do Wally, cada categoria aparece com o valor gasto e a porcentagem do total.\n\nÉ o raio-x do seu mês: dá para ver na hora onde está a maior parte do dinheiro e onde vale a pena ajustar.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "O raio-x _do seu mês._",
+  "sub": "Cada categoria com o valor gasto e o peso no total.",
+  "img": "categorias",
+  "w": 700,
+  "id": "125-2027-07-21"
+ },
+ {
+  "d": "2027-07-23",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Confissão da sexta! 🙈\n\nVocê confere os lançamentos da fatura do cartão antes de pagar?\n\n1️⃣ Sempre, linha por linha\n2️⃣ Às vezes, quando o valor assusta\n3️⃣ Nunca, só pago\n\nResponde com o número! Na segunda tem post ensinando a ler a fatura. 😉👇\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Você confere _a fatura_ antes de pagar?",
+  "sub": "1 sempre · 2 às vezes · 3 nunca. Responde nos comentários! 👇",
+  "id": "126-2027-07-23"
+ },
+ {
+  "d": "2027-07-26",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Como ler a fatura do cartão de crédito. 🔍\n\n1️⃣ Valor total: é o que você deve pagar para não ter juros\n2️⃣ Pagamento mínimo: evite. O restante entra no rotativo, com juros altos.\n3️⃣ Vencimento: a data limite para pagar\n4️⃣ Fechamento: compras depois dessa data vão para a próxima fatura\n5️⃣ Lançamentos: confira um a um e conteste o que não reconhecer\n\nConferir a fatura leva 5 minutos e pode evitar cobranças indevidas. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Como ler _a fatura_ do cartão",
+  "items": [
+   "**Valor total**: pague tudo para não ter juros",
+   "**Mínimo**: evite, o resto vira rotativo",
+   "**Vencimento**: a data limite",
+   "**Fechamento**: depois dele, vai para a próxima",
+   "**Lançamentos**: confira um a um"
+  ],
+  "id": "127-2027-07-26"
+ },
+ {
+  "d": "2027-07-28",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Gosta de ir direto ao ponto? O Wally também tem comandos rápidos. ⚡\n\n💬 /despesa 50 Farmácia\n💬 /receita 300 Venda do monitor\n\nO valor e a descrição já vão certinhos, e o registro é imediato.\n\nMas, se preferir escrever do seu jeito, a IA entende do mesmo jeito. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Comandos _rápidos._",
+  "msgs": [
+   [
+    "u",
+    "/despesa 50 Farmácia"
+   ],
+   [
+    "card",
+    {
+     "icon": "💊",
+     "name": "Farmácia",
+     "cat": "Saúde · Hoje",
+     "amt": "50,00",
+     "inc": false
+    }
+   ],
+   [
+    "u",
+    "/receita 300 Venda do monitor"
+   ],
+   [
+    "card",
+    {
+     "icon": "🖥️",
+     "name": "Venda do monitor",
+     "cat": "Outras receitas · Hoje",
+     "amt": "300,00",
+     "inc": true
+    }
+   ]
+  ],
+  "id": "128-2027-07-28"
+ },
+ {
+  "d": "2027-07-30",
+  "t": "comp",
+  "tag": "Dica de finanças",
+  "caption": "Pagar o mínimo ou o total da fatura? 💳\n\nPagar o mínimo parece um alívio no mês, mas o restante entra no crédito rotativo, uma das linhas de crédito mais caras que existem.\n\nSe não der para pagar o total:\n✅ Pague o máximo que conseguir\n✅ Veja se o parcelamento da fatura sai mais barato que o rotativo\n✅ Pare de usar o cartão até organizar a situação\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Pagar o _mínimo_ ou o _total?_",
+  "left": [
+   "Mínimo",
+   [
+    "O resto vira **rotativo**",
+    "Juros **muito altos**",
+    "A dívida **cresce**"
+   ]
+  ],
+  "right": [
+   "Total",
+   [
+    "**Sem juros**",
+    "Fatura **zerada**",
+    "Mês seguinte **tranquilo**"
+   ]
+  ],
+  "id": "129-2027-07-30"
+ },
+ {
+  "d": "2027-08-02",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Recebeu um aumento? Parabéns! 🎉 Agora, cuidado com a armadilha.\n\nÉ muito comum o padrão de vida subir junto com o salário, e no fim do mês continua sem sobrar nada.\n\n1️⃣ Decida o destino do aumento antes de ele cair na conta\n2️⃣ Direcione pelo menos parte dele para guardar ou investir\n3️⃣ Se tiver dívidas, use o aumento para acelerar a quitação\n4️⃣ Comemore, mas com um valor definido\n\nO aumento é uma ótima chance de dar um salto na vida financeira. 🚀\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #reservadeemergencia #poupar #investimentos #metasfinanceiras #planejamentofinanceiro #objetivos",
+  "title": "Ganhou aumento? _Cuidado com a armadilha._",
+  "items": [
+   "Decida o **destino** antes de o dinheiro cair",
+   "Direcione parte para **guardar**",
+   "Use para **acelerar** a quitação de dívidas",
+   "**Comemore**, mas com um valor definido"
+  ],
+  "id": "130-2027-08-02"
+ },
+ {
+  "d": "2027-08-04",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Claro, escuro ou automático: você escolhe. 🌙☀️\n\nO Wally tem modo escuro para quem gosta de conferir as finanças à noite sem cansar a vista.\n\nNo modo automático, ele acompanha a configuração do seu celular ou computador.\n\nQual time você é: claro ou escuro? 👇\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Claro, escuro _ou automático._",
+  "items": [
+   "**Modo claro** para o dia",
+   "**Modo escuro** para a noite",
+   "**Automático**: acompanha o seu aparelho"
+  ],
+  "id": "131-2027-08-04"
+ },
+ {
+  "d": "2027-08-06",
+  "t": "frase",
+  "tag": "Dia dos Pais",
+  "caption": "Domingo é Dia dos Pais! 💙\n\nPara quem ensinou a gente a pesquisar antes de comprar, a desconfiar de \"negócio da China\" e a guardar para o futuro: obrigado.\n\nPresente com carinho não precisa ser caro: um almoço em família, um passeio juntos, um tempo de qualidade.\n\nMarca aqui o seu pai, ou quem cumpre esse papel na sua vida! 👇\n\n#wally #financaspessoais #educacaofinanceira #financasfamiliares #familia #mesada #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Para quem ensinou a gente a _pesquisar antes de comprar_: obrigado. 💙",
+  "dark": false,
+  "id": "132-2027-08-06"
+ },
+ {
+  "d": "2027-08-09",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Pensando em pegar um empréstimo? Responda antes estas perguntas. 🤔\n\n1️⃣ Para que eu preciso desse dinheiro? É essencial?\n2️⃣ Qual é o Custo Efetivo Total (CET)? Ele inclui juros, taxas e seguros.\n3️⃣ A parcela cabe no meu orçamento com folga?\n4️⃣ Existe uma alternativa mais barata?\n5️⃣ Comparei as condições em mais de uma instituição?\n\nEmpréstimo pode ser útil, por exemplo para trocar uma dívida cara por uma mais barata. Só não pode ser decidido no impulso. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Antes de pegar _um empréstimo_",
+  "items": [
+   "Para que eu preciso? **É essencial?**",
+   "Qual é o **CET**, o custo total?",
+   "A parcela cabe **com folga**?",
+   "Existe **alternativa** mais barata?",
+   "**Comparei** mais de uma instituição?"
+  ],
+  "id": "133-2027-08-09"
+ },
+ {
+  "d": "2027-08-11",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Pensar no orçamento por dia muda tudo. 📅\n\n\"Tenho R$ 680 até o fim do mês\" parece bastante. \"Tenho R$ 170 por dia pelos próximos 4 dias\" deixa tudo mais claro.\n\nO card Quanto posso gastar faz essa conta por você, e mostra quanto do limite do mês você já usou. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Pense _por dia_, não por mês.",
+  "sub": "O Wally divide o que sobrou pelos dias que faltam até o fim do mês.",
+  "img": "posso-gastar",
+  "w": 720,
+  "id": "134-2027-08-11"
+ },
+ {
+  "d": "2027-08-13",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Ter cheque especial é ter um dinheiro extra.\"\n\n❌ MITO!\n\nO limite do cheque especial não é seu: é um empréstimo automático, e dos mais caros do mercado.\n\nSe você entra nele todo mês, é sinal de que as contas não estão fechando. O caminho é:\n✅ Descobrir onde o dinheiro está indo\n✅ Ajustar os gastos\n✅ Trocar essa dívida por uma mais barata, se precisar\n\nSaber para onde vai cada real é o primeiro passo. E é aí que o Wally entra. 😉\n\n#wally #financaspessoais #educacaofinanceira #cartaodecredito #fatura #dividas #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Cheque especial _é dinheiro extra?_",
+  "mito": "Ter cheque especial é ter um dinheiro extra.",
+  "verdade": "É um **empréstimo automático** e dos **mais caros** do mercado. Não é seu dinheiro.",
+  "id": "135-2027-08-13"
+ },
+ {
+  "d": "2027-08-16",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Aposentadoria parece longe? Por isso mesmo vale pensar nela agora. ⏳\n\n1️⃣ O tempo é o seu maior aliado: quem começa cedo precisa guardar menos por mês\n2️⃣ Saiba como está a sua contribuição para a previdência pública\n3️⃣ Pense em complementar com investimentos de longo prazo\n4️⃣ Crie uma meta de longo prazo, separada da reserva de emergência\n5️⃣ Revise o plano todo ano\n\nEste post é educativo e não é recomendação de investimento. Na dúvida, procure um profissional certificado.\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #reservadeemergencia #poupar #investimentos",
+  "title": "Aposentadoria: _por que pensar agora_",
+  "items": [
+   "O **tempo** é seu maior aliado",
+   "Saiba como está sua **previdência pública**",
+   "Pense em **complementar** no longo prazo",
+   "Crie uma **meta de longo prazo** separada",
+   "**Revise** o plano todo ano"
+  ],
+  "id": "136-2027-08-16"
+ },
+ {
+  "d": "2027-08-18",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Seu patrimônio está crescendo? O Wally mostra. 📈\n\nNos Relatórios, o gráfico de evolução do patrimônio mostra mês a mês o resultado das suas escolhas.\n\nNão tem sensação melhor do que ver essa linha subindo. 💙\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #reservadeemergencia #poupar #investimentos",
+  "title": "Veja seu patrimônio _crescer._",
+  "sub": "O resultado das suas escolhas, mês a mês.",
+  "img": "patrimonio",
+  "w": 860,
+  "id": "137-2027-08-18"
+ },
+ {
+  "d": "2027-08-20",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Pergunta sincera: com quantos anos você aprendeu sobre dinheiro? 🤔\n\nNa escola? Em casa? Sozinho, errando? Ou está aprendendo agora?\n\nNão importa quando: nunca é tarde para aprender. E ensinar quem vem depois é um presente enorme.\n\nConta sua história aqui! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #financasfamiliares #familia #mesada",
+  "title": "Com quantos anos você _aprendeu sobre dinheiro?_",
+  "sub": "Nunca é tarde para aprender. Conta sua história! 👇",
+  "id": "138-2027-08-20"
+ },
+ {
+  "d": "2027-08-23",
+  "t": "dica",
+  "tag": "Segurança",
+  "caption": "Golpes financeiros: 5 sinais de alerta. 🚨\n\n1️⃣ Promessa de ganho alto, rápido e garantido\n2️⃣ Urgência: \"só hoje\", \"sua conta será bloqueada\"\n3️⃣ Pedido de senha, código de verificação ou token\n4️⃣ Links estranhos por SMS, e-mail ou mensagem\n5️⃣ Pedido de Pix para alguém \"conhecido\" com número novo\n\nNa dúvida, desligue e entre em contato pelos canais oficiais. Nenhuma instituição séria pede sua senha. 🔒\n\nCompartilhe com quem você quer proteger! 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Golpes: _5 sinais de alerta_",
+  "items": [
+   "Ganho **alto, rápido e garantido**",
+   "**Urgência**: “só hoje”, “conta bloqueada”",
+   "Pedido de **senha ou código**",
+   "**Links estranhos** por SMS ou mensagem",
+   "Pix para **“conhecido” com número novo**"
+  ],
+  "id": "139-2027-08-23"
+ },
+ {
+  "d": "2027-08-25",
+  "t": "dica",
+  "tag": "Wally na prática",
+  "caption": "Achar um gasto antigo no Wally é rapidinho. 🔎\n\n1️⃣ Escolha o mês no seletor de período, no topo\n2️⃣ Filtre por tipo, categoria ou conta\n3️⃣ Pronto: a lista mostra tudo organizado, com as compras do cartão agrupadas por fatura\n\nAquele \"quanto foi mesmo o conserto do carro em março?\" se resolve em segundos. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Encontre qualquer gasto _em segundos._",
+  "items": [
+   "Escolha o **mês** no seletor de período",
+   "Filtre por **tipo, categoria ou conta**",
+   "Veja tudo **organizado**, com o cartão agrupado por fatura"
+  ],
+  "id": "140-2027-08-25"
+ },
+ {
+  "d": "2027-08-27",
+  "t": "destaque",
+  "tag": "Pra pensar",
+  "caption": "Faltam 4 meses para acabar 2027. ⏳\n\nAinda dá tempo de:\n🎯 Bater aquela meta\n🛟 Reforçar a reserva\n💳 Quitar uma dívida\n📊 Criar o hábito de registrar os gastos\n\n4 meses são mais de 120 dias. Muita coisa muda nesse tempo. Bora? 💪\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Faltam",
+  "big": "4 meses",
+  "text": "para acabar 2027. **Ainda dá tempo** de bater a meta do ano. 💪",
+  "id": "141-2027-08-27"
+ },
+ {
+  "d": "2027-08-30",
+  "t": "dica",
+  "tag": "Dica de finanças",
+  "caption": "Black Friday, Natal, presentes, IPVA… O fim do ano é caro. Comece a se preparar agora. 🎄\n\n1️⃣ Liste os gastos de novembro a janeiro\n2️⃣ Estime o valor total\n3️⃣ Divida pelos meses que faltam até lá\n4️⃣ Crie uma meta \"Fim de ano\" e guarde esse valor todo mês\n\nEm dezembro, você vai agradecer ao seu eu de agosto. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Crie o seu _fundo de fim de ano_",
+  "items": [
+   "Liste os gastos de **novembro a janeiro**",
+   "Estime o **valor total**",
+   "**Divida** pelos meses que faltam",
+   "Crie a meta **Fim de ano** e guarde todo mês"
+  ],
+  "id": "142-2027-08-30"
+ },
+ {
+  "d": "2027-09-01",
+  "t": "chat",
+  "tag": "Wally na prática",
+  "caption": "Começo de mês: salário na conta e contas para pagar. 📅\n\nRegistrar tudo no Wally leva segundos:\n💬 \"salário 5200\"\n💬 \"aluguel 1250\"\n\nE o mês já começa organizado, com o painel mostrando quanto entrou e quanto já tem destino. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "O mês começa _organizado._",
+  "msgs": [
+   [
+    "u",
+    "salário 5200"
+   ],
+   [
+    "card",
+    {
+     "icon": "💰",
+     "name": "Salário",
+     "cat": "Salário · Hoje",
+     "amt": "5.200,00",
+     "inc": true
+    }
+   ],
+   [
+    "u",
+    "aluguel 1250"
+   ],
+   [
+    "card",
+    {
+     "icon": "🏠",
+     "name": "Aluguel",
+     "cat": "Moradia · Hoje",
+     "amt": "1.250,00",
+     "inc": false
+    }
+   ]
+  ],
+  "id": "143-2027-09-01"
+ },
+ {
+  "d": "2027-09-03",
+  "t": "mito",
+  "tag": "Mito ou verdade",
+  "caption": "Mito ou verdade? 🤔\n\n\"Organizar as finanças dá muito trabalho.\"\n\n❌ MITO!\n\nDava. Com planilhas, cadernos e calculadora, era mesmo trabalhoso.\n\nCom o Wally:\n⚡ Registrar um gasto leva menos de 5 segundos\n🤖 A categoria é escolhida automaticamente\n📊 Gráficos e relatórios ficam prontos sozinhos\n\nO trabalho pesado fica com a gente. Você só manda a mensagem. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Organizar as finanças _dá muito trabalho?_",
+  "mito": "Organizar as finanças dá muito trabalho.",
+  "verdade": "Com o Wally, registrar um gasto leva **menos de 5 segundos**, e o resto fica **pronto sozinho**.",
+  "id": "144-2027-09-03"
+ },
+ {
+  "d": "2027-09-06",
+  "t": "dica",
+  "tag": "Independência",
+  "caption": "Amanhã é 7 de Setembro, e hoje o papo é independência financeira. 🇧🇷\n\nIndependência financeira não é ficar rico. É ter liberdade de escolha:\n1️⃣ Não depender do próximo salário para dormir tranquilo\n2️⃣ Ter reserva para os imprevistos\n3️⃣ Não ter dívidas caras\n4️⃣ Poder dizer \"não\" para o que não faz sentido\n\nE o primeiro passo para chegar lá é saber para onde vai o seu dinheiro. 💙\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #reservadeemergencia #poupar #investimentos",
+  "title": "Independência financeira é _liberdade de escolha_",
+  "items": [
+   "Não depender do **próximo salário**",
+   "Ter **reserva** para imprevistos",
+   "Não ter **dívidas caras**",
+   "Poder dizer **“não”** ao que não faz sentido"
+  ],
+  "id": "145-2027-09-06"
+ },
+ {
+  "d": "2027-09-08",
+  "t": "comp",
+  "tag": "Planos",
+  "caption": "Grátis ou Pro: qual plano é o seu? 🤔\n\n🆓 GRÁTIS\n✅ Painel completo\n✅ Histórico de transações\n✅ Relatórios básicos\n✅ 1 conta ou cartão\n\n💙 PRO, R$ 19,90 por mês\n✅ Tudo do grátis\n✅ Bot com IA no Telegram\n✅ Várias contas e cartões\n✅ Relatórios avançados\n✅ Exportação para Excel\n✅ Suporte prioritário\n\nComece grátis e faça o upgrade quando sentir falta de algo. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Grátis _ou_ Pro?",
+  "left_ok": true,
+  "left": [
+   "Grátis",
+   [
+    "Painel completo",
+    "Histórico",
+    "Relatórios básicos",
+    "1 conta ou cartão"
+   ]
+  ],
+  "right": [
+   "Pro · R$ 19,90",
+   [
+    "Bot com IA no Telegram",
+    "Várias contas e cartões",
+    "Relatórios avançados",
+    "Exportação para Excel"
+   ]
+  ],
+  "id": "146-2027-09-08"
+ },
+ {
+  "d": "2027-09-10",
+  "t": "frase",
+  "tag": "Pra pensar",
+  "caption": "Pergunta para a comunidade: 💬\n\nQual hábito financeiro mudou a sua vida?\n\nPode ser simples:\n📝 Anotar todos os gastos\n⏳ Esperar antes de comprar\n💰 Guardar assim que o salário cai\n🚫 Cancelar assinaturas que não usava\n\nCompartilha aqui. Sua resposta pode inspirar alguém! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Qual hábito financeiro _mudou sua vida?_",
+  "sub": "Compartilha aqui. Pode inspirar alguém! 👇",
+  "id": "147-2027-09-10"
+ },
+ {
+  "d": "2027-09-13",
+  "t": "dica",
+  "tag": "Dia do Cliente",
+  "caption": "Quarta-feira, 15/09, é Dia do Cliente, e as promoções já começaram. 🛍️\n\nPara aproveitar sem cair em armadilha:\n1️⃣ Compre só o que já estava na sua lista\n2️⃣ Compare o preço com o de semanas atrás\n3️⃣ Desconfie de descontos exagerados em sites desconhecidos\n4️⃣ Some o frete antes de comemorar o desconto\n5️⃣ Veja se as parcelas cabem nos próximos meses\n\nE lembre: compras online dão direito a 7 dias de arrependimento. 😉\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #consumoconsciente #compras #promocao #economizar #economia #dinheiro",
+  "title": "Dia do Cliente _sem armadilhas_",
+  "items": [
+   "Compre só o que **estava na lista**",
+   "**Compare** com o preço de semanas atrás",
+   "Desconfie de descontos **exagerados**",
+   "Some o **frete**",
+   "Veja se as **parcelas cabem**"
+  ],
+  "id": "148-2027-09-13"
+ },
+ {
+  "d": "2027-09-15",
+  "t": "frase",
+  "tag": "Dia do Cliente",
+  "caption": "Hoje é Dia do Cliente, e o dia é de agradecer. 💙\n\nA cada pessoa que usa o Wally, manda mensagem para o bot, dá sugestões e confia a organização do seu dinheiro à gente: muito obrigado.\n\nÉ por vocês que o Wally existe e continua melhorando.\n\nTem alguma sugestão para o Wally? Deixa aqui nos comentários, a gente lê tudo! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Obrigado por _confiar no Wally._ 💙",
+  "sub": "Tem uma sugestão? Deixa nos comentários. A gente lê tudo!",
+  "id": "149-2027-09-15"
+ },
+ {
+  "d": "2027-09-17",
+  "t": "destaque",
+  "tag": "Wally na prática",
+  "caption": "5 segundos. ⚡\n\nÉ o tempo que leva para registrar um gasto no Wally pelo Telegram.\n\nMenos tempo do que para desbloquear o celular, abrir um app, achar o formulário e escolher a categoria.\n\nPor isso fica fácil manter o hábito todos os dias. 😉\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "big": "5s",
+  "text": "é o tempo para registrar um gasto no Wally. **Mande uma mensagem** e pronto.",
+  "id": "150-2027-09-17"
+ },
+ {
+  "d": "2027-09-20",
+  "t": "dica",
+  "tag": "Checklist",
+  "caption": "Como está a sua saúde financeira? Faça o check-up. 🩺\n\n☑️ Sei para onde vai o meu dinheiro\n☑️ Gasto menos do que ganho\n☑️ Tenho reserva de emergência, mesmo que pequena\n☑️ Não tenho dívidas caras\n☑️ Tenho pelo menos uma meta com valor e prazo\n☑️ Guardo algum valor todo mês\n\nQuantos você marcou? Conta aqui! 👇\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #reservadeemergencia #poupar #investimentos",
+  "title": "Check-up da sua _saúde financeira_",
+  "style": "check",
+  "items": [
+   "Sei para onde vai **meu dinheiro**",
+   "Gasto **menos do que ganho**",
+   "Tenho **reserva de emergência**",
+   "Não tenho **dívidas caras**",
+   "Tenho uma **meta** com valor e prazo",
+   "Guardo algum valor **todo mês**"
+  ],
+  "id": "151-2027-09-20"
+ },
+ {
+  "d": "2027-09-22",
+  "t": "tela",
+  "tag": "Wally na prática",
+  "caption": "Tudo o que importa sobre o seu dinheiro, numa tela só. 📊\n\n✅ Saldo atual\n✅ Receitas, despesas e economia do mês\n✅ O fluxo dos últimos 6 meses\n✅ Os gastos por categoria\n\nÉ o check-up financeiro que se atualiza sozinho, a cada gasto registrado.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #organizacaofinanceira #controlefinanceiro #controledegastos #appdefinancas #telegram #inteligenciaartificial",
+  "title": "Seu check-up _que se atualiza sozinho._",
+  "img": "dash-top",
+  "id": "152-2027-09-22"
+ },
+ {
+  "d": "2027-09-24",
+  "t": "frase",
+  "tag": "Enquete",
+  "caption": "Queremos saber: o que você quer ver mais por aqui? 💬\n\n1️⃣ Dicas para economizar no dia a dia\n2️⃣ Como sair das dívidas\n3️⃣ Primeiros passos para investir\n4️⃣ Finanças em casal e em família\n5️⃣ Truques do Wally\n\nResponde com o número (ou números 😄) nos comentários! 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "O que você quer _ver mais_ por aqui?",
+  "sub": "Responde nos comentários. Sua resposta decide os próximos posts! 👇",
+  "id": "153-2027-09-24"
+ },
+ {
+  "d": "2027-09-27",
+  "t": "dica",
+  "tag": "Fim de ano",
+  "caption": "Outubro começa esta semana, e o fim do ano está logo ali. Hora de planejar. 🗓️\n\n1️⃣ Defina um teto para a Black Friday de novembro\n2️⃣ Decida antes o destino do 13º\n3️⃣ Faça a lista e o orçamento dos presentes de Natal\n4️⃣ Separe o dinheiro das contas de janeiro\n\nQuem planeja em outubro chega em janeiro tranquilo. 😌\n\n💾 Salve este post para consultar depois.\n\n#wally #financaspessoais #educacaofinanceira #metasfinanceiras #planejamentofinanceiro #objetivos #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Prepare-se para _o fim do ano_",
+  "items": [
+   "Defina um **teto** para a Black Friday",
+   "Decida o **destino do 13º**",
+   "Faça o **orçamento** dos presentes",
+   "Separe as **contas de janeiro**"
+  ],
+  "id": "154-2027-09-27"
+ },
+ {
+  "d": "2027-09-29",
+  "t": "cta",
+  "tag": "Plano Pro",
+  "caption": "O fim do ano é a época em que mais vale a pena ter tudo sob controle. 🎯\n\nCom o Wally Pro:\n🤖 Registre cada gasto por mensagem no Telegram\n💳 Controle todos os cartões e as faturas de fim de ano\n📊 Acompanhe tudo em relatórios avançados\n📥 Exporte para Excel quando quiser\n\nTudo por R$ 19,90 por mês. Se desistir em até 7 dias, o cancelamento é imediato.\n👉 Crie sua conta grátis: link na bio.\n\n#wally #financaspessoais #educacaofinanceira #appdefinancas #telegram #inteligenciaartificial #organizacaofinanceira #controlefinanceiro #controledegastos",
+  "title": "Chegue ao fim do ano _com tudo sob controle._",
+  "price": true,
+  "feats": [
+   "Bot com IA no Telegram",
+   "Várias contas e cartões",
+   "Relatórios avançados",
+   "Exportação para Excel"
+  ],
+  "button": "Assinar o Pro",
+  "id": "155-2027-09-29"
+ },
+ {
+  "d": "2027-10-01",
+  "t": "frase",
+  "tag": "Um ano juntos",
+  "caption": "Um ano de conteúdo por aqui! 🎉\n\nForam dezenas de dicas, mitos derrubados, desafios e muitos gastos registrados em 5 segundos.\n\nObrigado por acompanhar, comentar, salvar e compartilhar. O próximo ano vai ser ainda melhor. 💙\n\nConta aqui: qual foi o post que mais te ajudou? 👇\n\n#wally #financaspessoais #educacaofinanceira #vidafinanceira #mentalidadefinanceira #habitos",
+  "title": "Um ano de dicas, conquistas e _dinheiro organizado._ 💙",
+  "sub": "Obrigado por estar com a gente. Vem mais por aí!",
+  "id": "156-2027-10-01"
+ }
+]
