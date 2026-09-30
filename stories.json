@@ -1,0 +1,3819 @@
+[
+ {
+  "id": "s-2026-09-30-post",
+  "d": "2026-09-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "001-2026-10-05"
+ },
+ {
+  "t": "tip",
+  "tag": "Bem-vindo",
+  "title": "O Wally chegou _no Instagram._",
+  "sub": "Dicas de finanças e o app na prática, de segunda a sexta.",
+  "id": "s-2026-09-30-bonus",
+  "d": "2026-09-30",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Anote o gasto _na hora._",
+  "sub": "Deixar para depois é o jeito mais rápido de esquecer.",
+  "dark": true,
+  "id": "s-2026-10-01-bonus",
+  "d": "2026-10-01",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-02-post",
+  "d": "2026-10-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "000a-2026-10-02"
+ },
+ {
+  "t": "q",
+  "title": "Qual gasto você _mais se arrepende_ este mês?",
+  "sub": "Sem julgamento, todo mundo tem um.",
+  "id": "s-2026-10-02-bonus",
+  "d": "2026-10-02",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-10-05-post",
+  "d": "2026-10-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "000b-2026-10-05"
+ },
+ {
+  "title": "Registre um gasto _com uma mensagem._",
+  "msgs": [
+   [
+    "u",
+    "mercado 187,40"
+   ],
+   [
+    "card",
+    {
+     "icon": "🛒",
+     "name": "Mercado",
+     "cat": "Alimentação · Hoje",
+     "amt": "187,40",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2026-10-05-bonus",
+  "d": "2026-10-05",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Tenha um _dia fixo_ para olhar as finanças.",
+  "sub": "15 minutos por semana já mudam o jogo.",
+  "dark": false,
+  "id": "s-2026-10-06-bonus",
+  "d": "2026-10-06",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-07-post",
+  "d": "2026-10-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "002-2026-10-07"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 15 por dia",
+  "text": "viram **R$ 5.475** em um ano.",
+  "pre": "Parece pouco",
+  "id": "s-2026-10-07-bonus",
+  "d": "2026-10-07",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Antes de comprar, espere _24 horas._",
+  "sub": "Se a vontade passar, era impulso.",
+  "dark": false,
+  "id": "s-2026-10-08-bonus",
+  "d": "2026-10-08",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-09-post",
+  "d": "2026-10-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "003-2026-10-09"
+ },
+ {
+  "t": "list",
+  "title": "3 contas para _revisar hoje_",
+  "tag": "Planejamento",
+  "items": [
+   "Internet e celular",
+   "Assinaturas",
+   "Tarifas do banco"
+  ],
+  "id": "s-2026-10-09-bonus",
+  "d": "2026-10-09",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-10-12-post",
+  "d": "2026-10-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "004-2026-10-12"
+ },
+ {
+  "t": "tip",
+  "tag": "Dia das Crianças",
+  "title": "Mesada é _aula de finanças._",
+  "sub": "Feliz Dia das Crianças! 🧸",
+  "id": "s-2026-10-12-bonus",
+  "d": "2026-10-12",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Quem ganha bem não precisa controlar gastos.",
+  "verdade": "Quanto mais entra, **mais fácil** escapar sem perceber.",
+  "id": "s-2026-10-13-bonus",
+  "d": "2026-10-13",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-14-post",
+  "d": "2026-10-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "005-2026-10-14"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Pague a fatura _inteira._",
+  "sub": "O rotativo é um dos créditos mais caros que existem.",
+  "dark": true,
+  "id": "s-2026-10-14-bonus",
+  "d": "2026-10-14",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você já tem uma _reserva de emergência?_",
+  "sub": "Conta pra gente em que pé está.",
+  "id": "s-2026-10-15-bonus",
+  "d": "2026-10-15",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-16-post",
+  "d": "2026-10-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "006-2026-10-16"
+ },
+ {
+  "title": "Recebeu? _Manda também._",
+  "msgs": [
+   [
+    "u",
+    "recebi 1500 do freela"
+   ],
+   [
+    "card",
+    {
+     "icon": "💼",
+     "name": "Freela",
+     "cat": "Rendimentos · Hoje",
+     "amt": "1.500,00",
+     "inc": true
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2026-10-16-bonus",
+  "d": "2026-10-16",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-10-19-post",
+  "d": "2026-10-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "007-2026-10-19"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Assinatura que você não usou no mês? _Cancela._",
+  "sub": "Dá para assinar de novo quando quiser.",
+  "dark": false,
+  "id": "s-2026-10-19-bonus",
+  "d": "2026-10-19",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Guarde _antes_ de gastar.",
+  "sub": "Separe o valor da reserva assim que o salário cair.",
+  "dark": true,
+  "id": "s-2026-10-20-bonus",
+  "d": "2026-10-20",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-21-post",
+  "d": "2026-10-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "008-2026-10-21"
+ },
+ {
+  "t": "q",
+  "title": "Qual é a sua _meta_ para o fim do ano?",
+  "sub": "Escrever ajuda a cumprir.",
+  "id": "s-2026-10-21-bonus",
+  "d": "2026-10-21",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Quanto ainda _dá para gastar?_",
+  "sub": "O Wally faz a conta por dia.",
+  "img": "posso-gastar",
+  "t": "app",
+  "id": "s-2026-10-22-bonus",
+  "d": "2026-10-22",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-23-post",
+  "d": "2026-10-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "009-2026-10-23"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Compare o preço _por quilo._",
+  "sub": "A embalagem maior nem sempre sai mais barata.",
+  "dark": false,
+  "id": "s-2026-10-23-bonus",
+  "d": "2026-10-23",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-10-26-post",
+  "d": "2026-10-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "010-2026-10-26"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "30 dias",
+  "text": "de registros bastam para você enxergar seus hábitos.",
+  "pre": "",
+  "id": "s-2026-10-26-bonus",
+  "d": "2026-10-26",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Mercado com fome = _carrinho cheio._",
+  "sub": "Coma antes de ir às compras.",
+  "dark": false,
+  "id": "s-2026-10-27-bonus",
+  "d": "2026-10-27",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-28-post",
+  "d": "2026-10-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "011-2026-10-28"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Lista de compras _é lei._",
+  "sub": "O que não está na lista espera a próxima ida.",
+  "dark": true,
+  "id": "s-2026-10-28-bonus",
+  "d": "2026-10-28",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Guardar pouco não adianta.",
+  "verdade": "**Pouco todo mês** vira muito com o tempo.",
+  "id": "s-2026-10-29-bonus",
+  "d": "2026-10-29",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-10-30-post",
+  "d": "2026-10-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "012-2026-10-30"
+ },
+ {
+  "t": "q",
+  "title": "Quanto você acha que gasta com _delivery_ por mês?",
+  "sub": "Chuta um valor.",
+  "id": "s-2026-10-30-bonus",
+  "d": "2026-10-30",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-11-02-post",
+  "d": "2026-11-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "013-2026-11-02"
+ },
+ {
+  "t": "tip",
+  "tag": "Feriado",
+  "title": "Feriado é dia de descansar, _e de registrar_ o que gastar.",
+  "sub": "",
+  "id": "s-2026-11-02-bonus",
+  "d": "2026-11-02",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Seu mês _numa tela._",
+  "img": "dash-top",
+  "t": "app",
+  "id": "s-2026-11-03-bonus",
+  "d": "2026-11-03",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-04-post",
+  "d": "2026-11-04",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "014-2026-11-04"
+ },
+ {
+  "t": "list",
+  "title": "Para _começar a semana_",
+  "tag": "Planejamento",
+  "items": [
+   "Veja o saldo",
+   "Confira os vencimentos",
+   "Defina o valor livre da semana"
+  ],
+  "id": "s-2026-11-04-bonus",
+  "d": "2026-11-04",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Todo gasto pequeno _conta._",
+  "sub": "É ele que some sem você perceber.",
+  "dark": false,
+  "id": "s-2026-11-05-bonus",
+  "d": "2026-11-05",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-06-post",
+  "d": "2026-11-06",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "015-2026-11-06"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Defina um _teto_ para o lazer.",
+  "sub": "Dá para curtir sem estourar o mês.",
+  "dark": true,
+  "id": "s-2026-11-06-bonus",
+  "d": "2026-11-06",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-11-09-post",
+  "d": "2026-11-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "016-2026-11-09"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "3 a 6",
+  "text": "meses de custo de vida: é o alvo comum da reserva de emergência.",
+  "pre": "",
+  "id": "s-2026-11-09-bonus",
+  "d": "2026-11-09",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Frete grátis não é desconto se você _comprou mais_ para ganhar.",
+  "sub": "",
+  "dark": true,
+  "id": "s-2026-11-10-bonus",
+  "d": "2026-11-10",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-11-post",
+  "d": "2026-11-11",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "017-2026-11-11"
+ },
+ {
+  "t": "q",
+  "title": "Você prefere _pagar à vista_ ou _parcelar?_",
+  "sub": "E por quê?",
+  "id": "s-2026-11-11-bonus",
+  "d": "2026-11-11",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Para onde _foi o dinheiro?_",
+  "img": "categorias",
+  "t": "app",
+  "id": "s-2026-11-12-bonus",
+  "d": "2026-11-12",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-13-post",
+  "d": "2026-11-13",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "018-2026-11-13"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Parcela pequena, _compromisso longo._",
+  "sub": "Some todas as parcelas antes de fazer mais uma.",
+  "dark": false,
+  "id": "s-2026-11-13-bonus",
+  "d": "2026-11-13",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-11-16-post",
+  "d": "2026-11-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "019-2026-11-16"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Revise os _débitos automáticos._",
+  "sub": "Às vezes tem cobrança que você nem lembra.",
+  "dark": true,
+  "id": "s-2026-11-16-bonus",
+  "d": "2026-11-16",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Qual _assinatura_ você cancelaria hoje?",
+  "sub": "",
+  "id": "s-2026-11-17-bonus",
+  "d": "2026-11-17",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-18-post",
+  "d": "2026-11-18",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "020-2026-11-18"
+ },
+ {
+  "title": "Compare _mês a mês._",
+  "img": "comparacao",
+  "t": "app",
+  "id": "s-2026-11-18-bonus",
+  "d": "2026-11-18",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Separe o dinheiro das _contas fixas_ primeiro.",
+  "sub": "O que sobra é o que você pode gastar.",
+  "dark": false,
+  "id": "s-2026-11-19-bonus",
+  "d": "2026-11-19",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-20-post",
+  "d": "2026-11-20",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "021-2026-11-20"
+ },
+ {
+  "t": "num",
+  "tag": "Black Friday",
+  "big": "1 semana",
+  "text": "para a Black Friday. Já fez a lista do que precisa?",
+  "pre": "Falta",
+  "id": "s-2026-11-20-bonus",
+  "d": "2026-11-20",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-11-23-post",
+  "d": "2026-11-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "022-2026-11-23"
+ },
+ {
+  "t": "tip",
+  "tag": "Black Friday",
+  "title": "Anote _os preços de hoje._",
+  "sub": "Na sexta, compare para ver se o desconto é real.",
+  "id": "s-2026-11-23-bonus",
+  "d": "2026-11-23",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Controle financeiro é chato.",
+  "verdade": "Chato é **não saber** para onde foi o dinheiro.",
+  "id": "s-2026-11-24-bonus",
+  "d": "2026-11-24",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-25-post",
+  "d": "2026-11-25",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "023-2026-11-25"
+ },
+ {
+  "t": "list",
+  "title": "Antes de _pagar a fatura_",
+  "tag": "Cartão",
+  "items": [
+   "Confira cada compra",
+   "Veja se tem parcela nova",
+   "Pague o valor total"
+  ],
+  "id": "s-2026-11-25-bonus",
+  "d": "2026-11-25",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Black Friday",
+  "title": "Amanhã é Black Friday.",
+  "sub": "_Defina o teto_ antes de abrir os apps das lojas.",
+  "id": "s-2026-11-26-bonus",
+  "d": "2026-11-26",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-11-27-post",
+  "d": "2026-11-27",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "024-2026-11-27"
+ },
+ {
+  "t": "tip",
+  "tag": "Black Friday",
+  "title": "Comprou? _Registre agora._",
+  "sub": "Assim o gasto não some no meio da fatura.",
+  "id": "s-2026-11-27-bonus",
+  "d": "2026-11-27",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-11-30-post",
+  "d": "2026-11-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "025-2026-11-30"
+ },
+ {
+  "t": "q",
+  "tag": "Black Friday",
+  "title": "O que você _comprou_ na Black Friday?",
+  "sub": "Valeu a pena?",
+  "id": "s-2026-11-30-bonus",
+  "d": "2026-11-30",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dezembro",
+  "title": "Dezembro chegou.",
+  "sub": "_Presentes, festas e 13º:_ um orçamento para cada um.",
+  "id": "s-2026-12-01-bonus",
+  "d": "2026-12-01",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-02-post",
+  "d": "2026-12-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "026-2026-12-02"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Troque “quanto custa?” por _“quanto custa por mês?”_",
+  "sub": "Assinaturas e parcelas ficam mais claras.",
+  "dark": true,
+  "id": "s-2026-12-02-bonus",
+  "d": "2026-12-02",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 1.378",
+  "text": "é o total do desafio das 52 semanas.",
+  "pre": "",
+  "id": "s-2026-12-03-bonus",
+  "d": "2026-12-03",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-04-post",
+  "d": "2026-12-04",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "027-2026-12-04"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Cheque especial _não é saldo._",
+  "sub": "É empréstimo, e caro.",
+  "dark": true,
+  "id": "s-2026-12-04-bonus",
+  "d": "2026-12-04",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-12-07-post",
+  "d": "2026-12-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "028-2026-12-07"
+ },
+ {
+  "t": "q",
+  "title": "Você _confere a fatura_ antes de pagar?",
+  "sub": "Sempre, às vezes ou nunca?",
+  "id": "s-2026-12-07-bonus",
+  "d": "2026-12-07",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Veja o patrimônio _crescer._",
+  "img": "patrimonio",
+  "t": "app",
+  "id": "s-2026-12-08-bonus",
+  "d": "2026-12-08",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-09-post",
+  "d": "2026-12-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "029-2026-12-09"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Uma meta _com nome_ é mais fácil de cumprir.",
+  "sub": "“Viagem de julho” motiva mais do que “guardar dinheiro”.",
+  "dark": false,
+  "id": "s-2026-12-09-bonus",
+  "d": "2026-12-09",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Leve _marmita_ dois dias por semana.",
+  "sub": "No fim do mês, a diferença aparece.",
+  "dark": true,
+  "id": "s-2026-12-10-bonus",
+  "d": "2026-12-10",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-11-post",
+  "d": "2026-12-11",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "030-2026-12-11"
+ },
+ {
+  "t": "q",
+  "title": "Qual foi a sua _melhor compra_ do ano?",
+  "sub": "Aquela que valeu cada centavo.",
+  "id": "s-2026-12-11-bonus",
+  "d": "2026-12-11",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-12-14-post",
+  "d": "2026-12-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "031-2026-12-14"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Negocie a _internet e o celular_ uma vez por ano.",
+  "sub": "Planos mudam, e o seu pode estar caro.",
+  "dark": true,
+  "id": "s-2026-12-14-bonus",
+  "d": "2026-12-14",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Gastos por categoria, _num gráfico._",
+  "img": "rel-cat",
+  "t": "app",
+  "id": "s-2026-12-15-bonus",
+  "d": "2026-12-15",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-16-post",
+  "d": "2026-12-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "032-2026-12-16"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "5s",
+  "text": "para registrar um gasto no Wally pelo Telegram.",
+  "pre": "",
+  "id": "s-2026-12-16-bonus",
+  "d": "2026-12-16",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Promoção boa é a de algo que você _já ia comprar._",
+  "sub": "",
+  "dark": false,
+  "id": "s-2026-12-17-bonus",
+  "d": "2026-12-17",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-18-post",
+  "d": "2026-12-18",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "033-2026-12-18"
+ },
+ {
+  "t": "mito",
+  "mito": "Parcelar sem juros é sempre bom.",
+  "verdade": "Só se as parcelas **couberem** nos próximos meses.",
+  "id": "s-2026-12-18-bonus",
+  "d": "2026-12-18",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-12-21-post",
+  "d": "2026-12-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "034-2026-12-21"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Confira a fatura _linha por linha._",
+  "sub": "Cobrança estranha se contesta, não se paga.",
+  "dark": false,
+  "id": "s-2026-12-21-bonus",
+  "d": "2026-12-21",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Checklist de _fim de mês_",
+  "tag": "Revisão",
+  "items": [
+   "Registrei tudo?",
+   "Estourei algo?",
+   "Guardei alguma coisa?"
+  ],
+  "id": "s-2026-12-22-bonus",
+  "d": "2026-12-22",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-23-post",
+  "d": "2026-12-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "035-2026-12-23"
+ },
+ {
+  "t": "q",
+  "title": "Você já _desistiu de uma planilha?_",
+  "sub": "Quantas vezes? 😅",
+  "id": "s-2026-12-23-bonus",
+  "d": "2026-12-23",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Feliz Natal",
+  "title": "Boas festas! 🎄",
+  "sub": "Que a ceia seja farta e a fatura, tranquila.",
+  "id": "s-2026-12-24-bonus",
+  "d": "2026-12-24",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-25-post",
+  "d": "2026-12-25",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "036-2026-12-25"
+ },
+ {
+  "title": "Mande _/saldo_ e veja o mês.",
+  "msgs": [
+   [
+    "u",
+    "/saldo"
+   ],
+   [
+    "wt",
+    "📊 **Resumo do mês**\nReceitas: R$ 5.200,00\nDespesas: R$ 2.310,50\nSaldo do mês: R$ 2.889,50"
+   ]
+  ],
+  "t": "app",
+  "id": "s-2026-12-25-bonus",
+  "d": "2026-12-25",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2026-12-28-post",
+  "d": "2026-12-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "037-2026-12-28"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Tenha _uma conta_ só para a reserva.",
+  "sub": "Longe dos olhos, longe do gasto.",
+  "dark": false,
+  "id": "s-2026-12-28-bonus",
+  "d": "2026-12-28",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Registre também as _receitas._",
+  "sub": "Freela, venda, presente: tudo entra no controle.",
+  "dark": true,
+  "id": "s-2026-12-29-bonus",
+  "d": "2026-12-29",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2026-12-30-post",
+  "d": "2026-12-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "038-2026-12-30"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Categoria “Outros” grande demais?",
+  "sub": "É sinal de que falta uma categoria nova.",
+  "dark": false,
+  "id": "s-2026-12-30-bonus",
+  "d": "2026-12-30",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Réveillon",
+  "title": "Tchau, 2026. 🥂",
+  "sub": "Obrigado por estar com a gente. Até o ano que vem!",
+  "id": "s-2026-12-31-bonus",
+  "d": "2026-12-31",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-01-post",
+  "d": "2027-01-01",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "039-2027-01-01"
+ },
+ {
+  "t": "q",
+  "tag": "Feliz 2027",
+  "title": "Qual é a sua _primeira meta_ de 2027?",
+  "sub": "",
+  "id": "s-2027-01-01-bonus",
+  "d": "2027-01-01",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-01-04-post",
+  "d": "2027-01-04",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "040-2027-01-04"
+ },
+ {
+  "t": "tip",
+  "tag": "Janeiro",
+  "title": "Primeira segunda do ano:",
+  "sub": "_Registre os gastos de hoje._ Um dia de cada vez.",
+  "id": "s-2027-01-04-bonus",
+  "d": "2027-01-04",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "O que te faz _gastar por impulso?_",
+  "sub": "Tédio, cansaço, promoção…",
+  "id": "s-2027-01-05-bonus",
+  "d": "2027-01-05",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-06-post",
+  "d": "2027-01-06",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "041-2027-01-06"
+ },
+ {
+  "title": "Escreva _do seu jeito._",
+  "msgs": [
+   [
+    "u",
+    "uber 23,90"
+   ],
+   [
+    "card",
+    {
+     "icon": "🚗",
+     "name": "Uber",
+     "cat": "Transporte · Hoje",
+     "amt": "23,90",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-01-06-bonus",
+  "d": "2027-01-06",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "72h",
+  "text": "de espera antes de uma compra fora do plano.",
+  "pre": "A regra das",
+  "id": "s-2027-01-07-bonus",
+  "d": "2027-01-07",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-08-post",
+  "d": "2027-01-08",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "042-2027-01-08"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Pequeno aumento de salário? _Aumente o quanto guarda._",
+  "sub": "Antes que o padrão de vida suba sozinho.",
+  "dark": false,
+  "id": "s-2027-01-08-bonus",
+  "d": "2027-01-08",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-01-11-post",
+  "d": "2027-01-11",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "043-2027-01-11"
+ },
+ {
+  "t": "mito",
+  "mito": "Cartão de crédito é vilão.",
+  "verdade": "O vilão é o **descontrole**.",
+  "id": "s-2027-01-11-bonus",
+  "d": "2027-01-11",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Delivery _toda semana_ vira uma conta fixa.",
+  "sub": "Vale colocar um limite.",
+  "dark": false,
+  "id": "s-2027-01-12-bonus",
+  "d": "2027-01-12",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-13-post",
+  "d": "2027-01-13",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "044-2027-01-13"
+ },
+ {
+  "t": "q",
+  "title": "Você conversa sobre dinheiro _em casa?_",
+  "sub": "",
+  "id": "s-2027-01-13-bonus",
+  "d": "2027-01-13",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Contas da casa, _registradas._",
+  "msgs": [
+   [
+    "u",
+    "conta de água 96,40"
+   ],
+   [
+    "card",
+    {
+     "icon": "💧",
+     "name": "Conta de água",
+     "cat": "Moradia · Hoje",
+     "amt": "96,40",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-01-14-bonus",
+  "d": "2027-01-14",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-15-post",
+  "d": "2027-01-15",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "045-2027-01-15"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Não compre _para compensar_ um dia ruim.",
+  "sub": "Um passeio ou um banho demorado também resolvem.",
+  "dark": true,
+  "id": "s-2027-01-15-bonus",
+  "d": "2027-01-15",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-01-18-post",
+  "d": "2027-01-18",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "046-2027-01-18"
+ },
+ {
+  "t": "list",
+  "title": "3 perguntas antes de _comprar_",
+  "tag": "Consumo",
+  "items": [
+   "Eu preciso?",
+   "Cabe no mês?",
+   "Achei o melhor preço?"
+  ],
+  "id": "s-2027-01-18-bonus",
+  "d": "2027-01-18",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Saiba o _dia de fechamento_ do seu cartão.",
+  "sub": "Comprar logo depois dele dá mais prazo para pagar.",
+  "dark": true,
+  "id": "s-2027-01-19-bonus",
+  "d": "2027-01-19",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-20-post",
+  "d": "2027-01-20",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "047-2027-01-20"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "50·30·20",
+  "text": "necessidades, desejos e futuro. Um ponto de partida para dividir a renda.",
+  "pre": "",
+  "id": "s-2027-01-20-bonus",
+  "d": "2027-01-20",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Menos cartões, _mais controle._",
+  "sub": "Dois bem usados valem mais do que cinco esquecidos.",
+  "dark": true,
+  "id": "s-2027-01-21-bonus",
+  "d": "2027-01-21",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-22-post",
+  "d": "2027-01-22",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "048-2027-01-22"
+ },
+ {
+  "t": "q",
+  "title": "Qual _hábito financeiro_ você quer criar?",
+  "sub": "",
+  "id": "s-2027-01-22-bonus",
+  "d": "2027-01-22",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-01-25-post",
+  "d": "2027-01-25",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "049-2027-01-25"
+ },
+ {
+  "title": "A IA _escolhe a categoria._",
+  "msgs": [
+   [
+    "u",
+    "remédio 42"
+   ],
+   [
+    "card",
+    {
+     "icon": "💊",
+     "name": "Remédio",
+     "cat": "Saúde · Hoje",
+     "amt": "42,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-01-25-bonus",
+  "d": "2027-01-25",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Sobrou dinheiro no mês? _Dê um destino_ para ele.",
+  "sub": "Senão ele encontra um sozinho.",
+  "dark": false,
+  "id": "s-2027-01-26-bonus",
+  "d": "2027-01-26",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-27-post",
+  "d": "2027-01-27",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "050-2027-01-27"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Presente caro não é sinônimo de _presente bom._",
+  "sub": "",
+  "dark": true,
+  "id": "s-2027-01-27-bonus",
+  "d": "2027-01-27",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Planilha é o único jeito de se organizar.",
+  "verdade": "O melhor jeito é **o que você mantém**.",
+  "id": "s-2027-01-28-bonus",
+  "d": "2027-01-28",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-01-29-post",
+  "d": "2027-01-29",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "051-2027-01-29"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Faça as contas do _custo por uso._",
+  "sub": "Um tênis de R$ 300 usado 300 vezes custa R$ 1 por uso.",
+  "dark": true,
+  "id": "s-2027-01-29-bonus",
+  "d": "2027-01-29",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-02-01-post",
+  "d": "2027-02-01",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "052-2027-02-01"
+ },
+ {
+  "t": "q",
+  "title": "Você sabe o _dia de fechamento_ do seu cartão?",
+  "sub": "Sem olhar no app!",
+  "id": "s-2027-02-01-bonus",
+  "d": "2027-02-01",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Comandos _rápidos._",
+  "msgs": [
+   [
+    "u",
+    "/despesa 30 Lanche"
+   ],
+   [
+    "card",
+    {
+     "icon": "🥪",
+     "name": "Lanche",
+     "cat": "Alimentação · Hoje",
+     "amt": "30,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-02-02-bonus",
+  "d": "2027-02-02",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-03-post",
+  "d": "2027-02-03",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "053-2027-02-03"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Evite o _“já que”_.",
+  "sub": "“Já que estou aqui, vou levar…” é o começo de muitos gastos.",
+  "dark": false,
+  "id": "s-2027-02-03-bonus",
+  "d": "2027-02-03",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Montando a _reserva_",
+  "tag": "Reserva",
+  "items": [
+   "Calcule o custo de vida",
+   "Defina o alvo",
+   "Guarde todo mês"
+  ],
+  "id": "s-2027-02-04-bonus",
+  "d": "2027-02-04",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-05-post",
+  "d": "2027-02-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "054-2027-02-05"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "7 dias",
+  "text": "para desistir de uma compra feita fora da loja física.",
+  "pre": "Você tem",
+  "id": "s-2027-02-05-bonus",
+  "d": "2027-02-05",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-02-08-post",
+  "d": "2027-02-08",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "055-2027-02-08"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Troque marca por _qualidade._",
+  "sub": "Nem tudo precisa ser da marca mais famosa.",
+  "dark": true,
+  "id": "s-2027-02-08-bonus",
+  "d": "2027-02-08",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Carnaval",
+  "title": "Carnaval é festa, _com teto de gastos._",
+  "sub": "Aproveita! 🎭",
+  "id": "s-2027-02-09-bonus",
+  "d": "2027-02-09",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-10-post",
+  "d": "2027-02-10",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "056-2027-02-10"
+ },
+ {
+  "t": "q",
+  "title": "Se ganhasse R$ 1.000 extras hoje, _o que faria?_",
+  "sub": "",
+  "id": "s-2027-02-10-bonus",
+  "d": "2027-02-10",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Orçamento _perto do limite?_",
+  "sub": "O Wally te avisa no Telegram.",
+  "msgs": [
+   [
+    "wt",
+    "⚠️ **Orçamento de Compras**\nVocê está em **85%** do limite deste mês."
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-02-11-bonus",
+  "d": "2027-02-11",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-12-post",
+  "d": "2027-02-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "057-2027-02-12"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Vai viajar? _Crie a meta antes._",
+  "sub": "Viagem paga antes de sair é outra viagem.",
+  "dark": false,
+  "id": "s-2027-02-12-bonus",
+  "d": "2027-02-12",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-02-15-post",
+  "d": "2027-02-15",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "058-2027-02-15"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Organize as contas por _data de vencimento._",
+  "sub": "Nada de multa por esquecimento.",
+  "dark": true,
+  "id": "s-2027-02-15-bonus",
+  "d": "2027-02-15",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Divida o que sobra pelos _dias do mês._",
+  "sub": "Fica mais fácil ver quanto dá para gastar por dia.",
+  "dark": false,
+  "id": "s-2027-02-16-bonus",
+  "d": "2027-02-16",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-17-post",
+  "d": "2027-02-17",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "059-2027-02-17"
+ },
+ {
+  "t": "q",
+  "title": "Qual categoria mais _pesa_ no seu mês?",
+  "sub": "",
+  "id": "s-2027-02-17-bonus",
+  "d": "2027-02-17",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Compras do cartão _no mês da fatura._",
+  "sub": "Assim o painel mostra o que sai da conta de verdade.",
+  "t": "app",
+  "id": "s-2027-02-18-bonus",
+  "d": "2027-02-18",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-19-post",
+  "d": "2027-02-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "060-2027-02-19"
+ },
+ {
+  "t": "mito",
+  "mito": "Reserva de emergência é para quem tem sobra.",
+  "verdade": "É justamente para **não depender** de empréstimo.",
+  "id": "s-2027-02-19-bonus",
+  "d": "2027-02-19",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-02-22-post",
+  "d": "2027-02-22",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "061-2027-02-22"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Não use o _limite do cartão_ como meta.",
+  "sub": "Limite é teto, não sugestão.",
+  "dark": false,
+  "id": "s-2027-02-22-bonus",
+  "d": "2027-02-22",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 40 por mês",
+  "text": "de assinatura esquecida são **R$ 480** no ano.",
+  "pre": "",
+  "id": "s-2027-02-23-bonus",
+  "d": "2027-02-23",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-24-post",
+  "d": "2027-02-24",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "062-2027-02-24"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Todo _começo de mês_, olhe as metas.",
+  "sub": "Um minuto para lembrar para onde você está indo.",
+  "dark": false,
+  "id": "s-2027-02-24-bonus",
+  "d": "2027-02-24",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Para _sair do vermelho_",
+  "tag": "Dívidas",
+  "items": [
+   "Liste as dívidas",
+   "Priorize os juros altos",
+   "Negocie"
+  ],
+  "id": "s-2027-02-25-bonus",
+  "d": "2027-02-25",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-02-26-post",
+  "d": "2027-02-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "063-2027-02-26"
+ },
+ {
+  "t": "q",
+  "title": "Você tem uma _meta de viagem?_",
+  "sub": "Para onde?",
+  "id": "s-2027-02-26-bonus",
+  "d": "2027-02-26",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-03-01-post",
+  "d": "2027-03-01",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "064-2027-03-01"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Anote _quanto você gasta em transporte._",
+  "sub": "Aplicativo, combustível e estacionamento somam rápido.",
+  "dark": true,
+  "id": "s-2027-03-01-bonus",
+  "d": "2027-03-01",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Parcelou? _Cada parcela no seu mês._",
+  "sub": "Os próximos meses já mostram o que está comprometido.",
+  "t": "app",
+  "id": "s-2027-03-02-bonus",
+  "d": "2027-03-02",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-03-post",
+  "d": "2027-03-03",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "065-2027-03-03"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Pague _à vista_ quando tiver desconto.",
+  "sub": "E quando o dinheiro já estiver separado.",
+  "dark": true,
+  "id": "s-2027-03-03-bonus",
+  "d": "2027-03-03",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Fez uma dívida? _Registre as parcelas._",
+  "sub": "Ver o que vem pela frente evita susto.",
+  "dark": false,
+  "id": "s-2027-03-04-bonus",
+  "d": "2027-03-04",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-05-post",
+  "d": "2027-03-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "066-2027-03-05"
+ },
+ {
+  "t": "q",
+  "title": "Você anota os _gastos pequenos?_",
+  "sub": "Cafezinho, estacionamento, lanche…",
+  "id": "s-2027-03-05-bonus",
+  "d": "2027-03-05",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-03-08-post",
+  "d": "2027-03-08",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "067-2027-03-08"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "1 em cada 10",
+  "text": "reais guardados já é um começo. Comece pelos 10%.",
+  "pre": "",
+  "id": "s-2027-03-08-bonus",
+  "d": "2027-03-08",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Metas com _barra de progresso._",
+  "sub": "Crie, deposite e veja chegando a 100%.",
+  "t": "app",
+  "id": "s-2027-03-09-bonus",
+  "d": "2027-03-09",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-10-post",
+  "d": "2027-03-10",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "068-2027-03-10"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Tenha um _valor livre_ por semana.",
+  "sub": "Gastar sem culpa também faz parte do plano.",
+  "dark": false,
+  "id": "s-2027-03-10-bonus",
+  "d": "2027-03-10",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Economizar é cortar tudo.",
+  "verdade": "É **escolher** onde vale gastar.",
+  "id": "s-2027-03-11-bonus",
+  "d": "2027-03-11",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-12-post",
+  "d": "2027-03-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "069-2027-03-12"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Compras online: _deixe no carrinho_ um dia.",
+  "sub": "Se ainda fizer sentido amanhã, compre.",
+  "dark": false,
+  "id": "s-2027-03-12-bonus",
+  "d": "2027-03-12",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-03-15-post",
+  "d": "2027-03-15",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "070-2027-03-15"
+ },
+ {
+  "t": "tip",
+  "tag": "Dia do Consumidor",
+  "title": "Promoção de hoje:",
+  "sub": "_Estava na sua lista?_ Se não, espere 72h.",
+  "id": "s-2027-03-15-bonus",
+  "d": "2027-03-15",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Reveja o _plano de saúde_ e os seguros.",
+  "sub": "Compare coberturas antes de renovar.",
+  "dark": true,
+  "id": "s-2027-03-16-bonus",
+  "d": "2027-03-16",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-17-post",
+  "d": "2027-03-17",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "071-2027-03-17"
+ },
+ {
+  "t": "q",
+  "title": "Qual dica de finanças _mudou a sua vida?_",
+  "sub": "",
+  "id": "s-2027-03-17-bonus",
+  "d": "2027-03-17",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Exporte _para Excel._",
+  "sub": "Todos os lançamentos do período, com um clique. No Pro.",
+  "t": "app",
+  "id": "s-2027-03-18-bonus",
+  "d": "2027-03-18",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-19-post",
+  "d": "2027-03-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "072-2027-03-19"
+ },
+ {
+  "t": "list",
+  "title": "Metas que _funcionam_",
+  "tag": "Metas",
+  "items": [
+   "Nome",
+   "Valor",
+   "Prazo"
+  ],
+  "id": "s-2027-03-19-bonus",
+  "d": "2027-03-19",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-03-22-post",
+  "d": "2027-03-22",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "073-2027-03-22"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Guarde _os comprovantes_ de saúde e educação.",
+  "sub": "Na hora do Imposto de Renda você agradece.",
+  "dark": true,
+  "id": "s-2027-03-22-bonus",
+  "d": "2027-03-22",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Evite sacar dinheiro _sem destino._",
+  "sub": "Dinheiro vivo some mais rápido.",
+  "dark": false,
+  "id": "s-2027-03-23-bonus",
+  "d": "2027-03-23",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-24-post",
+  "d": "2027-03-24",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "074-2027-03-24"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 25",
+  "text": "de delivery 3x por semana são **R$ 300** por mês.",
+  "pre": "",
+  "id": "s-2027-03-24-bonus",
+  "d": "2027-03-24",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você já caiu em _promoção falsa?_",
+  "sub": "Conta como foi.",
+  "id": "s-2027-03-25-bonus",
+  "d": "2027-03-25",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-26-post",
+  "d": "2027-03-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "075-2027-03-26"
+ },
+ {
+  "title": "Modo _escuro_ também.",
+  "sub": "Claro, escuro ou automático.",
+  "t": "app",
+  "id": "s-2027-03-26-bonus",
+  "d": "2027-03-26",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-03-29-post",
+  "d": "2027-03-29",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "076-2027-03-29"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Conversa sobre dinheiro em casa _não é tabu._",
+  "sub": "Todo mundo remando para o mesmo lado.",
+  "dark": false,
+  "id": "s-2027-03-29-bonus",
+  "d": "2027-03-29",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Aumente o valor guardado _aos poucos._",
+  "sub": "R$ 10 a mais por mês já é progresso.",
+  "dark": true,
+  "id": "s-2027-03-30-bonus",
+  "d": "2027-03-30",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-03-31-post",
+  "d": "2027-03-31",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "077-2027-03-31"
+ },
+ {
+  "t": "mito",
+  "mito": "Não tenho dívida, então estou bem.",
+  "verdade": "Sem reserva, **um imprevisto** vira dívida.",
+  "id": "s-2027-03-31-bonus",
+  "d": "2027-03-31",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Um gasto que te incomoda?",
+  "sub": "_Registre por 30 dias_ e veja o tamanho real.",
+  "dark": true,
+  "id": "s-2027-04-01-bonus",
+  "d": "2027-04-01",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-02-post",
+  "d": "2027-04-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "078-2027-04-02"
+ },
+ {
+  "t": "q",
+  "title": "Com quantos anos você começou a _guardar dinheiro?_",
+  "sub": "",
+  "id": "s-2027-04-02-bonus",
+  "d": "2027-04-02",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-04-05-post",
+  "d": "2027-04-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "079-2027-04-05"
+ },
+ {
+  "title": "Categorias _com a sua cara._",
+  "sub": "Renomeie, crie novas e escolha a cor.",
+  "t": "app",
+  "id": "s-2027-04-05-bonus",
+  "d": "2027-04-05",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Pagou o mínimo da fatura?",
+  "sub": "_Troque o rotativo_ por um parcelamento mais barato.",
+  "dark": false,
+  "id": "s-2027-04-06-bonus",
+  "d": "2027-04-06",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-07-post",
+  "d": "2027-04-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "080-2027-04-07"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "12x",
+  "text": "sem juros ainda são 12 meses de compromisso.",
+  "pre": "",
+  "id": "s-2027-04-07-bonus",
+  "d": "2027-04-07",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Onde o _dinheiro escapa_",
+  "tag": "Gastos",
+  "items": [
+   "Delivery",
+   "Assinaturas",
+   "Compras por impulso"
+  ],
+  "id": "s-2027-04-08-bonus",
+  "d": "2027-04-08",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-09-post",
+  "d": "2027-04-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "081-2027-04-09"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Compare _pelo menos 3 lojas_ antes de uma compra grande.",
+  "sub": "",
+  "dark": true,
+  "id": "s-2027-04-09-bonus",
+  "d": "2027-04-09",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-04-12-post",
+  "d": "2027-04-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "082-2027-04-12"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Comprou algo por impulso?",
+  "sub": "_Tudo bem._ Registre e siga em frente.",
+  "dark": false,
+  "id": "s-2027-04-12-bonus",
+  "d": "2027-04-12",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Qual é o seu _maior desafio_ com dinheiro hoje?",
+  "sub": "",
+  "id": "s-2027-04-13-bonus",
+  "d": "2027-04-13",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-14-post",
+  "d": "2027-04-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "083-2027-04-14"
+ },
+ {
+  "title": "Verificação _em duas etapas._",
+  "sub": "Um código por e-mail para proteger sua conta.",
+  "t": "app",
+  "id": "s-2027-04-14-bonus",
+  "d": "2027-04-14",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Tenha _uma meta curta_ e uma longa.",
+  "sub": "A curta mantém a motivação. A longa, o rumo.",
+  "dark": true,
+  "id": "s-2027-04-15-bonus",
+  "d": "2027-04-15",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-16-post",
+  "d": "2027-04-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "084-2027-04-16"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Seu futuro eu _agradece_ cada real guardado hoje.",
+  "sub": "",
+  "dark": false,
+  "id": "s-2027-04-16-bonus",
+  "d": "2027-04-16",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-04-19-post",
+  "d": "2027-04-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "085-2027-04-19"
+ },
+ {
+  "t": "mito",
+  "mito": "Só dá para investir com muito dinheiro.",
+  "verdade": "Há opções com **valores baixos**. O importante é começar.",
+  "id": "s-2027-04-19-bonus",
+  "d": "2027-04-19",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você usa _quantos cartões_ de crédito?",
+  "sub": "",
+  "id": "s-2027-04-20-bonus",
+  "d": "2027-04-20",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-21-post",
+  "d": "2027-04-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "086-2027-04-21"
+ },
+ {
+  "title": "Sem acesso _à sua conta bancária._",
+  "sub": "Você registra só o que quiser.",
+  "t": "app",
+  "id": "s-2027-04-21-bonus",
+  "d": "2027-04-21",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Antes de parcelar, pergunte:",
+  "sub": "_Eu compraria isso à vista?_",
+  "dark": false,
+  "id": "s-2027-04-22-bonus",
+  "d": "2027-04-22",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-23-post",
+  "d": "2027-04-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "087-2027-04-23"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "15 min",
+  "text": "por semana é o tempo de uma boa revisão das finanças.",
+  "pre": "",
+  "id": "s-2027-04-23-bonus",
+  "d": "2027-04-23",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-04-26-post",
+  "d": "2027-04-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "088-2027-04-26"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Não empreste o _nome_ nem o _cartão._",
+  "sub": "Dívida de outra pessoa vira sua.",
+  "dark": false,
+  "id": "s-2027-04-26-bonus",
+  "d": "2027-04-26",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "O melhor desconto é _não precisar_ da compra.",
+  "sub": "",
+  "dark": true,
+  "id": "s-2027-04-27-bonus",
+  "d": "2027-04-27",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-28-post",
+  "d": "2027-04-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "089-2027-04-28"
+ },
+ {
+  "t": "list",
+  "title": "Para economizar _no mercado_",
+  "tag": "Mercado",
+  "items": [
+   "Lista",
+   "Comer antes",
+   "Preço por quilo"
+  ],
+  "id": "s-2027-04-28-bonus",
+  "d": "2027-04-28",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "O que você quer ver _mais por aqui?_",
+  "sub": "Dicas, app, desafios…",
+  "id": "s-2027-04-29-bonus",
+  "d": "2027-04-29",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-04-30-post",
+  "d": "2027-04-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "090-2027-04-30"
+ },
+ {
+  "t": "tip",
+  "tag": "Imposto de Renda",
+  "title": "Declarou o _Imposto de Renda?_",
+  "sub": "Confira o prazo oficial no site da Receita Federal.",
+  "id": "s-2027-04-30-bonus",
+  "d": "2027-04-30",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-05-03-post",
+  "d": "2027-05-03",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "091-2027-05-03"
+ },
+ {
+  "title": "Dá para _editar pelo Telegram._",
+  "msgs": [
+   [
+    "u",
+    "/listar"
+   ],
+   [
+    "wt",
+    "🧾 **Últimos lançamentos**\n1. Mercado · − R$ 187,40\n2. Uber · − R$ 23,90\n\nToque em um para editar ou apagar."
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-05-03-bonus",
+  "d": "2027-05-03",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Fim de semana também é _dia de registrar._",
+  "sub": "É quando mais escapa gasto pequeno.",
+  "dark": true,
+  "id": "s-2027-05-04-bonus",
+  "d": "2027-05-04",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-05-post",
+  "d": "2027-05-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "092-2027-05-05"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Crie uma categoria para _presentes._",
+  "sub": "Aniversários chegam todo ano, e sempre na mesma data.",
+  "dark": false,
+  "id": "s-2027-05-05-bonus",
+  "d": "2027-05-05",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 5",
+  "text": "também é gasto. E é o que mais escapa.",
+  "pre": "",
+  "id": "s-2027-05-06-bonus",
+  "d": "2027-05-06",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-07-post",
+  "d": "2027-05-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "093-2027-05-07"
+ },
+ {
+  "t": "mito",
+  "mito": "Pix não conta como gasto.",
+  "verdade": "Pix, débito, crédito: **tudo sai do mesmo bolso.**",
+  "id": "s-2027-05-07-bonus",
+  "d": "2027-05-07",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-05-10-post",
+  "d": "2027-05-10",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "094-2027-05-10"
+ },
+ {
+  "t": "q",
+  "title": "Você já fez o _desafio das 52 semanas?_",
+  "sub": "",
+  "id": "s-2027-05-10-bonus",
+  "d": "2027-05-10",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "_Reserva de emergência_ é para emergência.",
+  "sub": "Promoção não é emergência.",
+  "dark": false,
+  "id": "s-2027-05-11-bonus",
+  "d": "2027-05-11",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-12-post",
+  "d": "2027-05-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "095-2027-05-12"
+ },
+ {
+  "title": "Vários cartões, _cada um com sua fatura._",
+  "sub": "Fechamento e vencimento separados. No Pro.",
+  "t": "app",
+  "id": "s-2027-05-12-bonus",
+  "d": "2027-05-12",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Olhe o gasto do mês _pela metade do mês._",
+  "sub": "Dá tempo de corrigir a rota.",
+  "dark": false,
+  "id": "s-2027-05-13-bonus",
+  "d": "2027-05-13",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-14-post",
+  "d": "2027-05-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "096-2027-05-14"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Tarifa bancária pesando?",
+  "sub": "_Existem contas digitais_ sem mensalidade.",
+  "dark": true,
+  "id": "s-2027-05-14-bonus",
+  "d": "2027-05-14",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-05-17-post",
+  "d": "2027-05-17",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "097-2027-05-17"
+ },
+ {
+  "t": "q",
+  "title": "Qual gasto você _cortou_ e nem sentiu falta?",
+  "sub": "",
+  "id": "s-2027-05-17-bonus",
+  "d": "2027-05-17",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Relatórios de _3, 6 ou 12 meses._",
+  "img": "rel-top",
+  "t": "app",
+  "id": "s-2027-05-18-bonus",
+  "d": "2027-05-18",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-19-post",
+  "d": "2027-05-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "098-2027-05-19"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Troque o café na rua por _um dia sim, um dia não._",
+  "sub": "Não precisa cortar tudo para economizar.",
+  "dark": false,
+  "id": "s-2027-05-19-bonus",
+  "d": "2027-05-19",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Contas de _começo de ano_",
+  "tag": "Planejamento",
+  "items": [
+   "IPVA",
+   "IPTU",
+   "Material escolar"
+  ],
+  "id": "s-2027-05-20-bonus",
+  "d": "2027-05-20",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-21-post",
+  "d": "2027-05-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "099-2027-05-21"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Evite comprar _cansado._",
+  "sub": "Decisão de fim de dia costuma sair cara.",
+  "dark": false,
+  "id": "s-2027-05-21-bonus",
+  "d": "2027-05-21",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-05-24-post",
+  "d": "2027-05-24",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "100-2027-05-24"
+ },
+ {
+  "t": "num",
+  "tag": "Obrigado",
+  "big": "100",
+  "text": "posts no feed. Obrigado por acompanhar! 💙",
+  "pre": "",
+  "id": "s-2027-05-24-bonus",
+  "d": "2027-05-24",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "80%",
+  "text": "do limite do orçamento? O Wally te avisa no Telegram.",
+  "pre": "",
+  "id": "s-2027-05-25-bonus",
+  "d": "2027-05-25",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-26-post",
+  "d": "2027-05-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "101-2027-05-26"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Prefira _poucas metas_ bem definidas.",
+  "sub": "Dez metas ao mesmo tempo viram nenhuma.",
+  "dark": false,
+  "id": "s-2027-05-26-bonus",
+  "d": "2027-05-26",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você prefere _guardar para um sonho_ ou _investir_ direto?",
+  "sub": "",
+  "id": "s-2027-05-27-bonus",
+  "d": "2027-05-27",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-05-28-post",
+  "d": "2027-05-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "102-2027-05-28"
+ },
+ {
+  "title": "O Wally _no celular._",
+  "sub": "Tudo pelo navegador, com menu fácil de alcançar.",
+  "t": "app",
+  "id": "s-2027-05-28-bonus",
+  "d": "2027-05-28",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-05-31-post",
+  "d": "2027-05-31",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "103-2027-05-31"
+ },
+ {
+  "t": "mito",
+  "mito": "Limite do cartão é dinheiro disponível.",
+  "verdade": "Limite é **crédito**, não saldo.",
+  "id": "s-2027-05-31-bonus",
+  "d": "2027-05-31",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Salário variou?",
+  "sub": "_Planeje pelo menor valor_ dos últimos meses.",
+  "dark": false,
+  "id": "s-2027-06-01-bonus",
+  "d": "2027-06-01",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-02-post",
+  "d": "2027-06-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "104-2027-06-02"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Pagamento extra?",
+  "sub": "_Metade guarda, metade aproveita._ Todo mundo sai feliz.",
+  "dark": true,
+  "id": "s-2027-06-02-bonus",
+  "d": "2027-06-02",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Qual foi a sua _maior conquista financeira?_",
+  "sub": "Toda conquista conta.",
+  "id": "s-2027-06-03-bonus",
+  "d": "2027-06-03",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-04-post",
+  "d": "2027-06-04",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "105-2027-06-04"
+ },
+ {
+  "title": "Gastou no fim de semana?",
+  "sub": "_Registre em segundos,_ mesmo depois.",
+  "msgs": [
+   [
+    "u",
+    "cinema sábado 64"
+   ],
+   [
+    "card",
+    {
+     "icon": "🎬",
+     "name": "Cinema",
+     "cat": "Lazer · Hoje",
+     "amt": "64,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-06-04-bonus",
+  "d": "2027-06-04",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-06-07-post",
+  "d": "2027-06-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "106-2027-06-07"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Desconfie de _“só hoje”._",
+  "sub": "Urgência é a ferramenta favorita de quem vende.",
+  "dark": false,
+  "id": "s-2027-06-07-bonus",
+  "d": "2027-06-07",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Não precisa ser _perfeito._",
+  "sub": "Precisa ser _constante._",
+  "dark": true,
+  "id": "s-2027-06-08-bonus",
+  "d": "2027-06-08",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-09-post",
+  "d": "2027-06-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "107-2027-06-09"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 0",
+  "text": "para começar a usar o Wally.",
+  "pre": "",
+  "id": "s-2027-06-09-bonus",
+  "d": "2027-06-09",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Presentes _sem apertar_",
+  "tag": "Presentes",
+  "items": [
+   "Lista de nomes",
+   "Valor por pessoa",
+   "Comprar cedo"
+  ],
+  "id": "s-2027-06-10-bonus",
+  "d": "2027-06-10",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-11-post",
+  "d": "2027-06-11",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "108-2027-06-11"
+ },
+ {
+  "t": "tip",
+  "tag": "Dia dos Namorados",
+  "title": "Amanhã é Dia dos Namorados. 💘",
+  "sub": "Que tal criar _uma meta a dois?_",
+  "id": "s-2027-06-11-bonus",
+  "d": "2027-06-11",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-06-14-post",
+  "d": "2027-06-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "109-2027-06-14"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Revise as _metas_ a cada trimestre.",
+  "sub": "A vida muda, e o plano também pode mudar.",
+  "dark": false,
+  "id": "s-2027-06-14-bonus",
+  "d": "2027-06-14",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você já teve que usar a _reserva?_",
+  "sub": "Ela salvou o dia?",
+  "id": "s-2027-06-15-bonus",
+  "d": "2027-06-15",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-16-post",
+  "d": "2027-06-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "110-2027-06-16"
+ },
+ {
+  "title": "Gasto do _cafezinho_ também.",
+  "msgs": [
+   [
+    "u",
+    "café 7,50"
+   ],
+   [
+    "card",
+    {
+     "icon": "☕",
+     "name": "Café",
+     "cat": "Alimentação · Hoje",
+     "amt": "7,50",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-06-16-bonus",
+  "d": "2027-06-16",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Anote o que _entrou_ e o que _saiu._",
+  "sub": "O resto é consequência.",
+  "dark": true,
+  "id": "s-2027-06-17-bonus",
+  "d": "2027-06-17",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-18-post",
+  "d": "2027-06-18",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "111-2027-06-18"
+ },
+ {
+  "t": "mito",
+  "mito": "Dinheiro na conta corrente está guardado.",
+  "verdade": "Está é **fácil de gastar.**",
+  "id": "s-2027-06-18-bonus",
+  "d": "2027-06-18",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-06-21-post",
+  "d": "2027-06-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "112-2027-06-21"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "_Planilha abandonada_ não organiza nada.",
+  "sub": "O melhor controle é o que você consegue manter.",
+  "dark": true,
+  "id": "s-2027-06-21-bonus",
+  "d": "2027-06-21",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Guarde o _troco digital._",
+  "sub": "Arredondar compras e guardar a diferença também conta.",
+  "dark": false,
+  "id": "s-2027-06-22-bonus",
+  "d": "2027-06-22",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-23-post",
+  "d": "2027-06-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "113-2027-06-23"
+ },
+ {
+  "t": "q",
+  "title": "Como você _divide as contas_ em casa?",
+  "sub": "",
+  "id": "s-2027-06-23-bonus",
+  "d": "2027-06-23",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Transações _organizadas._",
+  "img": "dash-bottom",
+  "t": "app",
+  "id": "s-2027-06-24-bonus",
+  "d": "2027-06-24",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-25-post",
+  "d": "2027-06-25",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "114-2027-06-25"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 19,90",
+  "text": "por mês é o Wally Pro, com o bot de IA no Telegram.",
+  "pre": "",
+  "id": "s-2027-06-25-bonus",
+  "d": "2027-06-25",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-06-28-post",
+  "d": "2027-06-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "115-2027-06-28"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Gastos anuais?",
+  "sub": "_Divida por 12_ e separe um pouco todo mês.",
+  "dark": false,
+  "id": "s-2027-06-28-bonus",
+  "d": "2027-06-28",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "IPVA, IPTU, matrícula…",
+  "sub": "_Comece a separar_ meses antes.",
+  "dark": true,
+  "id": "s-2027-06-29-bonus",
+  "d": "2027-06-29",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-06-30-post",
+  "d": "2027-06-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "116-2027-06-30"
+ },
+ {
+  "t": "list",
+  "title": "Viagem _planejada_",
+  "tag": "Viagem",
+  "items": [
+   "Orçamento total",
+   "Meta no Wally",
+   "Reserva antecipada"
+  ],
+  "id": "s-2027-06-30-bonus",
+  "d": "2027-06-30",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Férias",
+  "title": "Férias chegando.",
+  "sub": "_Registre os gastos da viagem_ em tempo real pelo Telegram.",
+  "id": "s-2027-07-01-bonus",
+  "d": "2027-07-01",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-02-post",
+  "d": "2027-07-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "117-2027-07-02"
+ },
+ {
+  "t": "q",
+  "title": "Você tem um _dia fixo_ para pagar as contas?",
+  "sub": "",
+  "id": "s-2027-07-02-bonus",
+  "d": "2027-07-02",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-07-05-post",
+  "d": "2027-07-05",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "118-2027-07-05"
+ },
+ {
+  "title": "Comece _grátis._",
+  "sub": "Painel, histórico e relatórios básicos no plano gratuito.",
+  "t": "app",
+  "id": "s-2027-07-05-bonus",
+  "d": "2027-07-05",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Planeje as _férias_ com antecedência.",
+  "sub": "Passagem comprada cedo costuma sair mais barata.",
+  "dark": true,
+  "id": "s-2027-07-06-bonus",
+  "d": "2027-07-06",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-07-post",
+  "d": "2027-07-07",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "119-2027-07-07"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Toda compra grande merece uma _pesquisa de preço._",
+  "sub": "",
+  "dark": false,
+  "id": "s-2027-07-07-bonus",
+  "d": "2027-07-07",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Organizar as finanças leva horas.",
+  "verdade": "Com o Wally, **segundos por gasto.**",
+  "id": "s-2027-07-08-bonus",
+  "d": "2027-07-08",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-09-post",
+  "d": "2027-07-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "120-2027-07-09"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Cartão de loja com desconto?",
+  "sub": "_Mais um cartão_ é mais uma fatura para controlar.",
+  "dark": false,
+  "id": "s-2027-07-09-bonus",
+  "d": "2027-07-09",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-07-12-post",
+  "d": "2027-07-12",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "121-2027-07-12"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "2 cartões",
+  "text": "bem controlados valem mais do que 5 esquecidos.",
+  "pre": "",
+  "id": "s-2027-07-12-bonus",
+  "d": "2027-07-12",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Qual app você _abre mais_ no celular?",
+  "sub": "E quanto ele te custa por mês?",
+  "id": "s-2027-07-13-bonus",
+  "d": "2027-07-13",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-14-post",
+  "d": "2027-07-14",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "122-2027-07-14"
+ },
+ {
+  "title": "Pro: _R$ 19,90 por mês._",
+  "sub": "Bot com IA no Telegram, várias contas, relatórios avançados e Excel.",
+  "t": "app",
+  "id": "s-2027-07-14-bonus",
+  "d": "2027-07-14",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Economizou em algo?",
+  "sub": "_Transfira o valor_ para a meta na hora.",
+  "dark": false,
+  "id": "s-2027-07-15-bonus",
+  "d": "2027-07-15",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-16-post",
+  "d": "2027-07-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "123-2027-07-16"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Evite _misturar_ as contas da empresa com as pessoais.",
+  "sub": "",
+  "dark": true,
+  "id": "s-2027-07-16-bonus",
+  "d": "2027-07-16",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-07-19-post",
+  "d": "2027-07-19",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "124-2027-07-19"
+ },
+ {
+  "t": "q",
+  "title": "Você já comprou algo e _devolveu_ no prazo?",
+  "sub": "",
+  "id": "s-2027-07-19-bonus",
+  "d": "2027-07-19",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Não deixe o dinheiro da meta _na conta corrente._",
+  "sub": "Fica fácil demais gastar.",
+  "dark": true,
+  "id": "s-2027-07-20-bonus",
+  "d": "2027-07-20",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-21-post",
+  "d": "2027-07-21",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "125-2027-07-21"
+ },
+ {
+  "title": "Farmácia, mercado, _tudo no lugar._",
+  "msgs": [
+   [
+    "u",
+    "farmácia 38,90"
+   ],
+   [
+    "card",
+    {
+     "icon": "💊",
+     "name": "Farmácia",
+     "cat": "Saúde · Hoje",
+     "amt": "38,90",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-07-21-bonus",
+  "d": "2027-07-21",
+  "time": "17:31:00"
+ },
+ {
+  "t": "list",
+  "title": "Rotina de _5 minutos_",
+  "tag": "Hábitos",
+  "items": [
+   "Registrar",
+   "Olhar o saldo",
+   "Checar o orçamento"
+  ],
+  "id": "s-2027-07-22-bonus",
+  "d": "2027-07-22",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-23-post",
+  "d": "2027-07-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "126-2027-07-23"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Aprenda a dizer _“esse mês não dá”._",
+  "sub": "Sem culpa.",
+  "dark": false,
+  "id": "s-2027-07-23-bonus",
+  "d": "2027-07-23",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-07-26-post",
+  "d": "2027-07-26",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "127-2027-07-26"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "R$ 100",
+  "text": "guardados por mês viram **R$ 1.200** no ano, sem contar rendimento.",
+  "pre": "",
+  "id": "s-2027-07-26-bonus",
+  "d": "2027-07-26",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Revise os _gastos com pets._",
+  "sub": "Ração, banho e veterinário também merecem categoria.",
+  "dark": false,
+  "id": "s-2027-07-27-bonus",
+  "d": "2027-07-27",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-28-post",
+  "d": "2027-07-28",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "128-2027-07-28"
+ },
+ {
+  "t": "mito",
+  "mito": "Falar de dinheiro é falta de educação.",
+  "verdade": "Falar de dinheiro **evita problema.**",
+  "id": "s-2027-07-28-bonus",
+  "d": "2027-07-28",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Qual _despesa inesperada_ mais te pegou este ano?",
+  "sub": "",
+  "id": "s-2027-07-29-bonus",
+  "d": "2027-07-29",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-07-30-post",
+  "d": "2027-07-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "129-2027-07-30"
+ },
+ {
+  "title": "Venda algo? _Registre a entrada._",
+  "msgs": [
+   [
+    "u",
+    "vendi a bicicleta 450"
+   ],
+   [
+    "card",
+    {
+     "icon": "🚲",
+     "name": "Venda da bicicleta",
+     "cat": "Outras receitas · Hoje",
+     "amt": "450,00",
+     "inc": true
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-07-30-bonus",
+  "d": "2027-07-30",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-08-02-post",
+  "d": "2027-08-02",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "130-2027-08-02"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Anote os gastos com _filhos._",
+  "sub": "Escola, lanche e atividades somam mais do que parece.",
+  "dark": false,
+  "id": "s-2027-08-02-bonus",
+  "d": "2027-08-02",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Controle financeiro _não é dieta._",
+  "sub": "É saber para onde vai, e escolher.",
+  "dark": true,
+  "id": "s-2027-08-03-bonus",
+  "d": "2027-08-03",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-04-post",
+  "d": "2027-08-04",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "131-2027-08-04"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Comemore quando _bater uma meta._",
+  "sub": "Com um valor que já estava planejado.",
+  "dark": false,
+  "id": "s-2027-08-04-bonus",
+  "d": "2027-08-04",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você acompanha os seus _gastos pelo celular?_",
+  "sub": "",
+  "id": "s-2027-08-05-bonus",
+  "d": "2027-08-05",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-06-post",
+  "d": "2027-08-06",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "132-2027-08-06"
+ },
+ {
+  "title": "O mês anterior _num comando._",
+  "msgs": [
+   [
+    "u",
+    "/saldo 09/2026"
+   ],
+   [
+    "wt",
+    "📊 **Resumo de setembro**\nReceitas: R$ 6.800,00\nDespesas: R$ 3.240,00\nSaldo do mês: R$ 3.560,00"
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-08-06-bonus",
+  "d": "2027-08-06",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-08-09-post",
+  "d": "2027-08-09",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "133-2027-08-09"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Evite empréstimo para _consumo._",
+  "sub": "Pagar juros para comprar algo que perde valor raramente vale.",
+  "dark": true,
+  "id": "s-2027-08-09-bonus",
+  "d": "2027-08-09",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "365",
+  "text": "chances por ano de registrar um gasto. Hoje é uma delas.",
+  "pre": "",
+  "id": "s-2027-08-10-bonus",
+  "d": "2027-08-10",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-11-post",
+  "d": "2027-08-11",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "134-2027-08-11"
+ },
+ {
+  "t": "list",
+  "title": "Sinais de _golpe_",
+  "tag": "Segurança",
+  "items": [
+   "Urgência",
+   "Pedido de senha",
+   "Ganho fácil"
+  ],
+  "id": "s-2027-08-11-bonus",
+  "d": "2027-08-11",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Dinheiro guardado _tem que ter nome._",
+  "sub": "Reserva, viagem, carro… cada um no seu lugar.",
+  "dark": false,
+  "id": "s-2027-08-12-bonus",
+  "d": "2027-08-12",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-13-post",
+  "d": "2027-08-13",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "135-2027-08-13"
+ },
+ {
+  "t": "q",
+  "title": "Qual seria a sua _primeira meta_ no Wally?",
+  "sub": "",
+  "id": "s-2027-08-13-bonus",
+  "d": "2027-08-13",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-08-16-post",
+  "d": "2027-08-16",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "136-2027-08-16"
+ },
+ {
+  "title": "Taxa de _poupança_ nos relatórios.",
+  "sub": "Veja quanto da renda você está guardando.",
+  "t": "app",
+  "id": "s-2027-08-16-bonus",
+  "d": "2027-08-16",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Um bom começo:",
+  "sub": "_Guardar 10%_ de tudo o que entra.",
+  "dark": true,
+  "id": "s-2027-08-17-bonus",
+  "d": "2027-08-17",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-18-post",
+  "d": "2027-08-18",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "137-2027-08-18"
+ },
+ {
+  "t": "mito",
+  "mito": "Promoção sempre é economia.",
+  "verdade": "Só se você **já ia comprar.**",
+  "id": "s-2027-08-18-bonus",
+  "d": "2027-08-18",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Reveja o _orçamento_ quando a vida mudar.",
+  "sub": "Casamento, filho, emprego novo, mudança de casa.",
+  "dark": true,
+  "id": "s-2027-08-19-bonus",
+  "d": "2027-08-19",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-20-post",
+  "d": "2027-08-20",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "138-2027-08-20"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "_Um passo por vez._",
+  "sub": "Arrume uma categoria por mês.",
+  "dark": false,
+  "id": "s-2027-08-20-bonus",
+  "d": "2027-08-20",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-08-23-post",
+  "d": "2027-08-23",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "139-2027-08-23"
+ },
+ {
+  "t": "q",
+  "title": "Você já _negociou_ uma conta fixa?",
+  "sub": "Internet, celular, seguro…",
+  "id": "s-2027-08-23-bonus",
+  "d": "2027-08-23",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Seu saldo _comparado_ com o mês passado.",
+  "img": "dash-top",
+  "t": "app",
+  "id": "s-2027-08-24-bonus",
+  "d": "2027-08-24",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-25-post",
+  "d": "2027-08-25",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "140-2027-08-25"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "6 meses",
+  "text": "de fluxo de receitas e despesas no painel do Wally.",
+  "pre": "",
+  "id": "s-2027-08-25-bonus",
+  "d": "2027-08-25",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Troque _“mereço”_ por _“planejei”._",
+  "sub": "Gastar com prazer é melhor quando cabe no plano.",
+  "dark": false,
+  "id": "s-2027-08-26-bonus",
+  "d": "2027-08-26",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-08-27-post",
+  "d": "2027-08-27",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "141-2027-08-27"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Faça uma _semana sem gastos extras._",
+  "sub": "Só o essencial. Depois conte quanto sobrou.",
+  "dark": true,
+  "id": "s-2027-08-27-bonus",
+  "d": "2027-08-27",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-08-30-post",
+  "d": "2027-08-30",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "142-2027-08-30"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Aniversário de alguém?",
+  "sub": "_Combine o valor_ do presente coletivo antes.",
+  "dark": false,
+  "id": "s-2027-08-30-bonus",
+  "d": "2027-08-30",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "Você tem _dinheiro guardado_ para presentes?",
+  "sub": "",
+  "id": "s-2027-08-31-bonus",
+  "d": "2027-08-31",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-01-post",
+  "d": "2027-09-01",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "143-2027-09-01"
+ },
+ {
+  "t": "list",
+  "title": "Para _renda variável_",
+  "tag": "Planejamento",
+  "items": [
+   "Renda média",
+   "Salário fixo para você",
+   "Reserva maior"
+  ],
+  "id": "s-2027-09-01-bonus",
+  "d": "2027-09-01",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Academia, streaming, _tudo registrado._",
+  "msgs": [
+   [
+    "u",
+    "academia 89,90"
+   ],
+   [
+    "card",
+    {
+     "icon": "🏋️",
+     "name": "Academia",
+     "cat": "Saúde · Hoje",
+     "amt": "89,90",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-09-02-bonus",
+  "d": "2027-09-02",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-03-post",
+  "d": "2027-09-03",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "144-2027-09-03"
+ },
+ {
+  "t": "mito",
+  "mito": "Imposto de Renda é só para rico.",
+  "verdade": "A obrigação depende de **vários critérios.** Confira as regras.",
+  "id": "s-2027-09-03-bonus",
+  "d": "2027-09-03",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-09-06-post",
+  "d": "2027-09-06",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "145-2027-09-06"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Seguro do carro vencendo?",
+  "sub": "_Faça 3 cotações_ antes de renovar.",
+  "dark": true,
+  "id": "s-2027-09-06-bonus",
+  "d": "2027-09-06",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "7 de Setembro",
+  "title": "Independência financeira _é liberdade de escolha._",
+  "sub": "Bom feriado! 🇧🇷",
+  "id": "s-2027-09-07-bonus",
+  "d": "2027-09-07",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-08-post",
+  "d": "2027-09-08",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "146-2027-09-08"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Guarde o _13º_ antes de gastar.",
+  "sub": "Decida o destino dele com calma.",
+  "dark": false,
+  "id": "s-2027-09-08-bonus",
+  "d": "2027-09-08",
+  "time": "17:31:00"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "1 mensagem",
+  "text": "e o gasto está registrado e categorizado.",
+  "pre": "Basta",
+  "id": "s-2027-09-09-bonus",
+  "d": "2027-09-09",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-10-post",
+  "d": "2027-09-10",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "147-2027-09-10"
+ },
+ {
+  "t": "q",
+  "title": "Qual _pergunta sobre finanças_ você nunca teve coragem de fazer?",
+  "sub": "Pode mandar.",
+  "id": "s-2027-09-10-bonus",
+  "d": "2027-09-10",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-09-13-post",
+  "d": "2027-09-13",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "148-2027-09-13"
+ },
+ {
+  "title": "Presente de aniversário? _Registrado._",
+  "msgs": [
+   [
+    "u",
+    "presente da Ana 120"
+   ],
+   [
+    "card",
+    {
+     "icon": "🎁",
+     "name": "Presente da Ana",
+     "cat": "Presentes · Hoje",
+     "amt": "120,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-09-13-bonus",
+  "d": "2027-09-13",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Cashback e pontos _ajudam_, mas não justificam gastar mais.",
+  "sub": "",
+  "dark": false,
+  "id": "s-2027-09-14-bonus",
+  "d": "2027-09-14",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-15-post",
+  "d": "2027-09-15",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "149-2027-09-15"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Vendeu algo usado?",
+  "sub": "_Mande o valor direto_ para uma meta.",
+  "dark": true,
+  "id": "s-2027-09-15-bonus",
+  "d": "2027-09-15",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Recebeu restituição do IR?",
+  "sub": "_Dê um destino_ antes de ela sumir.",
+  "dark": false,
+  "id": "s-2027-09-16-bonus",
+  "d": "2027-09-16",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-17-post",
+  "d": "2027-09-17",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "150-2027-09-17"
+ },
+ {
+  "t": "q",
+  "title": "Você gasta mais no _cartão_ ou no _Pix?_",
+  "sub": "",
+  "id": "s-2027-09-17-bonus",
+  "d": "2027-09-17",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-09-20-post",
+  "d": "2027-09-20",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "151-2027-09-20"
+ },
+ {
+  "title": "Pet também _tem categoria._",
+  "msgs": [
+   [
+    "u",
+    "ração 145"
+   ],
+   [
+    "card",
+    {
+     "icon": "🐶",
+     "name": "Ração",
+     "cat": "Pet · Hoje",
+     "amt": "145,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-09-20-bonus",
+  "d": "2027-09-20",
+  "time": "17:31:00"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Revise os _gastos do semestre_ em julho.",
+  "sub": "Metade do ano é ótimo momento para ajustar.",
+  "dark": true,
+  "id": "s-2027-09-21-bonus",
+  "d": "2027-09-21",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-22-post",
+  "d": "2027-09-22",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "152-2027-09-22"
+ },
+ {
+  "t": "list",
+  "title": "Casal que _se organiza_",
+  "tag": "Finanças a dois",
+  "items": [
+   "Conversa aberta",
+   "Metas juntos",
+   "Divisão combinada"
+  ],
+  "id": "s-2027-09-22-bonus",
+  "d": "2027-09-22",
+  "time": "17:31:00"
+ },
+ {
+  "t": "mito",
+  "mito": "Não dá para organizar com renda variável.",
+  "verdade": "Dá, e é **ainda mais importante.**",
+  "id": "s-2027-09-23-bonus",
+  "d": "2027-09-23",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-24-post",
+  "d": "2027-09-24",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "153-2027-09-24"
+ },
+ {
+  "t": "num",
+  "tag": "Pra pensar",
+  "big": "3, 6 ou 12",
+  "text": "meses de relatórios para comparar no Wally.",
+  "pre": "",
+  "id": "s-2027-09-24-bonus",
+  "d": "2027-09-24",
+  "time": "17:31:00"
+ },
+ {
+  "id": "s-2027-09-27-post",
+  "d": "2027-09-27",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "154-2027-09-27"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Controle não é _restrição._",
+  "sub": "É liberdade para gastar no que importa.",
+  "dark": true,
+  "id": "s-2027-09-27-bonus",
+  "d": "2027-09-27",
+  "time": "17:31:00"
+ },
+ {
+  "t": "q",
+  "title": "O que te _motiva_ a guardar dinheiro?",
+  "sub": "",
+  "id": "s-2027-09-28-bonus",
+  "d": "2027-09-28",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-09-29-post",
+  "d": "2027-09-29",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "155-2027-09-29"
+ },
+ {
+  "t": "tip",
+  "tag": "Dica rápida",
+  "title": "Conta de luz alta?",
+  "sub": "_Aparelhos em standby_ também consomem.",
+  "dark": true,
+  "id": "s-2027-09-29-bonus",
+  "d": "2027-09-29",
+  "time": "17:31:00"
+ },
+ {
+  "title": "Gasolina? _Uma mensagem._",
+  "msgs": [
+   [
+    "u",
+    "gasolina 180"
+   ],
+   [
+    "card",
+    {
+     "icon": "⛽",
+     "name": "Gasolina",
+     "cat": "Transporte · Hoje",
+     "amt": "180,00",
+     "inc": false
+    }
+   ]
+  ],
+  "t": "app",
+  "id": "s-2027-09-30-bonus",
+  "d": "2027-09-30",
+  "time": "17:30:00"
+ },
+ {
+  "id": "s-2027-10-01-post",
+  "d": "2027-10-01",
+  "time": "17:30:00",
+  "t": "post",
+  "post": "156-2027-10-01"
+ },
+ {
+  "t": "tip",
+  "tag": "Um ano",
+  "title": "Um ano de _dinheiro organizado._",
+  "sub": "Obrigado por estar com a gente. 💙",
+  "id": "s-2027-10-01-bonus",
+  "d": "2027-10-01",
+  "time": "17:31:00"
+ }
+]
