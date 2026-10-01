@@ -44,34 +44,53 @@ def scheduled_at(date_str, time_str):
     return datetime.fromisoformat(f"{date_str}T{time_str}").replace(tzinfo=TZ)
 
 
-def collect_due(now, published_ids):
-    """Retorna os itens vencidos e ainda nao publicados, do mais antigo ao mais novo."""
-    due = []
-
+def all_items():
+    """Normaliza posts e stories num formato unico."""
     for p in load_json(ROOT / "posts.json", []):
-        when = scheduled_at(p["d"], POST_TIME)
-        if p["id"] not in published_ids and now - LOOKBACK <= when <= now:
-            due.append({
-                "id": p["id"],
-                "kind": "post",
-                "when": when,
-                "image_url": f"{REPO_RAW_BASE}/posts/{p['id']}.jpg",
-                "caption": p.get("caption", ""),
-            })
+        yield {
+            "id": p["id"],
+            "kind": "post",
+            "when": scheduled_at(p["d"], POST_TIME),
+            "image_url": f"{REPO_RAW_BASE}/posts/{p['id']}.jpg",
+            "caption": p.get("caption", ""),
+        }
 
     for s in load_json(ROOT / "stories.json", []):
-        when = scheduled_at(s["d"], s["time"])
-        if s["id"] not in published_ids and now - LOOKBACK <= when <= now:
-            due.append({
-                "id": s["id"],
-                "kind": "story",
-                "when": when,
-                "image_url": f"{REPO_RAW_BASE}/stories/{s['id']}.jpg",
-                "caption": None,  # Stories via API nao aceitam legenda.
-            })
+        yield {
+            "id": s["id"],
+            "kind": "story",
+            "when": scheduled_at(s["d"], s["time"]),
+            "image_url": f"{REPO_RAW_BASE}/stories/{s['id']}.jpg",
+            "caption": None,  # Stories via API nao aceitam legenda.
+        }
 
+
+def collect_due(now, published_ids):
+    """Retorna os itens vencidos e ainda nao publicados, do mais antigo ao mais novo."""
+    due = [
+        i for i in all_items()
+        if i["id"] not in published_ids and now - LOOKBACK <= i["when"] <= now
+    ]
     due.sort(key=lambda i: i["when"])
     return due
+
+
+def collect_forced(ids):
+    """Itens pedidos explicitamente, ignorando horario e published.json.
+
+    Serve para testar, republicar algo apagado por engano ou recuperar um atraso
+    que passou da janela.
+    """
+    por_id = {i["id"]: i for i in all_items()}
+    forced, faltando = [], []
+    for item_id in ids:
+        if item_id in por_id:
+            forced.append(por_id[item_id])
+        else:
+            faltando.append(item_id)
+    if faltando:
+        raise SystemExit(f"id(s) nao encontrado(s) nos JSONs: {', '.join(faltando)}")
+    return forced
 
 
 def publish(item, ig_user_id, token):
@@ -109,9 +128,15 @@ def main():
 
     now = datetime.now(TZ)
     published = load_json(PUBLISHED_FILE, {}) or {}
-    due = collect_due(now, set(published))
+    forced_ids = [i.strip() for i in os.environ.get("FORCE_IDS", "").split(",") if i.strip()]
 
-    print(f"agora: {now:%Y-%m-%d %H:%M:%S %Z} | vencidos: {len(due)} | ja publicados: {len(published)}")
+    if forced_ids:
+        due = collect_forced(forced_ids)
+        print(f"MODO FORCADO: {len(due)} item(ns) pedidos explicitamente")
+    else:
+        due = collect_due(now, set(published))
+
+    print(f"agora: {now:%Y-%m-%d %H:%M:%S %Z} | a publicar: {len(due)} | ja publicados: {len(published)}")
     if dry_run:
         print("DRY_RUN ativo, nada sera publicado")
 

@@ -11,6 +11,10 @@ on:
         description: "Simular sem publicar"
         type: boolean
         default: false
+      force_ids:
+        description: "Publicar estes ids agora, separados por virgula (ignora horario e published.json)"
+        type: string
+        default: ""
 
 # Duas execucoes simultaneas poderiam publicar o mesmo item duas vezes.
 concurrency:
@@ -39,6 +43,7 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          FORCE_IDS: ${{ inputs.force_ids }}
         run: python publish.py
 
       - name: Registrar o que foi publicado
