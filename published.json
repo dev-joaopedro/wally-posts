@@ -1,8 +1,12 @@
 {
   "001-2026-10-05": {
-    "ig_media_id": "17985069750077132",
-    "published_at": "2026-09-30T21:26:45-03:00",
+    "ig_media_id": "17894772798414924",
     "kind": "post",
-    "note": "publicado manualmente no teste do agendador local, antes da data prevista"
+    "published_at": "2026-09-30T22:23:49-03:00"
+  },
+  "s-2026-09-30-post": {
+    "ig_media_id": "18104117549353977",
+    "kind": "story",
+    "published_at": "2026-09-30T22:23:36-03:00"
   }
 }
