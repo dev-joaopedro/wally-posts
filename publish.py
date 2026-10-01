@@ -29,6 +29,9 @@ LOOKBACK = timedelta(hours=3)
 # Teto por execucao, como rede de seguranca contra um erro de dados.
 MAX_PER_RUN = 5
 
+# Tempo maximo esperando o Instagram processar a imagem do container.
+CONTAINER_TIMEOUT = 120
+
 ROOT = Path(__file__).parent
 PUBLISHED_FILE = ROOT / "published.json"
 
@@ -93,8 +96,30 @@ def collect_forced(ids):
     return forced
 
 
+def wait_ready(creation_id, token, timeout=CONTAINER_TIMEOUT):
+    """Espera o container ficar FINISHED.
+
+    Publicar logo apos criar o container devolve o erro 9007 ("media is not ready
+    for publishing"): o Instagram ainda esta baixando e processando a imagem.
+    """
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        r = requests.get(
+            f"{API_BASE}/{creation_id}",
+            params={"fields": "status_code", "access_token": token},
+            timeout=30,
+        )
+        status = r.json().get("status_code")
+        if status == "FINISHED":
+            return
+        if status in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"container {creation_id} terminou como {status}")
+        time.sleep(3)
+    raise RuntimeError(f"container {creation_id} nao ficou pronto em {timeout}s")
+
+
 def publish(item, ig_user_id, token):
-    """Cria o container e publica. Retorna o media id do Instagram."""
+    """Cria o container, espera ficar pronto e publica. Retorna o media id."""
     params = {"access_token": token, "image_url": item["image_url"]}
     if item["kind"] == "story":
         params["media_type"] = "STORIES"
@@ -106,6 +131,8 @@ def publish(item, ig_user_id, token):
     if "id" not in body:
         raise RuntimeError(f"falha ao criar container: {body}")
     creation_id = body["id"]
+
+    wait_ready(creation_id, token)
 
     r = requests.post(
         f"{API_BASE}/{ig_user_id}/media_publish",
