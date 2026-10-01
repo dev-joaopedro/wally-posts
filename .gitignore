@@ -1,3 +1,5 @@
 img/
 __pycache__/
 perfil/*.png
+video/frames/
+video/sheet.jpg
