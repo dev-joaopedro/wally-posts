@@ -9,6 +9,7 @@ JSONs e publica na hora marcada, sem depender de nenhuma máquina ligada.
 - `posts/` — artes do feed (1080×1350). **Não apague nem renomeie**: as publicações apontam para esses links.
 - `stories/` — artes dos stories (1080×1920).
 - `posts.json` — data, template, arte e legenda de cada post. Posts saem às **12:00** (horário de São Paulo).
+- `posts-extra.json` — posts avulsos no mesmo formato (000a em 02/10 e 000b em 05/10), publicados junto com os do `posts.json`. O 001 foi adiantado e publicado à mão em 30/09.
 - `stories.json` — data, **horário** e arte de cada story.
 - `published.json` — o que já foi publicado, gravado pelo próprio workflow. Serve para não repetir post.
 - `tools/` — conteúdo (`q1.py` a `q4.py`) e geradores das artes (`build.py`, `render.py`, `build_stories.py`).

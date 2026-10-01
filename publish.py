@@ -49,7 +49,10 @@ def scheduled_at(date_str, time_str):
 
 def all_items():
     """Normaliza posts e stories num formato unico."""
-    for p in load_json(ROOT / "posts.json", []):
+    # posts-extra.json tem os posts avulsos (000a, 000b) que preenchem a grade
+    # entre o 001, adiantado para 30/09, e o 002, em 07/10.
+    posts = load_json(ROOT / "posts.json", []) + load_json(ROOT / "posts-extra.json", [])
+    for p in posts:
         yield {
             "id": p["id"],
             "kind": "post",
