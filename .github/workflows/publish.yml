@@ -30,7 +30,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      # tzdata explicito: sem ele o zoneinfo depende da base de fusos do SO,
+      # que nem toda plataforma tem.
+      - run: pip install requests tzdata
 
       - name: Publicar itens vencidos
         env:
