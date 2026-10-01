@@ -1,0 +1,46 @@
+name: Renovar token do Instagram
+
+on:
+  schedule:
+    # Dia 1 de cada mes. O token vale 60 dias, entao mensal da margem de sobra
+    # para uma execucao falhar sem que o agendamento pare.
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests pynacl
+
+      - name: Renovar e gravar o novo token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python refresh_token.py
+
+      - name: Avisar em caso de falha
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Falha ao renovar o token do Instagram" \
+            --body "A renovacao automatica falhou em $(date -u +%Y-%m-%d).
+
+          O token vale 60 dias. Se ninguem renovar, **as publicacoes vao parar**.
+
+          Para resolver na mao: gere um token novo no painel da Meta (API do Instagram
+          -> Gerar tokens de acesso) e atualize o secret \`IG_ACCESS_TOKEN\` em
+          Settings -> Secrets and variables -> Actions.
+
+          Log da execucao: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"

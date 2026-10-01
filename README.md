@@ -1,9 +1,49 @@
 # wally-posts
 
-Artes e legendas dos posts do Instagram [@wally_financeiro](https://instagram.com/wally_financeiro), de 05/10/2026 a 01/10/2027 (seg, qua e sex).
+Artes e legendas do Instagram [@wally_financeiro](https://instagram.com/wally_financeiro), de
+05/10/2026 a 01/10/2027. O próprio repositório é o agendador: um workflow do GitHub Actions lê os
+JSONs e publica na hora marcada, sem depender de nenhuma máquina ligada.
 
-- `posts/` — as imagens (1080×1350) que o Metricool publica. **Não apague nem renomeie**: os posts agendados apontam para esses links.
-- `posts.json` — data, template, arte e legenda de cada post.
-- `tools/` — conteúdo (`q1.py` a `q4.py`) e o gerador das artes (`build.py`, `render.py`).
+## Conteúdo
 
-Para mudar um post: edite o `q*.py`, rode `python3 tools/build.py && python3 tools/render.py <id>` e converta o PNG em `posts/<id>.jpg`.
+- `posts/` — artes do feed (1080×1350). **Não apague nem renomeie**: as publicações apontam para esses links.
+- `stories/` — artes dos stories (1080×1920).
+- `posts.json` — data, template, arte e legenda de cada post. Posts saem às **12:00** (horário de São Paulo).
+- `stories.json` — data, **horário** e arte de cada story.
+- `published.json` — o que já foi publicado, gravado pelo próprio workflow. Serve para não repetir post.
+- `tools/` — conteúdo (`q1.py` a `q4.py`) e geradores das artes (`build.py`, `render.py`, `build_stories.py`).
+
+Para mudar um post: edite o `q*.py`, rode `python3 tools/build.py && python3 tools/render.py <id>` e
+converta o PNG em `posts/<id>.jpg`.
+
+## Publicação automática
+
+`publish.py` roda a cada 30 minutos pelo Actions. Ele publica o que já venceu e ainda não está no
+`published.json`, e grava o resultado de volta no repositório.
+
+Itens atrasados mais de **3 horas são ignorados** de propósito: se o workflow ficar quebrado por
+dias, ninguém quer que ele despeje uma semana de stories de uma vez ao voltar.
+
+### Configuração (uma vez)
+
+Em *Settings → Secrets and variables → Actions*, crie:
+
+| Secret | O que é |
+| ------ | ------- |
+| `IG_ACCESS_TOKEN` | Token da conta. No painel da Meta: *API do Instagram → Gerar tokens de acesso → Gerar token*. |
+| `IG_USER_ID` | ID da conta do Instagram (`17841427529757454`). |
+| `GH_PAT` | PAT fine-grained com permissão **Secrets: read and write** neste repositório. Só é usado para renovar o token. |
+
+Depois, em *Actions → Publicar no Instagram → Run workflow*, marque **Simular sem publicar** para
+conferir o que ele faria antes de deixar no automático.
+
+### Token
+
+O token do Instagram expira em **60 dias**. O workflow `Renovar token do Instagram` roda todo dia 1
+e grava o token novo no secret sozinho. Se falhar, ele abre uma issue avisando — se ninguém renovar,
+as publicações param.
+
+### Limites
+
+A API do Instagram aceita 100 publicações por 24h; a grade usa no máximo 5 por dia. Stories via API
+não suportam legenda, figurinhas, música nem enquete — só a imagem.

@@ -1,0 +1,61 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    # A cada 30 min. O script sai imediatamente quando nao ha nada vencido, e a
+    # janela de LOOKBACK dele absorve os atrasos tipicos do cron do Actions.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simular sem publicar"
+        type: boolean
+        default: false
+
+# Duas execucoes simultaneas poderiam publicar o mesmo item duas vezes.
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Publicar itens vencidos
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: python publish.py
+
+      - name: Registrar o que foi publicado
+        if: always()
+        run: |
+          if [[ -z "$(git status --porcelain published.json)" ]]; then
+            echo "nada novo publicado"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add published.json
+          git commit -m "Registra publicacoes [skip ci]"
+          # Se este push falhar, o item ja foi publicado no Instagram mas o registro
+          # se perde, e a proxima execucao publicaria de novo. Por isso insiste.
+          for tentativa in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push falhou (tentativa $tentativa), tentando de novo em 10s"
+            sleep 10
+          done
+          echo "::error::Nao foi possivel gravar published.json. Risco de republicacao!"
+          exit 1
