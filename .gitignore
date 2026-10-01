@@ -3,3 +3,6 @@ __pycache__/
 perfil/*.png
 video/frames/
 video/sheet.jpg
+video/frames2/
+video/chk*.jpg
+video/sheet2.jpg
