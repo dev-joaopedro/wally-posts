@@ -28,7 +28,13 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
+      # ref: main busca a versao mais recente na hora em que o job comeca. Sem
+      # isso, uma execucao que ficou na fila (concurrency) usaria o commit do
+      # momento do disparo, com um published.json antigo, e republicaria o que
+      # a execucao anterior acabou de publicar.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
