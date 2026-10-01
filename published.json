@@ -1,12 +1,8 @@
 {
-  "001-2026-10-05": {
-    "ig_media_id": "17894772798414924",
-    "kind": "post",
-    "published_at": "2026-09-30T22:23:49-03:00"
-  },
   "s-2026-09-30-post": {
     "ig_media_id": "18104117549353977",
     "kind": "story",
-    "published_at": "2026-09-30T22:23:36-03:00"
+    "published_at": "2026-09-30T22:23:36-03:00",
+    "note": "story orfao da grade antiga, usado no teste de integracao e apagado do Instagram depois"
   }
 }
