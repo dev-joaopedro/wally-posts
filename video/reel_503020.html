@@ -1,0 +1,56 @@
+<!doctype html><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+body{font-family:'Geist',sans-serif;font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased;background:#0E1A33;color:#fff}
+.glow{position:absolute;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(circle,rgba(42,91,215,.5),transparent 66%)}
+.top{position:absolute;left:84px;top:84px;display:flex;align-items:center;gap:16px;font-size:44px;font-weight:600;letter-spacing:-.03em}
+.logo{width:64px;height:64px;border-radius:16px;background:#2A5BD7;display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:700}
+.abs{position:absolute;left:84px;right:84px}
+.tag{display:inline-block;padding:14px 26px;border-radius:99px;font-size:30px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;background:rgba(255,255,255,.08);color:#BFD0F7;border:1.5px solid rgba(191,208,247,.3)}
+h1{font-size:132px;line-height:1.02;font-weight:600;letter-spacing:-.045em}h1 em{font-style:normal;color:#93AEF0;white-space:nowrap}
+.sub{font-size:48px;line-height:1.4;color:#A3B1CC}
+#sal{font-size:210px;font-weight:600;letter-spacing:-.06em;line-height:1}
+.bar{display:flex;height:70px;border-radius:35px;overflow:hidden;gap:6px}
+.bar div{height:100%;border-radius:12px}
+.row{display:flex;align-items:center;gap:24px;background:rgba(255,255,255,.06);border:1.5px solid rgba(191,208,247,.18);border-radius:36px;padding:38px 44px}
+.pc{font-size:92px;font-weight:600;letter-spacing:-.05em;width:210px;flex:none}
+.rt .n{font-size:44px;font-weight:600;letter-spacing:-.03em}.rt .d{font-size:30px;color:#A3B1CC;margin-top:6px}
+.am{margin-left:auto;white-space:nowrap;font-size:54px;font-weight:600;letter-spacing:-.04em}
+.cta{display:inline-block;font-size:48px;font-weight:600;padding:30px 48px;border-radius:99px;background:#2A5BD7}
+</style>
+<div class="glow" id="g"></div>
+<div class="top"><div class="logo">W</div>Wally</div>
+<div class="abs" id="s1" style="top:520px"><div class="tag">Dica rápida</div><h1 style="margin-top:44px">Como dividir seu salário <em>sem planilha.</em></h1></div>
+<div class="abs" id="s2" style="top:380px">
+  <div class="sub" id="l1">Seu salário</div><div id="sal">R$ 0</div>
+  <div class="bar" id="bar" style="margin-top:56px"><div id="b1" style="background:#2A5BD7"></div><div id="b2" style="background:#93AEF0"></div><div id="b3" style="background:#fff"></div></div>
+  <div style="display:flex;flex-direction:column;gap:26px;margin-top:70px">
+   <div class="row" id="r1"><div class="pc" style="color:#6F95F0">50%</div><div class="rt"><div class="n">Essenciais</div><div class="d">Moradia, mercado, contas</div></div><div class="am" id="a1">R$ 0</div></div>
+   <div class="row" id="r2"><div class="pc" style="color:#93AEF0">30%</div><div class="rt"><div class="n">Desejos</div><div class="d">Lazer, compras, delivery</div></div><div class="am" id="a2">R$ 0</div></div>
+   <div class="row" id="r3"><div class="pc" style="color:#fff">20%</div><div class="rt"><div class="n">Futuro</div><div class="d">Reserva e metas</div></div><div class="am" id="a3">R$ 0</div></div>
+  </div>
+  <div class="sub" id="note" style="margin-top:50px;font-size:42px">É um ponto de partida. Ajuste à sua realidade.</div>
+</div>
+<div class="abs" id="s3" style="top:600px"><h1>Acompanhe cada categoria no <em>Wally.</em></h1><div class="sub" style="margin-top:40px">Crie sua conta grátis. Link na bio.</div><div class="cta" style="margin-top:50px">@wally_financeiro</div></div>
+<script>
+const $=id=>document.getElementById(id),cl=x=>Math.max(0,Math.min(1,x));
+const eo=x=>1-Math.pow(1-cl(x),4), io=x=>{x=cl(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
+const sg=(t,a,b)=>cl((t-a)/(b-a));
+const R=v=>'R$ '+Math.round(v).toLocaleString('pt-BR');
+function show(el,t,a,out){const k=eo(sg(t,a,a+.9)),o=out?1-io(sg(t,out,out+.6)):1;el.style.opacity=k*o;el.style.transform=`translateY(${(1-k)*70}px)`}
+function render(t){
+  $('g').style.left=(500+Math.sin(t*.5)*120)+'px';$('g').style.top=(-300+Math.cos(t*.4)*90)+'px';
+  // s1: 0.2-3.4
+  const o1=1-io(sg(t,3.1,3.7));$('s1').style.opacity=eo(sg(t,.2,1.1))*o1;$('s1').style.transform=`translateY(${(1-eo(sg(t,.2,1.1)))*70 - io(sg(t,3.1,3.7))*60}px)`;
+  // s2: from 3.6 to 12.2
+  const o2=io(sg(t,3.6,4.2))*(1-io(sg(t,12.0,12.6)));$('s2').style.opacity=o2;$('s2').style.transform=`translateY(${(1-eo(sg(t,3.6,4.4)))*60-io(sg(t,12.0,12.6))*60}px)`;
+  const sv=eo(sg(t,4.0,5.2))*4000;$('sal').textContent=R(sv);
+  const w=eo(sg(t,5.0,6.2));
+  $('b1').style.width=(w*50)+'%';$('b2').style.width=(w*30)+'%';$('b3').style.width=(w*20)+'%';
+  [[6.2,'r1','a1',2000],[7.2,'r2','a2',1200],[8.2,'r3','a3',800]].forEach(([a,r,m,v])=>{
+    const k=eo(sg(t,a,a+.8));$(r).style.opacity=k;$(r).style.transform=`translateX(${(1-k)*90}px)`;$(m).textContent=R(eo(sg(t,a+.2,a+1.4))*v)});
+  const nk=eo(sg(t,9.6,10.4));$('note').style.opacity=nk;
+  // s3
+  const k3=eo(sg(t,12.8,13.8));$('s3').style.opacity=k3;$('s3').style.transform=`translateY(${(1-k3)*60}px)`;
+}
+</script>
