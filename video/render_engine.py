@@ -1,7 +1,7 @@
 import subprocess,pathlib,sys,json,shutil
 from playwright.sync_api import sync_playwright
 sys.path.insert(0,str(pathlib.Path(__file__).parent))
-import music2 as music
+import music3 as music
 D=pathlib.Path(__file__).parent;FPS=30
 def make(spec,out,only=None):
     F=D/'frames_e';shutil.rmtree(F,ignore_errors=True);F.mkdir()
@@ -16,6 +16,6 @@ def make(spec,out,only=None):
         for i in range(int(FPS*total)):
             pg.evaluate(f'render({i/FPS})');pg.screenshot(path=str(F/f'f{i:04d}.jpg'),type='jpeg',quality=90)
         b.close()
-    wav=D/f'trilha_{spec["id"]}.wav';music.gen(str(wav),total,seed=spec['seed'],bpm=spec['bpm'])
+    wav=D/f'trilha_{spec["id"]}.wav';from trilhas import STYLE; music.gen(str(wav),total,STYLE.get(spec["id"],"bright"),int(spec["id"][1:3]))
     subprocess.run(['ffmpeg','-y','-loglevel','error','-framerate',str(FPS),'-i',str(F/'f%04d.jpg'),'-i',str(wav),'-c:v','libx264','-pix_fmt','yuv420p','-crf','19','-c:a','aac','-b:a','160k','-shortest','-movflags','+faststart',out],check=True)
     wav.unlink();shutil.rmtree(F,ignore_errors=True);return total
