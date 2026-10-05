@@ -10,6 +10,8 @@ JSONs e publica na hora marcada, sem depender de nenhuma máquina ligada.
 - `stories/` — artes dos stories (1080×1920).
 - `posts.json` — data, template, arte e legenda de cada post. Posts saem às **12:00** (horário de São Paulo).
 - `posts-extra.json` — posts avulsos no mesmo formato (000a em 02/10 e 000b em 05/10), publicados junto com os do `posts.json`. O 001 foi adiantado e publicado à mão em 30/09.
+- `reels/` — Reels em vídeo (1080×1920, MP4 H.264 + AAC), já com a trilha original embutida. **Não apague nem renomeie**: a publicação aponta para esses links.
+- `reels.json` — data, horário (19:00, terça e quinta) e legenda de cada Reel. Os vídeos são gerados por `video/engine.html`, `video/reels_spec.py` e `video/render_engine.py` (as músicas, por `video/music.py`).
 - `stories.json` — data, **horário** e arte de cada story.
 - `published.json` — o que já foi publicado, gravado pelo próprio workflow. Serve para não repetir post.
 - `tools/` — conteúdo (`q1.py` a `q4.py`) e geradores das artes (`build.py`, `render.py`, `build_stories.py`).

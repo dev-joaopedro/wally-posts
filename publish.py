@@ -31,6 +31,7 @@ MAX_PER_RUN = 5
 
 # Tempo maximo esperando o Instagram processar a imagem do container.
 CONTAINER_TIMEOUT = 120
+REEL_TIMEOUT = 600
 
 ROOT = Path(__file__).parent
 PUBLISHED_FILE = ROOT / "published.json"
@@ -59,6 +60,16 @@ def all_items():
             "when": scheduled_at(p["d"], POST_TIME),
             "image_url": f"{REPO_RAW_BASE}/posts/{p['id']}.jpg",
             "caption": p.get("caption", ""),
+        }
+
+    # Reels: video em reels/<id>.mp4 (com a trilha ja embutida), horario proprio.
+    for r in load_json(ROOT / "reels.json", []):
+        yield {
+            "id": r["id"],
+            "kind": "reel",
+            "when": scheduled_at(r["d"], r.get("time", "19:00:00")),
+            "video_url": f"{REPO_RAW_BASE}/reels/{r['id']}.mp4",
+            "caption": r.get("caption", ""),
         }
 
     for s in load_json(ROOT / "stories.json", []):
@@ -123,11 +134,20 @@ def wait_ready(creation_id, token, timeout=CONTAINER_TIMEOUT):
 
 def publish(item, ig_user_id, token):
     """Cria o container, espera ficar pronto e publica. Retorna o media id."""
-    params = {"access_token": token, "image_url": item["image_url"]}
-    if item["kind"] == "story":
-        params["media_type"] = "STORIES"
-    elif item["caption"]:
-        params["caption"] = item["caption"]
+    if item["kind"] == "reel":
+        params = {
+            "access_token": token,
+            "media_type": "REELS",
+            "video_url": item["video_url"],
+            "caption": item["caption"],
+            "share_to_feed": "true",
+        }
+    else:
+        params = {"access_token": token, "image_url": item["image_url"]}
+        if item["kind"] == "story":
+            params["media_type"] = "STORIES"
+        elif item["caption"]:
+            params["caption"] = item["caption"]
 
     r = requests.post(f"{API_BASE}/{ig_user_id}/media", data=params, timeout=60)
     body = r.json()
@@ -135,7 +155,8 @@ def publish(item, ig_user_id, token):
         raise RuntimeError(f"falha ao criar container: {body}")
     creation_id = body["id"]
 
-    wait_ready(creation_id, token)
+    # Video demora mais para processar que imagem.
+    wait_ready(creation_id, token, timeout=REEL_TIMEOUT if item["kind"] == "reel" else CONTAINER_TIMEOUT)
 
     r = requests.post(
         f"{API_BASE}/{ig_user_id}/media_publish",
