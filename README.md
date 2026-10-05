@@ -4,6 +4,12 @@ Artes e legendas do Instagram [@wally_financeiro](https://instagram.com/wally_fi
 05/10/2026 a 01/10/2027. O próprio repositório é o agendador: um workflow do GitHub Actions lê os
 JSONs e publica na hora marcada, sem depender de nenhuma máquina ligada.
 
+> **Desde 05/10/2026 a publicação não é mais feita por aqui.** Os itens foram importados para o
+> agendador `posts_automatic`, que publica a partir dos mesmos links. Os workflows foram movidos para
+> `.github/workflows-desativados/` e não rodam mais; o `published.json` deixou de ser atualizado. As
+> seções sobre o Actions abaixo ficam só como histórico. As artes e vídeos continuam sendo servidos
+> daqui: **não apague nem renomeie** os arquivos de `posts/`, `reels/` e `stories/`.
+
 ## Conteúdo
 
 - `posts/` — artes do feed (1080×1350). **Não apague nem renomeie**: as publicações apontam para esses links.
