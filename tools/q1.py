@@ -8,7 +8,7 @@ P("2026-10-05", "frase", "Prazer, Wally",
 Nasci para resolver um problema que quase todo mundo tem: saber para onde o dinheiro está indo sem perder horas com planilhas.
 
 Comigo funciona assim:
-💬 Você manda uma mensagem no Telegram, tipo "gastei 35 no almoço"
+💬 Você manda uma mensagem no WhatsApp, tipo "gastei 35 no almoço"
 🤖 A IA entende, categoriza e registra na hora
 📊 Tudo aparece no seu painel, com gráficos, orçamentos e metas
 
@@ -22,7 +22,7 @@ sub="Conheça o Wally: o app que organiza suas finanças a partir de uma simples
 P("2026-10-07", "chat", "Wally na prática",
 """Registrar um gasto nunca foi tão rápido. ⚡
 
-Nada de abrir app, escolher categoria e preencher formulário. No Wally você só manda uma mensagem no Telegram, do jeito que você falaria com um amigo:
+Nada de abrir app, escolher categoria e preencher formulário. No Wally você só manda uma mensagem no WhatsApp, do jeito que você falaria com um amigo:
 
 💬 "Gastei 35 reais no almoço"
 💬 "Recebi 2200 de freela hoje"
@@ -31,7 +31,7 @@ A IA entende o valor, identifica se é gasto ou receita, escolhe a categoria e s
 
 Menos de 5 segundos por lançamento. Assim fica fácil manter o controle todo dia.
 
-O bot do Telegram faz parte do plano Pro.
+O bot do WhatsApp faz parte do plano Pro.
 """ + LINK, ["app", "org"],
 title="Mandou, _registrou._",
 msgs=[("u", "Gastei 35 reais no almoço"),
@@ -81,7 +81,7 @@ P("2026-10-14", "dica", "Primeiros passos",
 
 1️⃣ Crie sua conta grátis. Não pede cartão de crédito.
 2️⃣ Cadastre sua conta ou cartão principal.
-3️⃣ Registre seu primeiro gasto, pelo app ou pelo Telegram no plano Pro.
+3️⃣ Registre seu primeiro gasto, pelo app ou pelo WhatsApp no plano Pro.
 
 Pronto! A partir daí o Wally organiza tudo em categorias e mostra no painel para onde está indo o seu dinheiro.
 
@@ -167,7 +167,7 @@ Eles são pequenos, frequentes e passam despercebidos:
 
 Um bom exercício: registre tudo durante 30 dias, até os gastos de R$ 5. No fim do mês, olhe as categorias e veja o que te surpreendeu.
 
-Com o Wally no Telegram, registrar um cafezinho leva 3 segundos. ☕
+Com o Wally no WhatsApp, registrar um cafezinho leva 3 segundos. ☕
 
 """ + SALVE, ["econ", "org"],
 title="5 gastos _invisíveis_ que pesam no mês",
@@ -253,7 +253,7 @@ P("2026-11-06", "cta", "Plano Pro",
 """Conheça o Wally Pro. 💙
 
 Por R$ 19,90 por mês você desbloqueia tudo:
-🤖 Bot com IA no Telegram, para registrar gastos por mensagem
+🤖 Bot com IA no WhatsApp, para registrar gastos por mensagem
 💳 Várias contas e cartões numa visão só
 📊 Relatórios avançados
 📥 Exportação para Excel, uma mão na roda no Imposto de Renda
@@ -265,7 +265,7 @@ Se assinar e desistir em até 7 dias, o cancelamento é imediato.
 """ + LINK, ["app", "org"],
 title="Tudo o que o Wally faz, _por R$ 19,90._",
 price=True,
-feats=["Bot com IA no Telegram", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
+feats=["Bot com IA no WhatsApp", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
 button="Assinar o Pro"),
 
 P("2026-11-09", "dica", "Black Friday",
@@ -444,7 +444,7 @@ items=["**Quite dívidas** com juros altos, como cartão e cheque especial",
 P("2026-12-02", "chat", "Wally na prática",
 """13º na conta? Registre em 2 segundos. 💰
 
-Mande para o Wally no Telegram:
+Mande para o Wally no WhatsApp:
 💬 "Recebi o 13º 2500"
 
 Pronto, a receita já está registrada. E se quiser ver como está o mês, é só mandar /saldo.

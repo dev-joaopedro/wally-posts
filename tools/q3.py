@@ -48,7 +48,7 @@ P("2027-04-07", "chat", "Wally na prática",
 
 Freelancers, autônomos e quem tem uma renda extra sabem: o dinheiro entra em dias diferentes, de clientes diferentes.
 
-No Telegram, é só mandar:
+No WhatsApp, é só mandar:
 💬 "Recebi 800 do projeto do site"
 💬 "Recebi 350 de aula particular"
 
@@ -98,14 +98,14 @@ P("2027-04-14", "dica", "Wally na prática",
 
 Quando você define um limite para uma categoria:
 🟦 A barra enche conforme você gasta
-🔔 Passou de 80% do limite? O Wally te avisa no Telegram
+🔔 Passou de 80% do limite? O Wally te avisa no WhatsApp
 🟥 Passou do limite? A barra fica vermelha
 
 Assim você corrige a rota no meio do mês, e não só quando já é tarde. 😉
 """ + LINK, ["org", "app"],
 title="Um aviso _antes de estourar._",
 items=["A barra **enche** conforme você gasta",
-       "Passou de **80%**? O Wally **te avisa** no Telegram",
+       "Passou de **80%**? O Wally **te avisa** no WhatsApp",
        "Passou do limite? A barra **fica vermelha**"]),
 
 P("2027-04-16", "frase", "Pra pensar",
@@ -421,7 +421,7 @@ P("2027-05-31", "dica", "Hábitos",
 4️⃣ Reserve 5 minutos por semana para revisar
 5️⃣ Comemore as pequenas vitórias
 
-Com o Wally no Telegram, registrar é tão fácil quanto mandar uma mensagem. Fica difícil esquecer. 😉
+Com o Wally no WhatsApp, registrar é tão fácil quanto mandar uma mensagem. Fica difícil esquecer. 😉
 
 """ + SALVE, ["vida", "org"],
 title="Como criar o hábito de _registrar os gastos_",
@@ -438,7 +438,7 @@ Você manda a mensagem e, em segundos, a despesa ou receita está registrada, ca
 
 Sem formulário, sem abrir app, sem esquecer. 💬
 
-O bot do Telegram faz parte do plano Pro.
+O bot do WhatsApp faz parte do plano Pro.
 """ + LINK, ["app", "org"],
 title="O bot _em ação._",
 img="telegram", w=860),
@@ -476,7 +476,7 @@ items=["**Jantar especial** feito em casa",
 P("2027-06-09", "chat", "Wally na prática",
 """O Wally fica de olho nos seus orçamentos por você. 🔔
 
-Todo dia de manhã, ele confere suas categorias e, se alguma passar de 80% do limite, te avisa no Telegram:
+Todo dia de manhã, ele confere suas categorias e, se alguma passar de 80% do limite, te avisa no WhatsApp:
 
 ⚠️ Seu orçamento de Lazer está em 92% do limite.
 
@@ -579,7 +579,7 @@ No Wally:
 3️⃣ Registre cada depósito que fizer
 4️⃣ Acompanhe a barra de progresso chegando a 100%
 
-E durante a viagem, registre os gastos pelo Telegram para saber exatamente quanto ela custou. 🏖️
+E durante a viagem, registre os gastos pelo WhatsApp para saber exatamente quanto ela custou. 🏖️
 """ + LINK, ["meta", "app"],
 title="A viagem dos sonhos _vira meta._",
 items=["Crie a meta **Viagem de férias**",

@@ -471,7 +471,7 @@ P("2027-09-08", "comp", "Planos",
 
 💙 PRO, R$ 19,90 por mês
 ✅ Tudo do grátis
-✅ Bot com IA no Telegram
+✅ Bot com IA no WhatsApp
 ✅ Várias contas e cartões
 ✅ Relatórios avançados
 ✅ Exportação para Excel
@@ -482,7 +482,7 @@ Comece grátis e faça o upgrade quando sentir falta de algo. 😉
 title="Grátis _ou_ Pro?",
 left_ok=True,
 left=("Grátis", ["Painel completo", "Histórico", "Relatórios básicos", "1 conta ou cartão"]),
-right=("Pro · R$ 19,90", ["Bot com IA no Telegram", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"])),
+right=("Pro · R$ 19,90", ["Bot com IA no WhatsApp", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"])),
 
 P("2027-09-10", "frase", "Pra pensar",
 """Pergunta para a comunidade: 💬
@@ -535,7 +535,7 @@ sub="Tem uma sugestão? Deixa nos comentários. A gente lê tudo!"),
 P("2027-09-17", "destaque", "Wally na prática",
 """5 segundos. ⚡
 
-É o tempo que leva para registrar um gasto no Wally pelo Telegram.
+É o tempo que leva para registrar um gasto no Wally pelo WhatsApp.
 
 Menos tempo do que para desbloquear o celular, abrir um app, achar o formulário e escolher a categoria.
 
@@ -614,7 +614,7 @@ P("2027-09-29", "cta", "Plano Pro",
 """O fim do ano é a época em que mais vale a pena ter tudo sob controle. 🎯
 
 Com o Wally Pro:
-🤖 Registre cada gasto por mensagem no Telegram
+🤖 Registre cada gasto por mensagem no WhatsApp
 💳 Controle todos os cartões e as faturas de fim de ano
 📊 Acompanhe tudo em relatórios avançados
 📥 Exporte para Excel quando quiser
@@ -623,7 +623,7 @@ Tudo por R$ 19,90 por mês. Se desistir em até 7 dias, o cancelamento é imedia
 """ + LINK, ["app", "org"],
 title="Chegue ao fim do ano _com tudo sob controle._",
 price=True,
-feats=["Bot com IA no Telegram", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
+feats=["Bot com IA no WhatsApp", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
 button="Assinar o Pro"),
 
 P("2027-10-01", "frase", "Um ano juntos",

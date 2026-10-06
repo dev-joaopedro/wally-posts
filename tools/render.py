@@ -185,18 +185,20 @@ T = dict(dica=t_dica, destaque=t_destaque, frase=t_frase, chat=t_chat, tela=t_te
          mito=t_mito, comp=t_comp, cta=t_cta)
 
 def page(inner):
-    return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>{inner}</body></html>'
+    return f'<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet"><style>{CSS}</style></head><body>{inner}</body></html>'
 
 def main():
-    posts = json.loads((ROOT / "posts.json").read_text()) + (json.loads((ROOT / "posts-extra.json").read_text()) if (ROOT / "posts-extra.json").exists() else [])
+    posts = json.loads((ROOT / "posts.json").read_text(encoding="utf-8")) + (json.loads((ROOT / "posts-extra.json").read_text(encoding="utf-8")) if (ROOT / "posts-extra.json").exists() else [])
     only = set(sys.argv[1:])
     out = ROOT / "img"  # PNGs; convertidos para posts/*.jpg; out.mkdir(exist_ok=True)
     with sync_playwright() as pw:
-        b = pw.chromium.launch(executable_path="/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+        _exe = pathlib.Path("/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+        b = pw.chromium.launch(**({"executable_path": str(_exe)} if _exe.exists() else {}))
         pg = b.new_page(viewport={"width": 1080, "height": 1350})
         for p in posts:
             if only and p["id"] not in only: continue
             pg.set_content(page(T[p["t"]](p)), wait_until="load")
+            pg.evaluate("document.fonts.ready")
             pg.wait_for_timeout(60)
             # checagem de estouro: o corpo não pode passar do quadro
             over = pg.evaluate("document.querySelector('.body').scrollHeight > document.querySelector('.body').clientHeight + 2")

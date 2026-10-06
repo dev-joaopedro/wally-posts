@@ -4,7 +4,7 @@ H = {
     "base": "#wally #financaspessoais #educacaofinanceira",
     "org": "#organizacaofinanceira #controlefinanceiro #controledegastos",
     "econ": "#economizar #economia #dinheiro",
-    "app": "#appdefinancas #telegram #inteligenciaartificial",
+    "app": "#appdefinancas #whatsapp #inteligenciaartificial",
     "cartao": "#cartaodecredito #fatura #dividas",
     "reserva": "#reservadeemergencia #poupar #investimentos",
     "meta": "#metasfinanceiras #planejamentofinanceiro #objetivos",

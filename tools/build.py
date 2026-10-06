@@ -25,5 +25,5 @@ for i, p in enumerate(posts, 1):
     assert len(p["caption"]) <= 2200, (p["id"], len(p["caption"]))
     assert p["caption"].count("#") <= 30
 
-(ROOT / "posts.json").write_text(json.dumps(posts, ensure_ascii=False, indent=1))
+(ROOT / "posts.json").write_text(json.dumps(posts, ensure_ascii=False, indent=1), encoding="utf-8")
 print(len(posts), "posts;", "próxima data:", expected[len(posts)] if len(posts) < 156 else "-")

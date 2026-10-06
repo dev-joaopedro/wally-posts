@@ -524,7 +524,7 @@
   "time": "09:00:00"
  },
  {
-  "title": "Alerta de orçamento _no Telegram._",
+  "title": "Alerta de orçamento _no WhatsApp._",
   "sub": "Quando uma categoria chega a 80%.",
   "msgs": [
    [
@@ -1990,7 +1990,7 @@
   "t": "num",
   "tag": "Pra pensar",
   "big": "5s",
-  "text": "para registrar um gasto no Wally pelo Telegram.",
+  "text": "para registrar um gasto no Wally pelo WhatsApp.",
   "pre": "",
   "id": "s-2026-12-16-bonus",
   "d": "2026-12-16",
@@ -3514,7 +3514,7 @@
  },
  {
   "title": "Orçamento _perto do limite?_",
-  "sub": "O Wally te avisa no Telegram.",
+  "sub": "O Wally te avisa no WhatsApp.",
   "msgs": [
    [
     "wt",
@@ -4020,7 +4020,7 @@
  },
  {
   "title": "Seu painel, _atualizado na hora._",
-  "sub": "Registrou no Telegram, apareceu no painel.",
+  "sub": "Registrou no WhatsApp, apareceu no painel.",
   "img": "dash-top",
   "t": "app",
   "id": "s-2027-03-03-b16",
@@ -5498,7 +5498,7 @@
   "time": "20:00:00"
  },
  {
-  "title": "Dá para _editar pelo Telegram._",
+  "title": "Dá para _editar pelo WhatsApp._",
   "msgs": [
    [
     "u",
@@ -6066,7 +6066,7 @@
   "t": "num",
   "tag": "Pra pensar",
   "big": "80%",
-  "text": "do limite do orçamento? O Wally te avisa no Telegram.",
+  "text": "do limite do orçamento? O Wally te avisa no WhatsApp.",
   "pre": "",
   "id": "s-2027-05-25-bonus",
   "d": "2027-05-25",
@@ -6904,7 +6904,7 @@
   "t": "num",
   "tag": "Pra pensar",
   "big": "R$ 19,90",
-  "text": "por mês é o Wally Pro, com o bot de IA no Telegram.",
+  "text": "por mês é o Wally Pro, com o bot de IA no WhatsApp.",
   "pre": "",
   "id": "s-2027-06-25-bonus",
   "d": "2027-06-25",
@@ -7057,7 +7057,7 @@
   "t": "tip",
   "tag": "Férias",
   "title": "Férias chegando.",
-  "sub": "_Registre os gastos da viagem_ em tempo real pelo Telegram.",
+  "sub": "_Registre os gastos da viagem_ em tempo real pelo WhatsApp.",
   "id": "s-2027-07-01-bonus",
   "d": "2027-07-01",
   "time": "09:00:00"
@@ -7390,7 +7390,7 @@
  },
  {
   "title": "Pro: _R$ 19,90 por mês._",
-  "sub": "Bot com IA no Telegram, várias contas, relatórios avançados e Excel.",
+  "sub": "Bot com IA no WhatsApp, várias contas, relatórios avançados e Excel.",
   "t": "app",
   "id": "s-2027-07-14-bonus",
   "d": "2027-07-14",

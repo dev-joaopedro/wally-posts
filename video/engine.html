@@ -1,4 +1,4 @@
-<!doctype html><meta charset="utf-8"><style>
+<!doctype html><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet"><style>
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1920px;overflow:hidden}
 body{font-family:'Geist',sans-serif;font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased;background:#0E1A33;color:#fff}
@@ -36,7 +36,7 @@ function build(spec){
     if(s.type=='hook'){add(`<div class="tag${s.cls?' '+s.cls:''}">${s.tag||''}</div>`,.1);add(`<h1 class="${s.size||''}">${s.title}</h1>`,.35);if(s.sub)add(`<div class="sub">${s.sub}</div>`,1.0);d=s.dur||3.2}
     else if(s.type=='items'){add(`<div class="tag">${s.tag||'Dica'}</div>`,.1);add(`<h1 class="s">${s.title}</h1>`,.3);let a=1.3;s.items.forEach((it,k)=>{add(`<div class="row"><div class="n">${k+1}</div><div class="rt"><div class="t">${it[0]}</div><div class="d">${it[1]}</div></div></div>`,a);a+=1.5});d=a+1.2}
     else if(s.type=='myth'){add(`<div class="tag red">Mito</div>`,.1);add(`<h1 class="s myth" data-strike="${s.strikeAt||2.6}">${s.myth}</h1>`,.3);add(`<div class="tag grn">Verdade</div>`,3.0);add(`<h1 class="s">${s.truth}</h1>`,3.3);if(s.sub)add(`<div class="sub">${s.sub}</div>`,4.4);d=(s.sub?4.4:3.6)+2.6}
-    else if(s.type=='chat'){add(`<div class="tag">${s.tag||'Telegram'}</div>`,.1);add(`<h1 class="s">${s.title}</h1>`,.3);let a=1.4,inner='';
+    else if(s.type=='chat'){add(`<div class="tag">${s.tag||'WhatsApp'}</div>`,.1);add(`<h1 class="s">${s.title}</h1>`,.3);let a=1.4,inner='';
       s.msgs.forEach(m=>{if(m.u){inner+=`<div class="u" data-a="${a}" data-type="${m.u}" data-b="${a+.9}"></div>`;a+=1.3}else if(m.card){const c=m.card;inner+=`<div class="b" data-a="${a}"><div class="card"><div class="ic">${c.icon}</div><div><div class="nm">${c.name}</div><div class="ct">${c.cat}</div></div><div class="am ${c.inc?'g':'r'}">${c.inc?'+':'–'} R$ ${c.amt}</div></div></div>`;a+=1.4}else if(m.bot){inner+=`<div class="b" data-a="${a}" style="font-size:36px;line-height:1.5">${m.bot}</div>`;a+=m.t||1.9}else if(m.btns){inner+=`<div class="btns" data-a="${a}">${m.btns.map(b=>`<span>${b}</span>`).join('')}</div>`;a+=1.0}else if(m.sum){inner+=`<div class="b sum" data-a="${a}"><div class="t">📊 Resumo do mês</div>${m.sum.map(r=>`<div class="l ${r[2]||''}"><span>${r[0]}</span><b>${r[1]}</b></div>`).join('')}</div>`;a+=1.6}});
       h+=`<div class="panel">${inner}</div>`;d=a+.8}
     else if(s.type=='outro'){add(`<h1 class="m">${s.title}</h1>`,.2);add(`<div class="sub">${s.sub||'Crie sua conta grátis. Link na bio.'}</div>`,.9);add(`<div class="cta">@wally_financeiro</div>`,1.4);d=s.dur||3.6}

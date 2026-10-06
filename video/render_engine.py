@@ -6,7 +6,8 @@ D=pathlib.Path(__file__).parent;FPS=30
 def make(spec,out,only=None):
     F=D/'frames_e';shutil.rmtree(F,ignore_errors=True);F.mkdir()
     with sync_playwright() as p:
-        b=p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1194/chrome-linux/chrome')
+        _exe=pathlib.Path('/opt/pw-browsers/chromium-1194/chrome-linux/chrome')
+        b=p.chromium.launch(**({'executable_path':str(_exe)} if _exe.exists() else {}))
         pg=b.new_page(viewport={'width':1080,'height':1920});pg.on('pageerror',lambda e:print('ERR',e))
         pg.goto((D/'engine.html').as_uri());pg.wait_for_timeout(500)
         total=pg.evaluate(f'build({json.dumps(spec)})')

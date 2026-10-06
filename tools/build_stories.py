@@ -4,7 +4,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 import stories_content as C
 
-posts = json.load(open(ROOT / "posts.json")) + json.load(open(ROOT / "posts-extra.json"))
+posts = json.load(open(ROOT / "posts.json", encoding="utf-8")) + json.load(open(ROOT / "posts-extra.json", encoding="utf-8"))
 post_by_day = {p["d"]: p["id"] for p in posts}
 post_by_day["2026-09-30"] = "001-2026-10-05"   # post de apresentação, adiantado para hoje
 # o id 001 originalmente era 05/10; ali agora está o extra 000b
@@ -48,7 +48,7 @@ for day in days:
         b = dict(bonus[day]); b.update(id=f"s-{day}-bonus", d=day, time="17:31:00"); out.append(b)
     else:
         b = dict(bonus[day]); b.update(id=f"s-{day}-bonus", d=day, time="17:30:00"); out.append(b)
-json.dump(out, open(ROOT / "stories.json", "w"), ensure_ascii=False, indent=1)
+json.dump(out, open(ROOT / "stories.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(len(days), "dias;", len(out), "stories;", sum(1 for s in out if s["t"] == "post"), "de post;", len(seq), "bônus do pool usados de", sum(len(v) for v in pools.values()))
 
 # ---------------------------------------------------------------------------
@@ -137,5 +137,5 @@ for (d, sl), it in sorted(assign.items()):
     it.update(id=f"s-{d.isoformat()}-b{sl}", d=d.isoformat(), time=f"{sl}:00:00")
     out.append(it)
 out.sort(key=lambda s: (s["d"], s["time"]))
-json.dump(out, open(ROOT / "stories.json", "w"), ensure_ascii=False, indent=1)
+json.dump(out, open(ROOT / "stories.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("grade nova:", len(out), "stories no total;", len(assign), "novos")

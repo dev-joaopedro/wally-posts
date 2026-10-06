@@ -84,18 +84,20 @@ def s_app(s):
 T = dict(post=s_post, tip=s_tip, num=s_num, q=s_q, mito=s_mito, list=s_list, app=s_app)
 
 def page(inner):
-    return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>{inner}</body></html>'
+    return f'<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet"><style>{CSS}</style></head><body>{inner}</body></html>'
 
 def main():
-    stories = json.loads((ROOT / "stories.json").read_text())
+    stories = json.loads((ROOT / "stories.json").read_text(encoding="utf-8"))
     only = set(sys.argv[1:])
     out = ROOT / "img"; out.mkdir(exist_ok=True)
     with sync_playwright() as pw:
-        b = pw.chromium.launch(executable_path="/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+        _exe = pathlib.Path("/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+        b = pw.chromium.launch(**({"executable_path": str(_exe)} if _exe.exists() else {}))
         pg = b.new_page(viewport={"width": 1080, "height": 1920})
         for s in stories:
             if only and s["id"] not in only: continue
             pg.set_content(page(T[s["t"]](s)), wait_until="load")
+            pg.evaluate("document.fonts.ready")
             pg.wait_for_timeout(40)
             if pg.evaluate("document.querySelector('.body').scrollHeight > document.querySelector('.body').clientHeight + 2"):
                 print("ESTOURO:", s["id"])

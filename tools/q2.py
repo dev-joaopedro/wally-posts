@@ -91,7 +91,7 @@ items=["**Reaproveite** o que der do ano passado",
 P("2027-01-13", "chat", "Wally na prática",
 """Quer saber como está o mês? Pergunta para o Wally. 📊
 
-No Telegram, mande:
+No WhatsApp, mande:
 💬 /saldo para ver o resumo do mês atual
 💬 /saldo 12/2026 para ver um mês específico
 💬 /listar para ver e editar seus lançamentos
@@ -153,7 +153,7 @@ No Wally, todas as transações ficam organizadas com:
 
 E, do lado, o card Quanto posso gastar mostra o que ainda cabe no mês.
 
-Registrou pelo Telegram? Aparece aqui na hora. ⚡
+Registrou pelo WhatsApp? Aparece aqui na hora. ⚡
 """ + LINK, ["org", "app"],
 title="Cada gasto _no seu lugar._",
 sub="Transações organizadas e, ao lado, quanto ainda cabe no mês.",
@@ -423,7 +423,7 @@ img="comparacao", w=800),
 P("2027-02-26", "cta", "Plano Pro",
 """Já pensou em registrar seus gastos sem abrir nenhum app? 🤖
 
-Com o Wally Pro você manda uma mensagem no Telegram e pronto:
+Com o Wally Pro você manda uma mensagem no WhatsApp e pronto:
 💬 "mercado 187,40"
 ✅ Registrado e categorizado
 
@@ -437,7 +437,7 @@ Tudo por R$ 19,90 por mês. Se desistir em até 7 dias, o cancelamento é imedia
 """ + LINK, ["app", "org"],
 title="Registre gastos _sem abrir app nenhum._",
 price=True,
-feats=["Bot com IA no Telegram", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
+feats=["Bot com IA no WhatsApp", "Várias contas e cartões", "Relatórios avançados", "Exportação para Excel"],
 button="Assinar o Pro"),
 
 P("2027-03-01", "dica", "Imposto de Renda",
@@ -561,7 +561,7 @@ items=["Compra fora da loja física: **7 dias** para se arrepender",
 P("2027-03-17", "chat", "Wally na prática",
 """Registrou errado? Sem problema. ✏️
 
-No Telegram, mande /listar e o Wally mostra seus últimos lançamentos. Dali você escolhe qual quer editar ou apagar.
+No WhatsApp, mande /listar e o Wally mostra seus últimos lançamentos. Dali você escolhe qual quer editar ou apagar.
 
 Você também pode ver um mês específico:
 💬 /listar 02/2027
@@ -614,7 +614,7 @@ Pelo navegador do celular você tem o app completo:
 🧭 Menu na parte de baixo da tela, fácil de alcançar com o polegar
 🌙 Modo claro, escuro ou automático
 
-E, com o bot do Telegram, registrar um gasto é tão rápido quanto mandar uma mensagem.
+E, com o bot do WhatsApp, registrar um gasto é tão rápido quanto mandar uma mensagem.
 """ + LINK, ["app", "org"],
 title="O Wally _no seu bolso._",
 items=["Funciona completo no **navegador do celular**",
